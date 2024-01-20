@@ -1,3 +1,22 @@
+Package: com.roothide.patcher
+Version: 1.6
+Architecture: iphoneos-arm64e
+Maintainer: RootHide
+Installed-Size: 1476
+Depends: firmware (>= 15.0), odcctools, ldid, file, dpkg, gawk, plutil(>= 0.2.2-1), rsync
+Filename: ./debs/com.roothide.patcher_1.6_iphoneos-arm64e.deb
+Size: 670474
+MD5sum: c3a3167f254a7e6cd51930b67f751fb7
+SHA1: eee72b92cfe36f399af1793e07da5ea9ad942e9d
+SHA256: 633a5763bfcb989e2953f742fcb7614e3bfeb8a95782e24a8c0ca38b982f2a7d
+Section: Utilities
+Description: patch rootless package to roothide, not work for all packages.
+Author: RootHide
+Depiction: https://github.com/RootHide/RootHideManagerApp
+Icon: https://github.com/RootHide/RootHidePatcher/blob/master/derootifier-2-modified.png?raw=true
+Name: RootHide Patcher
+Support: https://github.com/RootHide/RootHideManagerApp
+
 Package: ellekit
 Version: 1.4.2
 Architecture: iphoneos-arm64e
