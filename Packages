@@ -1202,14 +1202,14 @@ Package: dev.traurige.liddell
 Version: 1.4.4
 Architecture: iphoneos-arm64e
 Maintainer: Nezuko
-Installed-Size: 708
+Installed-Size: 672
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, dev.traurige.libkitten (>= 1.3.3), com.mrgcgamer.libgcuniversal
 Conflicts: love.litten.liddell
 Filename: ./debs/dev.traurige.liddell_1.4.4_iphoneos-arm64e.deb
-Size: 90362
-MD5sum: 0972f998ed2c16e5ef229ffadbe6ea98
-SHA1: 605b724c9b96bdae308fe2c8ddcd8732e73d20ed
-SHA256: ae740074355fb210a8fca429e24a711eb82d6582f130049241a1718ce0a35f50
+Size: 84654
+MD5sum: 0e08f3147665ae3a1ff4be08d3533a44
+SHA1: 53ad78bd0f8c83ae1edc8fd4bc55cd02e686fc3b
+SHA256: 8982a7310af9d2ed6ae751ecccf25ad3d482e0ac5e336386b8523b592a8dfd77
 Section: Tweaks
 Description: Little and colorful notification banners
 Author: Traurige <hello@traurige.dev>
