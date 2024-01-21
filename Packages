@@ -676,6 +676,21 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
 Name: Waqt
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
 
+Package: com.peterdev.libpddokdo
+Version: 1.3.6
+Architecture: iphoneos-arm64e
+Maintainer: Nezuko
+Installed-Size: 200
+Filename: ./debs/com.peterdev.libpddokdo_1.3.6_iphoneos-arm64e.deb
+Size: 7330
+MD5sum: 5bf4ee5455eb22946adb41147ef95633
+SHA1: 15ea3a9bfef994e08bf8ffae58b3fb83eae13b7a
+SHA256: da24dd6e929f36d6c17fc3bd8927f5519ed31532be371634b8988da12d114990
+Section: Development
+Description: An awesome library to get current weather which provides by iOS Weater.app easily.
+Author: Soongyu Kwon
+Name: libPDDokdo
+
 Package: com.ps.cconandoff
 Version: 1.1.0
 Architecture: iphoneos-arm64e
@@ -1163,6 +1178,42 @@ Section: Tweaks
 Description: Live wallpapers for iOS
 Author: Traurige <hello@traurige.dev>
 Name: Eneko
+
+Package: dev.traurige.libkitten
+Version: 1.4.2
+Architecture: iphoneos-arm64e
+Maintainer: Nezuko
+Installed-Size: 200
+Depends: firmware (>= 12.0)
+Conflicts: love.litten.libkitten
+Provides: love.litten.libkitten (=1.3.3)
+Filename: ./debs/dev.traurige.libkitten_1.4.2_iphoneos-arm64e.deb
+Size: 8402
+MD5sum: e4f96abfafebbcf63a8a92824d65da0b
+SHA1: 6aec8ace57ee2a93d4f9eeb3bcabf0c6db8faf0e
+SHA256: dab70fcbad897b90410817d5f4da3481a9a3749394788b19e994da35122bba88
+Section: System
+Description: Collection of image and color calculations
+Tag: role::developer
+Author: Traurige <hello@traurige.dev>
+Name: libKitten
+
+Package: dev.traurige.liddell
+Version: 1.4.4
+Architecture: iphoneos-arm64e
+Maintainer: Nezuko
+Installed-Size: 708
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, dev.traurige.libkitten (>= 1.3.3), com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.liddell
+Filename: ./debs/dev.traurige.liddell_1.4.4_iphoneos-arm64e.deb
+Size: 90362
+MD5sum: 0972f998ed2c16e5ef229ffadbe6ea98
+SHA1: 605b724c9b96bdae308fe2c8ddcd8732e73d20ed
+SHA256: ae740074355fb210a8fca429e24a711eb82d6582f130049241a1718ce0a35f50
+Section: Tweaks
+Description: Little and colorful notification banners
+Author: Traurige <hello@traurige.dev>
+Name: Liddell
 
 Package: jp.dcsyhi.zetsurootfull
 Version: 1.1
