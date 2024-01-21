@@ -1183,15 +1183,15 @@ Package: dev.traurige.libkitten
 Version: 1.4.2
 Architecture: iphoneos-arm64e
 Maintainer: Nezuko
-Installed-Size: 200
-Depends: firmware (>= 12.0)
+Installed-Size: 164
+Depends: firmware (>= 15.0)
 Conflicts: love.litten.libkitten
 Provides: love.litten.libkitten (=1.3.3)
 Filename: ./debs/dev.traurige.libkitten_1.4.2_iphoneos-arm64e.deb
-Size: 8402
-MD5sum: e4f96abfafebbcf63a8a92824d65da0b
-SHA1: 6aec8ace57ee2a93d4f9eeb3bcabf0c6db8faf0e
-SHA256: dab70fcbad897b90410817d5f4da3481a9a3749394788b19e994da35122bba88
+Size: 6678
+MD5sum: 315aa53512dd9da45a5358fc14713a1a
+SHA1: f52cca76a842d0b2689de158c9b1104ca387e070
+SHA256: e3e400e440821087a75fd06427ef63d7377365b771f91c2dfbbd15fc672c9542
 Section: System
 Description: Collection of image and color calculations
 Tag: role::developer
@@ -1201,15 +1201,15 @@ Name: libKitten
 Package: dev.traurige.liddell
 Version: 1.4.4
 Architecture: iphoneos-arm64e
-Maintainer: Nezuko
-Installed-Size: 672
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, dev.traurige.libkitten (>= 1.3.3), com.mrgcgamer.libgcuniversal
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 708
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, dev.traurige.libkitten (>= 1.3.3), com.mrgcgamer.libgcuniversal
 Conflicts: love.litten.liddell
 Filename: ./debs/dev.traurige.liddell_1.4.4_iphoneos-arm64e.deb
-Size: 84654
-MD5sum: 0e08f3147665ae3a1ff4be08d3533a44
-SHA1: 53ad78bd0f8c83ae1edc8fd4bc55cd02e686fc3b
-SHA256: 8982a7310af9d2ed6ae751ecccf25ad3d482e0ac5e336386b8523b592a8dfd77
+Size: 90390
+MD5sum: 0b76d1009d9c339c532e54a59711f1d7
+SHA1: aaced068be25df48a9459e7129a10ae2384b5ab6
+SHA256: 6c545835bb6ee47d33b6c2b4f73ba33650b4d03527130d1f65c026cc96fe0685
 Section: Tweaks
 Description: Little and colorful notification banners
 Author: Traurige <hello@traurige.dev>
