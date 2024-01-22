@@ -50,6 +50,22 @@ Author: ty_ios <tylerpharand@gmail.com>
 Depiction: https://repo.packix.com/package/co.shoyu.miso/
 Name: Miso
 
+Package: com.0xkuj.3dappversionspoofer
+Version: 2.0.3
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 456
+Depends: com.opa334.altlist
+Filename: ./debs/com.0xkuj.3dappversionspoofer_2.0.3_iphoneos-arm64e.deb
+Size: 56426
+MD5sum: 992597ab535c6c8559e3aea11c052ca7
+SHA1: 5910557e93f0006b7f69d31429cd8753944281be
+SHA256: 185e3ab9295d3143d0e4228efd6c4eda922bd299f13097dc270e522bdfc3825d
+Section: Tweaks
+Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
+Author: 0xkuj
+Name: 3DAppVersionSpoofer
+
 Package: com.4nni3.coolcc
 Version: 1:4.0
 Architecture: iphoneos-arm64e
