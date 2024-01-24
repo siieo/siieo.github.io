@@ -133,6 +133,22 @@ Depiction: https://chariz.com/get/quickactions
 Icon: https://img.chariz.cloud/icon/quickactions/icon@3x.png
 Name: QuickActions
 
+Package: com.christopher.everest
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Christopher Anderson
+Installed-Size: 17276
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.17)
+Filename: ./debs/com.christopher.everest_1.0.2_iphoneos-arm64e.deb
+Size: 371420
+MD5sum: 9fbbab7f6c65f9eda0d520a6cf16616d
+SHA1: 523b7638e93c80d89f5d431eab8266a25d401032
+SHA256: 4cfcbd19d55376ea83b8d8c65fdffce02889f557137c0092fb4b6c43a10379db
+Section: Tweaks
+Description: App icon animations
+Author: Christopher Anderson
+Name: Everest
+
 Package: com.creaturesurvive.libcscolorpicker
 Version: 1.0.6
 Architecture: iphoneos-arm64e
@@ -798,17 +814,16 @@ Author: Rowandesign
 Name: Morandi
 
 Package: com.rpgfarm.a-font
-Version: 1.9.3-3
+Version: 1.11~nezuko
 Architecture: iphoneos-arm64e
-Maintainer: Baw Appie <pp121324@gmail.com>
+Maintainer: Nezuko
 Installed-Size: 2476
-Pre-Depends: rootless-compat(>= 0.1)
 Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
-Filename: ./debs/com.rpgfarm.a-font_1.9.3-3_iphoneos-arm64e.deb
-Size: 497788
-MD5sum: f4005667c38759da532349cd2afe4488
-SHA1: 1d4cde4cd8ca4bf19be40285dc10166996febe77
-SHA256: a6aff49964da974872f8ff3263dab7bd6102947cdd14c83a9631cca3c312c1fa
+Filename: ./debs/com.rpgfarm.a-font_1.11~nezuko_iphoneos-arm64e.deb
+Size: 496498
+MD5sum: 6d745e207c6632371558bbeef255b1ac
+SHA1: 23806dbd0abb8af6c88274ac6ddda13e27278f5d
+SHA256: c8b6714dabae8b78072afe04b09b84ec2c44b8dd942723bc1be806684ee5ef19
 Section: Tweaks
 Description: Change your font!
 Author: Baw Appie <pp121324@gmail.com>
