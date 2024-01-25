@@ -18,17 +18,17 @@ Name: RootHide Patcher
 Support: https://github.com/RootHide/RootHideManagerApp
 
 Package: ellekit
-Version: 1.4.2
+Version: 1.4.4
 Architecture: iphoneos-arm64e
 Maintainer: Dhinak G <dhinak@dhinak.net>
 Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
 Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
 Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
-Filename: ./debs/ellekit-arm64.deb
-Size: 366644
-MD5sum: 33b9243627b7585e6db36f9256e927c7
-SHA1: 6197c553c228e3c702437dbb6c3d2103539f9236
-SHA256: cc2a37db7b8755339d15dcfb18cef7fe4210a2fd91324c7cf55e1a637c0cd074
+Filename: ./debs/ellekit_1.4.4_iphoneos-arm64e.deb
+Size: 226376
+MD5sum: 2b38c8d46f0a26e24e442fcd590f0333
+SHA1: bbffb8003e0055105015917f3e60b6e97b60f891
+SHA256: 09f48415607274a176a4e749c1f8a4a5ccf776df5e9051242b9d220daf74e980
 Section: Tweak Injection
 Priority: optional
 Description: ElleKit tweak injection libraries and loader
