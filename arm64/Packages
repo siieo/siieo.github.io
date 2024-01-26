@@ -1,3 +1,72 @@
+Package: com.jakeashacks.realcc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Jake James
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.jakeashacks.realcc_1.0_iphoneos-arm64.deb
+Size: 3434
+MD5sum: f55a13cf87544654e8d98e794241ac83
+SHA1: 6488dc5193f6d94e4477faabfd1c521c373ec456
+SHA256: d0dd0ee8376aa8058d2486b5496c503dfed958daa3a1bf2ebae345c492ab0760
+Section: Tweaks
+Description: Actually disable WiFI and Bluetooth from CC in iOS 11-16.
+Author: Jake James
+Name: RealCC
+
+Package: com.p2kdev.waqt
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 400
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.p2kdev.waqt_1.2.3_iphoneos-arm64.deb
+Size: 26974
+MD5sum: 117a97764cd7f84c9421db686cf56e8a
+SHA1: 652afa64f6c1fe5f2804d04b57f9a2eb18cb5462
+SHA256: 833132ba46e2aa054f08b74aaf0b1456fd4f1d0470c63e50145982fc622c8848
+Section: Tweaks
+Description: Know more than just the current time!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Waqt
+
+Package: com.ps.cconandoff
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc
+Filename: ./debs/com.ps.cconandoff_1.1.1_iphoneos-arm64.deb
+Size: 3812
+MD5sum: 5ec844d4cc8d1070d878537816ffc21a
+SHA1: df264833e64e3e6c186a4d3e0e7f97d8aef22d89
+SHA256: 262faa5ae455d629e46a3824e6647805e03015c95f676cd9eee682c6eabdbba2
+Section: Tweaks
+Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+).
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
+Name: CC On & Off
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
+
+Package: com.ryannair05.cylinderremade
+Version: 0.0.3-beta
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair
+Installed-Size: 652
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Conflicts: com.ryannair05.cylinder
+Filename: ./debs/com.ryannair05.cylinderremade_0.0.3-beta_iphoneos-arm64.deb
+Size: 99944
+MD5sum: 7beb211c1c40b5d5896e4beaa04ec936
+SHA1: b6d5e3e35a5c438a130642ec6ad851483ed8f456
+SHA256: b68baaf232af12d6857c7d419be2a138bb88b5f1a350e2a660276c2d8357c3dd
+Section: Tweaks
+Description: Make your icons dance
+Author: Ryan Nair
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@3x.png
+Name: Cylinder Remade
+
 Package: me.nepeta.axon
 Version: 1.5
 Architecture: iphoneos-arm64
