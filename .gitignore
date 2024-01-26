@@ -1,5 +1,7 @@
 
 .DS_Store
+arm64/.DS_Store
+arm64/debs/.DS_Store
 debs/.DS_Store
 Ellekit/.DS_Store
 Ellekit/debs/.DS_Store
