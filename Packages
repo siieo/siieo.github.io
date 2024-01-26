@@ -726,24 +726,20 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportD
 Name: CCSupport
 
 Package: com.p2kdev.waqt
-Version: 1.2.2
+Version: 1.2.3
 Architecture: iphoneos-arm64e
 Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 412
-Pre-Depends: rootless-compat(>= 0.1)
+Installed-Size: 400
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.p2kdev.waqt_1.2.2_iphoneos-arm64e.deb
-Size: 31396
-MD5sum: 3f1a592917082a3d3b7554a1e64f35f2
-SHA1: 99e72692a81b6d2469b29365184562e6c45c52b0
-SHA256: 7bd44ec013e67eb402210c45cea254b0575a99f926ac3a50e992efe04bc2001e
+Filename: ./debs/com.p2kdev.waqt_1.2.3_iphoneos-arm64e.deb
+Size: 26562
+MD5sum: 2322484ff8eadc51fbd8038911110aa4
+SHA1: fa8fddf8e1629186690b8c6db269b7a50ebe6e79
+SHA256: fee84fd9726161752f66db2c588a0c4dd9510c0263d6786d4779a009a44d54ae
 Section: Tweaks
 Description: Know more than just the current time!
 Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.waqt
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
 Name: Waqt
-Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
 
 Package: com.peterdev.libpddokdo
 Version: 1.3.6
@@ -850,18 +846,17 @@ Icon: https://img.chariz.cloud/icon/cask-3/icon@3x.png
 Name: Cask 3
 
 Package: com.ryannair05.cylinderremade
-Version: 0.0.3-beta
+Version: 0.0.4
 Architecture: iphoneos-arm64e
 Maintainer: Ryan Nair
-Installed-Size: 412
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Installed-Size: 652
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.ryannair05.cylinder
-Filename: ./debs/com.ryannair05.cylinderremade_0.0.3-beta_iphoneos-arm64e.deb
-Size: 86904
-MD5sum: f0fec8bbffc8ccfdb9e16eee34c3beab
-SHA1: aa23a91980e290eed8dc9b0109c50bd3b11ba9ec
-SHA256: 855b5ea84f75f6c1fa7a019f698632563b5b35058324eed6727d5445337556c1
+Filename: ./debs/com.ryannair05.cylinderremade_0.0.4_iphoneos-arm64e.deb
+Size: 104442
+MD5sum: 2ff48d4465d8feec02cdb7a9eec01c3d
+SHA1: 85e8ce04056589918d30eec750b4da00968a757f
+SHA256: 8182444b69f18a1968a6a97dbdc84df320b5d2041a561fd596972d61f011be06
 Section: Tweaks
 Description: Make your icons dance
 Author: Ryan Nair
