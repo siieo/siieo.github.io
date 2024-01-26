@@ -85,6 +85,22 @@ Depiction: https://slyfabi.github.io/depictions/?p=com.slyfabi.blurryalerts
 Icon: file:///var/jb/Library/PreferenceBundles/BlurryAlerts.bundle/icon@3x.png
 Name: BlurryAlerts
 
+Package: jp.nezuko.clockwise
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nezuko
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/jp.nezuko.clockwise_1.0_iphoneos-arm64.deb
+Size: 2078
+MD5sum: 938b05132293f77a1c5bc20ef0d52be5
+SHA1: 9879df465dc4ed659081db646fedbf3fdff6eb02
+SHA256: b4479d48576703cbbf5e79a6276fb2f0303a09f581e2fe068a4fad6d241756b4
+Section: Tweaks
+Description: The Clock icon is lost
+Author: Nezuko
+Name: Clockwise
+
 Package: me.nepeta.axon
 Version: 1.5
 Architecture: iphoneos-arm64
