@@ -68,21 +68,21 @@ Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@3x.png
 Name: Cylinder Remade
 
 Package: com.slyfabi.blurryalerts
-Version: 1.2.2
+Version: 1.2.2-3
 Architecture: iphoneos-arm64
 Maintainer: SlyFabi
-Installed-Size: 392
-Depends: mobilesubstrate, ws.hbang.alderis
-Filename: ./debs/com.slyfabi.blurryalerts_1.2.2_iphoneos-arm64.deb
-Size: 27094
-MD5sum: 15731fb97bc1b6fac520133ced49dd53
-SHA1: 5a6ed26db11bd5d54fa959a80ef39819aaf650a8
-SHA256: cd99d2d1899bad1e20bda84d08cc56909576b190132c6dd3eef58c9e6c14db46
+Installed-Size: 396
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.slyfabi.blurryalerts_1.2.2-3_iphoneos-arm64.deb
+Size: 30182
+MD5sum: d347af6fa9bac615252dfff2645d775d
+SHA1: 0220e47bffa75305f6fb85ee4de932e3a6696aef
+SHA256: 8c813968cb286bafff901382b3a0e1cf76f16f1797d164a89c1a01b3f6ce9163
 Section: Tweaks
 Description: tvOS style alerts!
 Author: SlyFabi
 Depiction: https://slyfabi.github.io/depictions/?p=com.slyfabi.blurryalerts
-Icon: file:///Library/PreferenceBundles/BlurryAlerts.bundle/icon@3x.png
+Icon: file:///var/jb/Library/PreferenceBundles/BlurryAlerts.bundle/icon@3x.png
 Name: BlurryAlerts
 
 Package: me.nepeta.axon
