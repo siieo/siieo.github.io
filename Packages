@@ -1302,6 +1302,22 @@ Icon: https://dcsyhi1998.github.io/icons/zetsu/zetsu.png
 Name: Zetsu(Rootfull)
 Sileodepiction: https://dcsyhi1998.github.io/Sileodepiction/Zetsu.json
 
+Package: jp.nezuko.clockwise
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Nezuko
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/jp.nezuko.clockwise_1.0_iphoneos-arm64e.deb
+Size: 2438
+MD5sum: ef60224296782253a35d3e8cc4735a7d
+SHA1: c66474fef13571efba84ad1b67ae5e906ba02437
+SHA256: 8928540a7958003c745f33cb6b4c059cb5344813f066535204d0c2c1270682f0
+Section: Tweaks
+Description: The Clock icon is lost
+Author: Nezuko
+Name: Clockwise
+
 Package: libskittycolor
 Version: 1.2
 Architecture: iphoneos-arm64e
