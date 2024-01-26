@@ -67,6 +67,24 @@ Author: Ryan Nair
 Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@3x.png
 Name: Cylinder Remade
 
+Package: com.slyfabi.blurryalerts
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: SlyFabi
+Installed-Size: 392
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/com.slyfabi.blurryalerts_1.2.2_iphoneos-arm64.deb
+Size: 27094
+MD5sum: 15731fb97bc1b6fac520133ced49dd53
+SHA1: 5a6ed26db11bd5d54fa959a80ef39819aaf650a8
+SHA256: cd99d2d1899bad1e20bda84d08cc56909576b190132c6dd3eef58c9e6c14db46
+Section: Tweaks
+Description: tvOS style alerts!
+Author: SlyFabi
+Depiction: https://slyfabi.github.io/depictions/?p=com.slyfabi.blurryalerts
+Icon: file:///Library/PreferenceBundles/BlurryAlerts.bundle/icon@3x.png
+Name: BlurryAlerts
+
 Package: me.nepeta.axon
 Version: 1.5
 Architecture: iphoneos-arm64
