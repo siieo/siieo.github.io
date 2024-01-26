@@ -3,6 +3,6 @@ Label: Nezuko's Repo
 Suite: stable
 Version: 1.0
 Codename: RootHide
-Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Siieo's Repository
