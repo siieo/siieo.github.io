@@ -862,22 +862,21 @@ Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@3x.png
 Name: Cylinder Remade
 
 Package: com.slyfabi.blurryalerts
-Version: 1.2.2-3
+Version: 1.2.4
 Architecture: iphoneos-arm64e
 Maintainer: SlyFabi
-Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.slyfabi.blurryalerts_1.2.2-3_iphoneos-arm64e.deb
-Size: 30620
-MD5sum: 189fcc63f55729c3edb602a8cd4b4783
-SHA1: d618e6ee3192146ca47a52a5a583e55fe7193efd
-SHA256: e62c0ea17698aba6cc4caeafd3ed0bf5d3d385845af367ee6530e90e157b84d5
+Installed-Size: 396
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/com.slyfabi.blurryalerts_1.2.4_iphoneos-arm64e.deb
+Size: 30198
+MD5sum: f70651d3e3d04c645d9da0bf8e6e2552
+SHA1: 76584b7b60f77efb424c9b6e8be69dd52039183a
+SHA256: 5b37e9ab372f10c1ff57161bda5b6df525b6ca968a47172af4362354a06c0246
 Section: Tweaks
 Description: tvOS style alerts!
 Author: SlyFabi
 Depiction: https://slyfabi.github.io/depictions/?p=com.slyfabi.blurryalerts
-Icon: file:///var/jb/Library/PreferenceBundles/BlurryAlerts.bundle/icon@3x.png
+Icon: file://Library/PreferenceBundles/BlurryAlerts.bundle/icon@3x.png
 Name: BlurryAlerts
 
 Package: com.spark.libsparkapplist
