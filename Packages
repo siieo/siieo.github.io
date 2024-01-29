@@ -628,6 +628,36 @@ Description: iPhone X gestures brought to older iPhones compatible with iOS 15
 Author: Ethan Whited
 Name: GesturesXV
 
+Package: com.nezuko.emojinoto
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Nezuko
+Depends: com.ps.emojifontmanager, com.ps.emojiportpe
+Filename: ./debs/com.nezuko.emojinoto_1.0_iphoneos-arm64e.deb
+Size: 35139460
+MD5sum: 83d9bdd75b97a120cba69ee0d150309b
+SHA1: 6c8d3698b8c6f6792209c5478c31d4ef7857cb22
+SHA256: a22c462d2f9a39dd55c57bc8fb3f15b2c86ba9595a563a3d4896fe952155e929
+Section: Themes
+Description: Noto Emojis
+Author: Nezuko
+Name: Noto Emojis
+
+Package: com.nezuko.emojioneui
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Nezuko
+Depends: com.ps.emojifontmanager, com.ps.emojiportpe
+Filename: ./debs/com.nezuko.emojioneui_1.0_iphoneos-arm64e.deb
+Size: 26430596
+MD5sum: e3d123247a6b8bab2f0a2fb06f90f189
+SHA1: 7f0d13652e2e4c062e3dc5d9975aa3ce502f8796
+SHA256: 4a23820a0760c715291bc9d126cc333d3180104bcd0416a33d1edda75aafd7cd
+Section: Themes
+Description: One UI Emojis
+Author: Nezuko
+Name: One UI 6 Emojis
+
 Package: com.nezuko.emojis
 Version: 1.0
 Architecture: iphoneos-arm64e
