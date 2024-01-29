@@ -274,6 +274,25 @@ Sileodepiction: https://nahtedetihw.github.io/depiction/native/com.ethn.mirage.j
 Someotherentrytocontrol: True
 Tags: compatible_min::ios11.0, compatible_max::ios14.3
 
+Package: com.exile90.icleanerpro
+Version: 7.10~Nezuko
+Architecture: iphoneos-arm64e
+Maintainer: Nezuko
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.exile90.icleanerpro_7.10~Nezuko_iphoneos-arm64e.deb
+Size: 602336
+MD5sum: d4ff9b2afb9cf544b1b181973deef59b
+SHA1: e63914251e6bf63e076c208b1f9e2ab24b6b64d5
+SHA256: 916a90d143910bb728f5bf5feaf744be9926b5444cb41f329a53f93b8e5e8651
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: Type icleaner in Terminal
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Name: iCleaner Pro CLI
+
 Package: com.fiore.ccborder
 Version: 1.0
 Architecture: iphoneos-arm64e
