@@ -786,16 +786,16 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportD
 Name: CCSupport
 
 Package: com.p2kdev.waqt
-Version: 1.2.3
+Version: 1.3
 Architecture: iphoneos-arm64e
 Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 400
+Installed-Size: 404
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.p2kdev.waqt_1.2.3_iphoneos-arm64e.deb
-Size: 26562
-MD5sum: 2322484ff8eadc51fbd8038911110aa4
-SHA1: fa8fddf8e1629186690b8c6db269b7a50ebe6e79
-SHA256: fee84fd9726161752f66db2c588a0c4dd9510c0263d6786d4779a009a44d54ae
+Filename: ./debs/com.p2kdev.waqt_1.3_iphoneos-arm64e.deb
+Size: 28632
+MD5sum: d42c446ba1d7231d758b7b926b98649e
+SHA1: 06fadb9c89c98b46c149a85f348747e9a1d9fe43
+SHA256: cc13893be3cbd26bfb068b5da2450824226b41368b50f1d03c01b08821fd0362
 Section: Tweaks
 Description: Know more than just the current time!
 Author: P2KDev <p2kdev@gmail.com>
