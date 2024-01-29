@@ -632,12 +632,12 @@ Package: com.nezuko.emojis
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: Nezuko
-Depends: com.ps.emojifontmanager
+Depends: com.ps.emojifontmanager, com.ps.emojiportpe
 Filename: ./debs/com.nezuko.emojis_1.0_iphoneos-arm64e.deb
-Size: 58130060
-MD5sum: 1550b060951c65d3d9171ef2eaf4c49c
-SHA1: c80f33737b9f9e4a7e47af78c972ef57da27be96
-SHA256: 7fe3e165f022b49393f6676f75f048c5f9a7561cff41a277668fda7e6e962e00
+Size: 58133768
+MD5sum: 067055351a2efa38a4f2ff825c6f729e
+SHA1: ff5292746f6eab804af4c783f7851cdabea30ca6
+SHA256: 4964169d5b5059daa9d8d723bebd512130a09024030aa22165e665d5a0443ec0
 Section: Themes
 Description: Emojis from iOS 17.4
 Author: Nezuko
