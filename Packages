@@ -291,23 +291,6 @@ Author: fiore
 Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fiore.ccborder/icon.png
 Name: CCBorder
 
-Package: com.fiore.nolstext
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: fiore
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: ellekit
-Filename: ./debs/com.fiore.nolstext_1.0_iphoneos-arm64e.deb
-Size: 3040
-MD5sum: f4c583e51b319c570d8ea0faac0526e8
-SHA1: 43bc369dd6f5d554f1be663c6e2f0c3a17eb8adb
-SHA256: 0901833445c52304cd644929080280d95c4b458e977b82d4e996f0c81bf8f144
-Section: Tweaks
-Description: Remove the "Confidential & Proprietary..." text from lockscreen after installing Serotonin
-Author: fiore
-Name: NoLSText
-
 Package: com.furawa.parousia
 Version: 1.4
 Architecture: iphoneos-arm64e
@@ -645,24 +628,36 @@ Description: iPhone X gestures brought to older iPhones compatible with iOS 15
 Author: Ethan Whited
 Name: GesturesXV
 
+Package: com.nezuko.emojis
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Nezuko
+Depends: com.ps.emojifontmanager
+Filename: ./debs/com.nezuko.emojis_1.0_iphoneos-arm64e.deb
+Size: 58130060
+MD5sum: 1550b060951c65d3d9171ef2eaf4c49c
+SHA1: c80f33737b9f9e4a7e47af78c972ef57da27be96
+SHA256: 7fe3e165f022b49393f6676f75f048c5f9a7561cff41a277668fda7e6e962e00
+Section: Themes
+Description: Emojis from iOS 17.4
+Author: Nezuko
+Name: iOS 17.4 Emojis
+
 Package: com.nightwind.boldersreborn
 Version: 1.1.2
 Architecture: iphoneos-arm64e
-Maintainer: Nightwind <nightwinddev@gmail.com>
-Installed-Size: 5808
-Pre-Depends: rootless-compat(>= 0.1)
+Maintainer: Nightwind
+Installed-Size: 5620
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.ichitaso.iconorder
 Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad, com.lizynz.folderx.rootless, com.lizynz.folderx
 Filename: ./debs/com.nightwind.boldersreborn_1.1.2_iphoneos-arm64e.deb
-Size: 4865316
-MD5sum: 958fc2a43fafecb3e104ec7aedf511bc
-SHA1: e5a5aa5147e70f349fcaebf8580cad1cf4a6b6c3
-SHA256: 1a357f35b7628d12b60f15785ed911f273668fea609f7a6e377f5eddb6c2a12c
+Size: 4863520
+MD5sum: 595eb6b07e4e4d0353df12ca7e4e278c
+SHA1: 02ac961e6e4eb74cb05af9ba857c5d5e1549b571
+SHA256: a750334f615902a43b30739718aefafc84a4ee84a35c6aa0963f3e6c9959f75d
 Section: Tweaks
 Description: Bigger and bolder folders, remade!
-Tag: compatible_min::ios14.0
-Author: Nightwind <nightwinddev@gmail.com>
-Depiction: https://chariz.com/get/boldersreborn
+Author: candoizo
 Icon: https://img.chariz.cloud/icon/boldersreborn/icon@3x.png
 Name: Bolders Reborn
 
@@ -773,6 +768,99 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
 Name: CC On & Off
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
+
+Package: com.ps.emojiattributes
+Version: 1.8.0~b1
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 504
+Depends: firmware (>= 5.1), mobilesubstrate, com.opa334.libundirect (>= 1.0)
+Conflicts: com.ps.flexmoji
+Filename: ./debs/com.ps.emojiattributes_1.8.0~b1_iphoneos-arm64e.deb
+Size: 41260
+MD5sum: fd875124b174e43f9cbce2c7dcdf44f3
+SHA1: f4b4a3c542d7744499057b6df197fe685ac710d3
+SHA256: f3475bc87ef2f269d9e29955f455b812043e2956b5f0ae0cfe9610d650fd8845
+Section: Tweaks
+Description: Various under-the-hood fixes for emoji display.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiattributes.html
+Name: EmojiAttributes
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiattributes.json
+
+Package: com.ps.emojifontmanager
+Version: 1.3.5~roothide
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 404
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
+Filename: ./debs/com.ps.emojifontmanager_1.3.5~roothide_iphoneos-arm64e.deb
+Size: 30318
+MD5sum: 50d05733b30332dc7dae27507f3c7bd6
+SHA1: 848521abad233fa31975dd571bec6bbd2334dd0e
+SHA256: 7f39200e994ed6be14c2a97709cca174e316ca5da9ec3389a6f9e34c57451ffc
+Section: Tweaks
+Description: Emoji font override and management.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojifontmanager.html
+Icon: file:///Library/PreferenceBundles/EFMPref.bundle/EFMPref@2x.png
+Name: EmojiFontManager
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojifontmanager.json
+
+Package: com.ps.emojilibrary
+Version: 1.6.0~b1
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 524
+Filename: ./debs/com.ps.emojilibrary_1.6.0~b1_iphoneos-arm64e.deb
+Size: 46732
+MD5sum: 5a5254c0e2a3e6d1f9a1148a22556a21
+SHA1: 620d0ccc7088a8451c5b6a87f08e9f86a5df968d
+SHA256: 27dd0378f8c0ef51046845286e61af83b4205dbaca7ec77ef17dfbd6a347610d
+Section: Development
+Description: Master library for PoomSmart's emoji tweaks.
+Tag: role::developer
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojilibrary.html
+Name: EmojiLibrary
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojilibrary.json
+
+Package: com.ps.emojiport10resources
+Version: 1.6.0~b1
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 224092
+Depends: firmware (>= 10.0)
+Filename: ./debs/com.ps.emojiport10resources_1.6.0~b1_iphoneos-arm64e.deb
+Size: 57088142
+MD5sum: 6d6c15a81a4f372e4463baf78605f9df
+SHA1: 98b27a642ed1955954db3f81cb4aa37bad1e8dc6
+SHA256: 953c4a233e9653bf83f4ba7d71682c26b7a663d448676817e5c45fb9d4a369be
+Section: Tweaks
+Description: Latest emoji localization and metadata for iOS 10+
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport10resources.html
+Name: EmojiPort Resources (iOS 10+)
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiport10resources.json
+
+Package: com.ps.emojiportpe
+Version: 1.5.0~b1
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 12.0), firmware (<< 17.4), com.ps.emojiattributes (>= 1.8.0~b1), com.ps.emojilibrary (>= 1.6.0~b1), com.ps.emojiport10resources (>= 1.6.0~b1)
+Filename: ./debs/com.ps.emojiportpe_1.5.0~b1_iphoneos-arm64e.deb
+Size: 17496
+MD5sum: f77e135fab50684f123bd5d70be77b60
+SHA1: 956a6b43b926b446377047b3741d828319a86609
+SHA256: 88bbb9e4c64b344a3c1207ed06cb2b9ea21321ebeddb60e463ead9bbdc187ba9
+Section: Tweaks
+Description: Latest emojis for iOS 12.0-17.3
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport_12.html
+Name: EmojiPort (iOS 12.0-17.3)
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiport_12.json
 
 Package: com.ps.trollleds
 Version: 1.1.2
