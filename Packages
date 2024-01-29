@@ -471,6 +471,22 @@ Icon: https://cydia.ichitaso.com/icons/PowerSelector.png
 Name: PowerSelector
 Sileodepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
 
+Package: com.ioscreatix.sugarcane
+Version: 1.2.4.3
+Architecture: iphoneos-arm64e
+Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
+Installed-Size: 168
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.ioscreatix.sugarcane_1.2.4.3_iphoneos-arm64e.deb
+Size: 5450
+MD5sum: 818c5745271871c897cdd6093ce6a516
+SHA1: 261383877717b6be0a182f7e42fe8afecc411010
+SHA256: 4a2d7d8570553b053f7b95da7242c65b6b7473b7fa9cf3ff99dd00f6bbcff8f3
+Section: Tweaks
+Description: Get percentages for the sliders in the Control Center 13 - 16
+Author: iOS Creatix, kasiimh1, p2kdev
+Name: SugarCane 13/14/15/16
+
 Package: com.ipadkid.ftt
 Version: 1.1
 Architecture: iphoneos-arm64e
