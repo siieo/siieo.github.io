@@ -471,6 +471,23 @@ Icon: https://cydia.ichitaso.com/icons/PowerSelector.png
 Name: PowerSelector
 Sileodepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
 
+Package: com.ipadkid.ftt
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Nezuko
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.ipadkid.ftt_1.1_iphoneos-arm64e.deb
+Size: 18554
+MD5sum: 31f514675ee1a815c7b97fcc0046cf4f
+SHA1: 46bb5d2f0fff792d13d381869dd9871973c4cdf7
+SHA256: 6219fbbef541295f66338f0d0816496248237d2c096d8f5882f4e3b1b975c833
+Section: Utilities
+Homepage: https://github.com/ipadkid358/FlexToTheos
+Description: Turn Flex 3 patches into Theos projects
+Author: ipad_kid <ipadkid358@gmail.com>
+Name: Flex To Theos
+
 Package: com.ivintagelover.bigdeal
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -822,14 +839,14 @@ Package: com.ps.emojiattributes
 Version: 1.8.0~b1
 Architecture: iphoneos-arm64e
 Maintainer: PoomSmart
-Installed-Size: 504
+Installed-Size: 508
 Depends: firmware (>= 5.1), mobilesubstrate, com.opa334.libundirect (>= 1.0)
 Conflicts: com.ps.flexmoji
 Filename: ./debs/com.ps.emojiattributes_1.8.0~b1_iphoneos-arm64e.deb
-Size: 41260
-MD5sum: fd875124b174e43f9cbce2c7dcdf44f3
-SHA1: f4b4a3c542d7744499057b6df197fe685ac710d3
-SHA256: f3475bc87ef2f269d9e29955f455b812043e2956b5f0ae0cfe9610d650fd8845
+Size: 41700
+MD5sum: c961544199953f1346df80ea08938ff3
+SHA1: 378bb723c6aa92133edbe90fc2a6a167f57fae44
+SHA256: 53cddd1920b7a7b6b33ee31e12b2c89a6485450a734c303197af2d99c75718d1
 Section: Tweaks
 Description: Various under-the-hood fixes for emoji display.
 Author: PoomSmart
@@ -893,17 +910,16 @@ Name: EmojiPort Resources (iOS 10+)
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiport10resources.json
 
 Package: com.ps.emojiportpe
-Version: 1.5.0~b1
+Version: 1.5.0~b2
 Architecture: iphoneos-arm64e
 Maintainer: PoomSmart
 Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: firmware (>= 12.0), firmware (<< 17.4), com.ps.emojiattributes (>= 1.8.0~b1), com.ps.emojilibrary (>= 1.6.0~b1), com.ps.emojiport10resources (>= 1.6.0~b1)
-Filename: ./debs/com.ps.emojiportpe_1.5.0~b1_iphoneos-arm64e.deb
-Size: 17496
-MD5sum: f77e135fab50684f123bd5d70be77b60
-SHA1: 956a6b43b926b446377047b3741d828319a86609
-SHA256: 88bbb9e4c64b344a3c1207ed06cb2b9ea21321ebeddb60e463ead9bbdc187ba9
+Depends: firmware (>= 12.0), firmware (<< 17.4), com.ps.emojiattributes (>= 1.8.0~b1) | com.ps.emojiattributes-meowbrek (>= 1.8.0~b1), com.ps.emojilibrary (>= 1.6.0~b1), com.ps.emojiport10resources (>= 1.6.0~b1)
+Filename: ./debs/com.ps.emojiportpe_1.5.0~b2_iphoneos-arm64e.deb
+Size: 17436
+MD5sum: e6c77887778f9c69a6083fd5e877b945
+SHA1: 7ef280385522ce56b1526ebcded0f5a8b658cfd7
+SHA256: 48d1f397cb21f28d606283d522ac1cc6ef841b311875997ad8c40e1d11544c49
 Section: Tweaks
 Description: Latest emojis for iOS 12.0-17.3
 Author: PoomSmart
