@@ -883,6 +883,25 @@ Description: An awesome library to get current weather which provides by iOS Wea
 Author: Soongyu Kwon
 Name: libPDDokdo
 
+Package: com.ps.blurrybadges
+Version: 1.4.4
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 432
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.blurrybadges, com.spicat.blurrybadges
+Filename: ./debs/com.ps.blurrybadges_1.4.4_iphoneos-arm64e.deb
+Size: 41244
+MD5sum: f9cd3f6fd08a23ea0764666105e24447
+SHA1: bd89b3f62c57caa94e3d2d93d8af213102a3b245
+SHA256: 78491cae4b294b507c8c546744903846ee71b773f70e37d02a8ec31207b3069c
+Section: Tweaks
+Description: Colored blur for SpringBoard icon badges.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/blurrybadges.html
+Name: BlurryBadges (iOS 14+)
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/blurrybadges.json
+
 Package: com.ps.cconandoff
 Version: 1.1.1
 Architecture: iphoneos-arm64e
