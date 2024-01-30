@@ -1482,17 +1482,17 @@ Author: Traurige <hello@traurige.dev>
 Name: Liddell
 
 Package: ellekit
-Version: 1.1-4
+Version: 1.1.1
 Architecture: iphoneos-arm64e
 Maintainer: Dhinak G <dhinak@dhinak.net>
 Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
 Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
 Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
 Filename: ./debs/ellekit_iphoneos-arm64e.deb
-Size: 337812
-MD5sum: 260edb929331d7045d18dbc767beea82
-SHA1: dc35f20b294fca42ea295f9bc2981c8963b731e8
-SHA256: e4a5dbeaa26404f0db6698a548d825d0f096ecb740e9e77e8180d21e347f2cf8
+Size: 337988
+MD5sum: ee5504c06b992841d4cc2b7eec12564d
+SHA1: e0c6674b51ddeaa021a49fab9b671c10bf7fc61c
+SHA256: f1133f9fb1a3b81d45c469c05452b3c5394dd065d07a71adea15b5099a746033
 Section: Tweak Injection
 Priority: optional
 Description: ElleKit tweak injection libraries and loader
