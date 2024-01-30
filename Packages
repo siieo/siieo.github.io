@@ -716,6 +716,21 @@ Description: Replace the text in breadcrumbs with the app icon!
 Author: burrit0z & Nezuko
 Name: Croutons
 
+Package: com.nezuko.emoji3dfluent
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Nezuko
+Depends: com.ps.emojifontmanager
+Filename: ./debs/com.nezuko.emoji3dfluent_1.0_iphoneos-arm64e.deb
+Size: 22873956
+MD5sum: e059959ac0d9b8034556d97bf314365e
+SHA1: dfa66ddce906fff9c2274dbbcf4ccbde98289cda
+SHA256: 6aec9b060cacc5af286f7a610e6eedcded222098545849ba66f9fee4aa67d6e7
+Section: Themes
+Description: 3D Fluent Emojis
+Author: Nezuko
+Name: 3D Fluent Emojis
+
 Package: com.nezuko.emojinoto
 Version: 1.0
 Architecture: iphoneos-arm64e
