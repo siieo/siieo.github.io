@@ -252,6 +252,26 @@ Depiction: https://chariz.com/get/powerapp
 Icon: https://img.chariz.cloud/icon/powerapp/icon@3x.png
 Name: PowerApp
 
+Package: com.dcproducts.colorbar15
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: DTCalabro
+Installed-Size: 1952
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2.1), preferenceloader (>= 2.2.6)
+Filename: ./debs/com.dcproducts.colorbar15_1.1.0_iphoneos-arm64e.deb
+Size: 469768
+MD5sum: 98475094415330c39114628d94fe7001
+SHA1: e96814913165977a9cd4c3c2a421cc6de7a89172
+SHA256: 0d4db27644a1c94506040f22b8adc88ad9f89d511ca89ace5de9bde61cddd1f2
+Section: Tweaks
+Description: ColorBar15 allows you to personally style your status bar with colors and more.
+Author: DTCalabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.colorbar15
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/icon.png
+Name: ColorBar15
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/depiction.json
+
 Package: com.ethn.mirage
 Version: 1.9
 Architecture: iphoneos-arm64e
