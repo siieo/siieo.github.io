@@ -1554,14 +1554,13 @@ Package: jp.dcsyhi.zetsu
 Version: 1.5
 Architecture: iphoneos-arm64e
 Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
-Installed-Size: 11004
 Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport, ws.hbang.common
 Filename: ./debs/jp.dcsyhi.zetsu_1.5_iphoneos-arm64e.deb
-Size: 1819300
-MD5sum: 3d6d95d431b7a76cf0e325f8adf4679f
-SHA1: 8c38588c1862a696f1873d3ac3715c855e795600
-SHA256: f0be06c0599536b519d800e7991d97e5d284cf2037f775e7102273df42172bfe
+Size: 1819324
+MD5sum: 77fa9b79c2461d8145ca9e35e3c4ca69
+SHA1: 465bda9d5c5755b0d993a6f83b8869189af4a3d8
+SHA256: 14f5a7677d6e8f8a6521f4ccea7d214b1fe91bb01c5e20cc34f7b9ec4eea35b2
 Section: Tweaks
 Description: Multitasking on iOS15 - iOS16.
 Tag: compatible_min::ios15.0
