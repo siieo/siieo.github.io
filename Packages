@@ -1101,6 +1101,22 @@ Author: Ryan Nair
 Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@3x.png
 Name: Cylinder Remade
 
+Package: com.shepgoba.downloadbar
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Nezuko
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.shepgoba.downloadbar_1.1_iphoneos-arm64e.deb
+Size: 5266
+MD5sum: fb3750145f9ba9b93b6464950185d149
+SHA1: 95231bf8b10797a0bfcbfc36404ef4974e6cd360
+SHA256: 737a7a5b647092b26f16a7a27b7dc4e74d28e4977448b160121f9c66b2f87822
+Section: Tweaks
+Description: Show a progress bar for downloading apps instead!
+Author: shepgoba
+Name: DownloadBar
+
 Package: com.slyfabi.blurryalerts
 Version: 1.2.4
 Architecture: iphoneos-arm64e
@@ -1516,17 +1532,17 @@ Author: Traurige <hello@traurige.dev>
 Name: Liddell
 
 Package: ellekit
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm64e
 Maintainer: Dhinak G <dhinak@dhinak.net>
 Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
 Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
 Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
-Filename: ./debs/ellekit_iphoneos-arm64e.deb
-Size: 337564
-MD5sum: a1e4e9e29a6242d4e60332814e28514e
-SHA1: 59dbbc9d8f49de9a1285e776e64aa191e64ac5f4
-SHA256: 0d1e5c070303c627b605c0445365d8a231ac349c9d366bbde5361700cd5dda0a
+Filename: ./debs/ellekit_1.1.2_iphoneos-arm64e.deb
+Size: 337220
+MD5sum: ea717ce0084dab141f735a1f99443185
+SHA1: 9386973fc436c92be9280da98fa090abc1bdb8e5
+SHA256: 18d96152dbdef56d90314949810a08cc25365c413f85315baa4569141cf1a187
 Section: Tweak Injection
 Priority: optional
 Description: ElleKit tweak injection libraries and loader
