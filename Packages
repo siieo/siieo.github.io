@@ -1032,6 +1032,23 @@ Depiction: https://poomsmart.github.io/repo/depictions/trollleds.html
 Name: TrollLEDs
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/trollleds.json
 
+Package: com.ps.whatsallemojis
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), com.ps.emojilibrary
+Conflicts: com.spicat.whatsallemojis
+Filename: ./debs/com.ps.whatsallemojis_1.0.0_iphoneos-arm64e.deb
+Size: 2764
+MD5sum: fa9a948dee4575f07f67907b2ebd7769
+SHA1: ac57256017ccfacb3043d651355638fc7805a502
+SHA256: abfd1130ee3e10d05b6b7551ff019f152cb51881ae6801dd88eda99f92ffea0c
+Section: Tweaks
+Description: Ensure WhatsApp recognizes the latest emojis.
+Author: PoomSmart
+Name: WhatsAllEmojis
+
 Package: com.rowandesign.morandi
 Version: 1.1.0
 Architecture: iphoneos-arm64e
