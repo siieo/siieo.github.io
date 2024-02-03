@@ -1170,16 +1170,14 @@ Author: Spark
 Name: libSparkAppList
 
 Package: com.spark.libsparkcolourpicker
-Version: 1.0.3-rootless
+Version: 1.0.4
 Architecture: iphoneos-arm64e
 Maintainer: Spark
-Installed-Size: 424
-Pre-Depends: rootless-compat(>= 0.1)
-Filename: ./debs/com.spark.libsparkcolourpicker_1.0.3-rootless_iphoneos-arm64e.deb
-Size: 70460
-MD5sum: 72470355e5a721722178e06037d8cd7f
-SHA1: 469942a5916976b286ca4f3a3ed33e99cc0ef49e
-SHA256: 3b0a93643db8eb946a1832d2f384daa51efe6c810229b222e196e6065fd3b19b
+Filename: ./debs/com.spark.libsparkcolourpicker_1.0.4_iphoneos-arm64e.deb
+Size: 49956
+MD5sum: a3768ffc2b6082684bafde9cb01570cc
+SHA1: 724802976f18ef28d03ad080af361f8f0865d7f9
+SHA256: b258c0221ac42c24dd64207fede353566e531f88d10adc77efd635f25284dae9
 Section: System
 Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
 Tag: role::developer
@@ -1880,6 +1878,25 @@ Section: RootHide Patches
 Description: RootHide Dynamic Patches For Filza
 Author: roothide
 Name: Patches for Filza 64bit
+
+Package: weeb.lillie.accentcustom
+Version: 2.2~nezuko
+Architecture: iphoneos-arm64e
+Maintainer: Nezuko
+Installed-Size: 376
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader, com.spark.libsparkcolourpicker, com.spark.libsparkapplist
+Conflicts: com.ivanc.accent
+Filename: ./debs/weeb.lillie.accentcustom_2.2~nezuko_iphoneos-arm64e.deb
+Size: 16920
+MD5sum: 12d5bc3fdd4138e11089c6ff60a61fb2
+SHA1: 90a8a4b0d47d5a7592f18beff2633b744ee4fc8e
+SHA256: e86fc46197fab3d640c4a001d91c99a83233b22f54fe6d219f87a459759584a2
+Section: Tweaks
+Description: iOS Accent Colours In macOS Style
+Author: Lillie & Nezuko
+Depiction: https://repo.lillieweeb001.xyz/depictions/accentcustom.html
+Name: Accent Custom
+Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.accentcustom/depiction.json
 
 Package: ws.hbang.alderis
 Version: 1.2.3.1
