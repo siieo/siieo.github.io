@@ -1632,6 +1632,27 @@ Description: Colorful, happy, modern.
 Author: Nebula
 Name: modernOS
 
+Package: me.alfhaily.rocket
+Version: 3.8.21
+Architecture: iphoneos-arm64e
+Maintainer: Rocket App <support@getrocketapp.io>
+Installed-Size: 6620
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/me.alfhaily.rocket_3.8.21_iphoneos-arm64e.deb
+Size: 615216
+MD5sum: a8e5fa0501b0c13f648c57700477a838
+SHA1: 5e0098678595f68023d4c24c6b5206a907973619
+SHA256: 3ad460294f62754ae36e45d80ef9e2f80df90be0947fe810eda8842d60be3853
+Section: Tweaks
+Priority: optional
+Description: Save posts and view stories anonymously and do much more
+Author: Rocket App
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Name: Rocket for Instagram
+Sileodepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+
 Package: me.ikghd.ikset
 Version: 3.3
 Architecture: iphoneos-arm64e
