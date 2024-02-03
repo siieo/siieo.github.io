@@ -1174,10 +1174,10 @@ Version: 1.0.4
 Architecture: iphoneos-arm64e
 Maintainer: Spark
 Filename: ./debs/com.spark.libsparkcolourpicker_1.0.4_iphoneos-arm64e.deb
-Size: 49956
-MD5sum: a3768ffc2b6082684bafde9cb01570cc
-SHA1: 724802976f18ef28d03ad080af361f8f0865d7f9
-SHA256: b258c0221ac42c24dd64207fede353566e531f88d10adc77efd635f25284dae9
+Size: 69900
+MD5sum: e70e53e83f5a3b366560a3d2f6279351
+SHA1: 99c26ca45e6dbe5c8d90588480b53102987902c9
+SHA256: 17bdbf87ea744cd917bb844e54582c4e8fb6160b93084dcf21ed4c69d50f330a
 Section: System
 Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
 Tag: role::developer
