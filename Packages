@@ -149,6 +149,30 @@ Description: App icon animations
 Author: Christopher Anderson
 Name: Everest
 
+Package: com.creaturecoding.tweaksettings
+Version: 1.0.8
+Architecture: iphoneos-arm64e
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1064
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debs/com.creaturecoding.tweaksettings_1.0.8_iphoneos-arm64e.deb
+Size: 380204
+MD5sum: a95df21f538466947fbe870368066fa4
+SHA1: 9ad8108d262ba176f13eecc14700041a591cad98
+SHA256: 0ee526d72ea15107c9f90d5aba5442c7c7d685b1f9e97af51babc0c695ff96f9
+Section: Applications
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Dedicated settings app for tweaks
+Tag: purpose::application, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
+Dev: CreatureSurvive
+Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
+Name: TweakSettings
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
+
 Package: com.creaturesurvive.libcscolorpicker
 Version: 1.0.6
 Architecture: iphoneos-arm64e
@@ -674,10 +698,10 @@ Maintainer: Ethan Whited
 Installed-Size: 812
 Depends: preferenceloader
 Filename: ./debs/com.nahtedetihw.floatingdockxvi_1.9_iphoneos-arm64e.deb
-Size: 396672
-MD5sum: 1106bfbf5230ab2405752f35d2311f45
-SHA1: bf3674870ef005b5cb3692b017231db28919a174
-SHA256: 57d281d4e098b2c27fb823fefcd718482887d5d7fc0604c9d01c10b6508ab965
+Size: 396864
+MD5sum: 1843543dea3ebe26fbcc59a0f1e4c23c
+SHA1: a86530a9cca495cb0f00fcabfb8c0d5dcfebcaed
+SHA256: bd81bdca8bc18e949563451f579b880dab3336f59e2fe8960a72270a498dfba5
 Section: Tweaks
 Description: Floating Dock on iOS 16
 Author: Ethan Whited
