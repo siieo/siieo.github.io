@@ -698,10 +698,10 @@ Maintainer: Ethan Whited
 Installed-Size: 812
 Depends: preferenceloader
 Filename: ./debs/com.nahtedetihw.floatingdockxvi_1.9_iphoneos-arm64e.deb
-Size: 396864
-MD5sum: 1843543dea3ebe26fbcc59a0f1e4c23c
-SHA1: a86530a9cca495cb0f00fcabfb8c0d5dcfebcaed
-SHA256: bd81bdca8bc18e949563451f579b880dab3336f59e2fe8960a72270a498dfba5
+Size: 396840
+MD5sum: 08e1449469cf2c913e72d0eb093e5a6d
+SHA1: 746f75ec1e1b20096bf52821349effe9f80eb3f5
+SHA256: 704ef5cc8da95eff02334d0657761a7984519ef541d813f12dffba0f9de4fc9d
 Section: Tweaks
 Description: Floating Dock on iOS 16
 Author: Ethan Whited
