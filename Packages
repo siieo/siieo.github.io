@@ -1570,25 +1570,6 @@ Description: Little and colorful notification banners
 Author: Traurige <hello@traurige.dev>
 Name: Liddell
 
-Package: ellekit
-Version: 1.1.2
-Architecture: iphoneos-arm64e
-Maintainer: Dhinak G <dhinak@dhinak.net>
-Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
-Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
-Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
-Filename: ./debs/ellekit_1.1.2_iphoneos-arm64e.deb
-Size: 337220
-MD5sum: ea717ce0084dab141f735a1f99443185
-SHA1: 9386973fc436c92be9280da98fa090abc1bdb8e5
-SHA256: 18d96152dbdef56d90314949810a08cc25365c413f85315baa4569141cf1a187
-Section: Tweak Injection
-Priority: optional
-Description: ElleKit tweak injection libraries and loader
-Author: Evelyn
-Icon: https://ellekit.space/logos/logo.png
-Name: ElleKit
-
 Package: jp.dcsyhi.zetsu
 Version: 1.5
 Architecture: iphoneos-arm64e
