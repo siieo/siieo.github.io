@@ -1176,6 +1176,23 @@ Depiction: https://slyfabi.github.io/depictions/?p=com.slyfabi.blurryalerts
 Icon: file://Library/PreferenceBundles/BlurryAlerts.bundle/icon@3x.png
 Name: BlurryAlerts
 
+Package: com.spark.hidebarx
+Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.spark.hidebarx_0.0.4_iphoneos-arm64e.deb
+Size: 4268
+MD5sum: 4ef9c7b8600b1aefd6687c1deaa78f9b
+SHA1: 47da88430c0d4ee7c29480164f645a00a9a77db3
+SHA256: cb354596290c2e9fc7796934deaec9f67e4b68b7bb91e0d9a5897c44f454ec8c
+Section: Tweaks
+Description: Hides the iPhone X home bar - compatible with VolumeBarX
+Author: Spark
+Name: HideBarX [Public]
+Removes: com.spark.HidebarX
+
 Package: com.spark.libsparkapplist
 Version: 1.1.0~rootless
 Architecture: iphoneos-arm64e
@@ -1207,6 +1224,23 @@ Description: Simple to implement, simple to use colour picker library. Built by 
 Tag: role::developer
 Author: Spark
 Name: libsparkcolourpicker
+
+Package: com.spark.lowbatterybanner
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.spark.lowbatterybanner_1.0.2_iphoneos-arm64e.deb
+Size: 7268
+MD5sum: 193949f642af0d41c8a3cd925b741152
+SHA1: 2fc5fe1341b32ae33c60463cbb99029fab6868c9
+SHA256: 6ecf59e1d116b3cc7556720e7f6d247e04ffcee0cefbd3f79852483249307430
+Section: Tweaks
+Description: Replace low power alert with a banner notification!
+Author: Spark
+Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=LowBatteryBanner
+Name: LowBatteryBanner [Public]
 
 Package: com.spark.snowboard
 Version: 1.5.26-Beta4-rootless
