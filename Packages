@@ -1919,17 +1919,17 @@ Author: roothide
 Name: Patches for Filza 64bit
 
 Package: weeb.lillie.accentcustom
-Version: 2.2~nezuko
+Version: 2.2.1~nezuko
 Architecture: iphoneos-arm64e
 Maintainer: Nezuko
 Installed-Size: 376
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader, com.spark.libsparkcolourpicker, com.spark.libsparkapplist
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader, com.spark.libsparkcolourpicker, com.spark.libsparkapplist, ws.hbang.alderis
 Conflicts: com.ivanc.accent
-Filename: ./debs/weeb.lillie.accentcustom_2.2~nezuko_iphoneos-arm64e.deb
-Size: 16920
-MD5sum: 12d5bc3fdd4138e11089c6ff60a61fb2
-SHA1: 90a8a4b0d47d5a7592f18beff2633b744ee4fc8e
-SHA256: e86fc46197fab3d640c4a001d91c99a83233b22f54fe6d219f87a459759584a2
+Filename: ./debs/weeb.lillie.accentcustom_2.2.1~nezuko_iphoneos-arm64e.deb
+Size: 17004
+MD5sum: f0c924502768edc326c3b389d98f6b9d
+SHA1: 455ee85a96420257b1987b2a48dc4b83b39c97ab
+SHA256: 8239791300a86788ff924ee97b226b003e00b6e4a62512d8fd27ad9b997194cd
 Section: Tweaks
 Description: iOS Accent Colours In macOS Style
 Author: Lillie & Nezuko
