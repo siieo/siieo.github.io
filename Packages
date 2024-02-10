@@ -1622,6 +1622,22 @@ Description: Little and colorful notification banners
 Author: Traurige <hello@traurige.dev>
 Name: Liddell
 
+Package: gay.kota.basiccarrier
+Version: 1.0.0nya~
+Architecture: iphoneos-arm64e
+Maintainer: Kota
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/gay.kota.basiccarrier_1.0.0nya~_iphoneos-arm64e.deb
+Size: 14410
+MD5sum: d218a8107a88f13af1bb56e0a7a004db
+SHA1: 7ec7a079a160788341ce1b3a197de1422304891c
+SHA256: 5c5876c356f4d9b0035571f28f0f2f3037766e8602df3cca6f5ad31b58c0c96d
+Section: Tweaks
+Description: Basic tweak to change carrier text. iOS 13+
+Author: Kota
+Name: Basic Carrier
+
 Package: jp.dcsyhi.zetsu
 Version: 1.5
 Architecture: iphoneos-arm64e
