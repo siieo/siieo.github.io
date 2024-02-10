@@ -643,6 +643,24 @@ Tag: role::developer
 Author: MrGcGamer
 Name: LibGcUniversal
 
+Package: com.mtac.ccpowermenu
+Version: 1.0.2~roothide
+Architecture: iphoneos-arm64e
+Maintainer: MTAC
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.mtac.ccpowermenu_1.0.2~roothide_iphoneos-arm64e.deb
+Size: 30716
+MD5sum: e236a518fa947f6fb48a903620f5ed20
+SHA1: 17a48ce8a594c88dd2a22290e13e5f82c54a8e55
+SHA256: 014078cda88a02dddcecf50453d9dc7bb42790c052d55690fd347b1e9163a621
+Section: Control Center (Modules)
+Description: Control device power options from Control Center
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.ccpowermenu/icon-rounded.png
+Name: CCPowerMenu
+Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.ccpowermenu.json
+
 Package: com.mtac.uptime
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -1846,6 +1864,23 @@ Depiction: https://chariz.com/get/atria
 Icon: https://img.chariz.cloud/icon/atria/icon@3x.png
 Name: Atria
 
+Package: me.luki.zaire
+Version: 0.9.0
+Architecture: iphoneos-arm64e
+Maintainer: Luki
+Depends: mobilesubstrate
+Filename: ./debs/me.luki.zaire_0.9.0_iphoneos-arm64e.deb
+Size: 5340
+MD5sum: 3235c6b730d161e2f77b11f5fb083e14
+SHA1: ed9090cbc137ef8447c3de52eeb309651066bbce
+SHA256: a3fff3934e7ddb590c6312d2c6046961be58978282b8343b2455a324a76015f7
+Section: Tweaks
+Description: Displays the number of installed apps in the storage page
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.zaire
+Name: Zaire
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.zaire/depiction.json
+
 Package: me.nepeta.axon
 Version: 1.5
 Architecture: iphoneos-arm64e
@@ -1862,6 +1897,24 @@ Section: Tweaks
 Description: Priority Hub for iOS 16
 Author: Nepeta & Baw Appie
 Name: Axon
+
+Package: mterminal
+Version: 1.6
+Architecture: iphoneos-arm64e
+Maintainer: D.F (MTAC) <mtac@mtac.app>
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh
+Filename: ./debs/mterminal_1.6_iphoneos-arm64e.deb
+Size: 85428
+MD5sum: 177b14b4499c2aedc5b38e93985843cd
+SHA1: d20381a4889d4a07e95044f7a678ce0b81945dbe
+SHA256: 8ffbd69918b4d0ed61c09c2527c07b1fa9afe6d2353228f9623a7a8bf11fe298
+Section: Utilities
+Description: A MobileTerminal fork
+Author: lordscotland <admin@officialscheduler.com>
+Icon: https://mtac.app/repo/assets/com.officialscheduler.mterminal/icon-rounded.png
+Name: MTerminal
+Sileodepiction: https://mtac.app/repo/depiction/native/com.officialscheduler.mterminal.json
 
 Package: net.limneos.nobetaexpiredalert
 Version: 0.0.1-4
