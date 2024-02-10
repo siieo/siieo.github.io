@@ -818,6 +818,21 @@ Description: Emojis from iOS 17.4
 Author: Nezuko
 Name: iOS 17.4 Emojis
 
+Package: com.nezuko.fontcorporative85
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Nezuko
+Depends: com.spark.snowboard.fonts
+Filename: ./debs/com.nezuko.fontcorporative85_1.0_iphoneos-arm64e.deb
+Size: 1616556
+MD5sum: 61344677e5caccbf9281e69f64e9cc63
+SHA1: 201f4267374117e2299ed2be230c71234757a452
+SHA256: d47453397d7d29b53855857168ae9165d964c9aa31c07d75939ba98aa4695d91
+Section: Themes
+Description: Font Corporative Sans Alt 85%
+Author: Alexman1979
+Name: Font Corporative Sans Alt 85%
+
 Package: com.nightwind.boldersreborn
 Version: 1.1.2
 Architecture: iphoneos-arm64e
@@ -1510,6 +1525,27 @@ Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
 Author: TIGI Software
 Name: Filza File Manager 64-bit
+
+Package: com.tomaszpoliszuk.applibrarydisabler
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 14.0), mobilesubstrate, cy+model.iphone | cy+model.ipod | firmware (>= 15.0)
+Conflicts: com.tomaszpoliszuk.applibraryenabler
+Filename: ./debs/com.tomaszpoliszuk.applibrarydisabler_1.1.1_iphoneos-arm64e.deb
+Size: 3536
+MD5sum: 0b84606f0f25cdf62e549e5d26e5529f
+SHA1: fc9eb4036539dace6b1fe33bc81460f8ad4e7cc0
+SHA256: 92c50912bbfa15087b66da937caa2e92475940e99ebf11f4327dcc807561a864
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
+Description: Turn off App Library
+Tag: purpose::extension
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
+Dev: tomaszpoliszuk
+Name: App Library Disabler
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.twickd.john-sklikas.3dbadgeclear
 Version: 1.6.8
