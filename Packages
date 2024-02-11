@@ -318,6 +318,24 @@ Sileodepiction: https://nahtedetihw.github.io/depiction/native/com.ethn.mirage.j
 Someotherentrytocontrol: True
 Tags: compatible_min::ios11.0, compatible_max::ios14.3
 
+Package: com.evynw.fontquicksand14
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontquicksand14_1.0_iphoneos-arm64e.deb
+Size: 10512192
+MD5sum: 950a1d5b6765d447c76bbb9cf21a386e
+SHA1: 8a56515b688916d6e0a741027efc62c1edf1a236
+SHA256: b867e24dcdff7412490fced22309c1290fb96aa6d387a1ad14e081457320f461
+Section: Fonts (iOS14-16)
+Description: Rounded sans serif. 100% size. For iOS14-16.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontquicksand14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Quicksand (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontquicksand14.json
+
 Package: com.exile90.icleanerpro
 Version: 7.10~Nezuko
 Architecture: iphoneos-arm64e
@@ -764,11 +782,11 @@ Architecture: iphoneos-arm64e
 Maintainer: Nezuko
 Depends: com.ps.emojifontmanager
 Filename: ./debs/com.nezuko.emoji3dfluent_1.0_iphoneos-arm64e.deb
-Size: 22873956
-MD5sum: e059959ac0d9b8034556d97bf314365e
-SHA1: dfa66ddce906fff9c2274dbbcf4ccbde98289cda
-SHA256: 6aec9b060cacc5af286f7a610e6eedcded222098545849ba66f9fee4aa67d6e7
-Section: Themes
+Size: 22871044
+MD5sum: b76c93d75a09d743bd10014f379cd7b5
+SHA1: c2a86da19c16b40098a458ab1407f72bd8cb6b1c
+SHA256: 0cb57820303f6097ecc63db687f6c6c1755ff72ee710f3c683722bfe55ad41ed
+Section: Fonts
 Description: 3D Fluent Emojis
 Author: Nezuko
 Name: 3D Fluent Emojis
@@ -779,26 +797,26 @@ Architecture: iphoneos-arm64e
 Maintainer: Nezuko
 Depends: com.ps.emojifontmanager, com.ps.emojiportpe
 Filename: ./debs/com.nezuko.emojinoto_1.0_iphoneos-arm64e.deb
-Size: 35139460
-MD5sum: 83d9bdd75b97a120cba69ee0d150309b
-SHA1: 6c8d3698b8c6f6792209c5478c31d4ef7857cb22
-SHA256: a22c462d2f9a39dd55c57bc8fb3f15b2c86ba9595a563a3d4896fe952155e929
-Section: Themes
+Size: 35140232
+MD5sum: 6945c0b081d4903fe655207aa6d63245
+SHA1: ba5eb6d5f9e69bc4cc7312e1efbb9e6d54a2a172
+SHA256: dab6a884ab88fa6dd9c03f801b4f2b320d476ece55852f45f32c4ec5bbec8f06
+Section: Fonts
 Description: Noto Emojis
 Author: Nezuko
 Name: Noto Emojis
 
 Package: com.nezuko.emojioneui
-Version: 1.0
+Version: 15.1~beta7
 Architecture: iphoneos-arm64e
 Maintainer: Nezuko
 Depends: com.ps.emojifontmanager, com.ps.emojiportpe
-Filename: ./debs/com.nezuko.emojioneui_1.0_iphoneos-arm64e.deb
-Size: 26430596
-MD5sum: e3d123247a6b8bab2f0a2fb06f90f189
-SHA1: 7f0d13652e2e4c062e3dc5d9975aa3ce502f8796
-SHA256: 4a23820a0760c715291bc9d126cc333d3180104bcd0416a33d1edda75aafd7cd
-Section: Themes
+Filename: ./debs/com.nezuko.emojioneui_15.1~beta7_iphoneos-arm64e.deb
+Size: 26431344
+MD5sum: 2505563ae1c146dc14d4b8160c1b3c3c
+SHA1: 4e6bcdec099f916b932da4d2d394e8a7012ca553
+SHA256: c509a3c7b25451cbbbfb74c9459aabd1feded8636397362483551b15d1fb0e46
+Section: Fonts
 Description: One UI Emojis
 Author: Nezuko
 Name: One UI 6 Emojis
@@ -809,11 +827,11 @@ Architecture: iphoneos-arm64e
 Maintainer: Nezuko
 Depends: com.ps.emojifontmanager, com.ps.emojiportpe
 Filename: ./debs/com.nezuko.emojis_1.0_iphoneos-arm64e.deb
-Size: 58133768
-MD5sum: 067055351a2efa38a4f2ff825c6f729e
-SHA1: ff5292746f6eab804af4c783f7851cdabea30ca6
-SHA256: 4964169d5b5059daa9d8d723bebd512130a09024030aa22165e665d5a0443ec0
-Section: Themes
+Size: 58136532
+MD5sum: 53a28716146a103b8f0a0d56567fd856
+SHA1: f5f9b4474c45ff7a48c8ed30770e8fbce95ea759
+SHA256: 11bf22817b53ecd34ef3f1ed0be612630660c48f49f536f97bc73fc03c67d5d5
+Section: Fonts
 Description: Emojis from iOS 17.4
 Author: Nezuko
 Name: iOS 17.4 Emojis
@@ -824,14 +842,14 @@ Architecture: iphoneos-arm64e
 Maintainer: Nezuko
 Depends: com.spark.snowboard.fonts
 Filename: ./debs/com.nezuko.fontcorporative85_1.0_iphoneos-arm64e.deb
-Size: 1616556
-MD5sum: 61344677e5caccbf9281e69f64e9cc63
-SHA1: 201f4267374117e2299ed2be230c71234757a452
-SHA256: d47453397d7d29b53855857168ae9165d964c9aa31c07d75939ba98aa4695d91
-Section: Themes
-Description: Font Corporative Sans Alt 85%
+Size: 1617156
+MD5sum: 366ea6501de9c066780f6b4a1a50cf88
+SHA1: 43d5bf596624280deb49d173148b129a8b5ff3ff
+SHA256: 7db0b2b7910b6453bb4be1469241023cd08c5f4f09b09a3b4910d419fc80c929
+Section: Fonts
+Description: Corporative Sans Alt Font (85%)
 Author: Alexman1979
-Name: Font Corporative Sans Alt 85%
+Name: Corporative Sans Alt Font (85%)
 
 Package: com.nightwind.boldersreborn
 Version: 1.1.2
@@ -2041,6 +2059,111 @@ Author: Lillie & Nezuko
 Depiction: https://repo.lillieweeb001.xyz/depictions/accentcustom.html
 Name: Accent Custom
 Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.accentcustom/depiction.json
+
+Package: works.alo.fonts.meloso100
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Alo <bbscydia@gmail.com>
+Depends: firmware (>=14.0)
+Filename: ./debs/works.alo.fonts.meloso100_1.0_iphoneos-arm64e.deb
+Size: 11424332
+MD5sum: 6f92d082c6dac062771ce4e6fd8b2214
+SHA1: ad589b1b1c4ffed5ced07d2dd8751ca3b0c61e45
+SHA256: cfea24caf8d088232066879772969ff248eb72a11328430a1cb2d7306751d91b
+Section: Fonts (iOS 14-16)
+Homepage: https://alo.works/
+Description: Meloso is a font which has a playful and organic feel that has its own hand-drawn charm. 100% scale. For iOS 14-16
+Author: Alexman <bbscydia@gmail.com>
+Depiction: https://alo.works/depiction/web/works.alo.fonts.meloso100.html
+Icon: https://alo.works/assets/works.alo.fonts.meloso100/icon.png
+Moderndepiction: https://alo.works/depiction/native/works.alo.fonts.meloso100.json
+Name: Meloso Font (100%)
+Sileodepiction: https://alo.works/depiction/native/works.alo.fonts.meloso100.json
+Tags: compatible_min::ios14.0, compatible_max::ios16.6
+
+Package: works.alo.fonts.meloso80
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Alo <bbscydia@gmail.com>
+Depends: firmware (>=14.0)
+Filename: ./debs/works.alo.fonts.meloso80_1.0_iphoneos-arm64e.deb
+Size: 12488172
+MD5sum: d9cc94724fb89c697479c09ed701aabc
+SHA1: 897ddde4cef73099333f5a3a388510b4e0544ee8
+SHA256: 6db2dc6b281379edf2d8d05321bb768f01f2c9538516f7c6ecddd04fece4f33b
+Section: Fonts (iOS 14-16)
+Homepage: https://alo.works/
+Description: Meloso is a font which has a playful and organic feel that has its own hand-drawn charm. 80% scale. For iOS 14-16
+Author: Alexman <bbscydia@gmail.com>
+Depiction: https://alo.works/depiction/web/works.alo.fonts.meloso80.html
+Icon: https://alo.works/assets/works.alo.fonts.meloso80/icon.png
+Moderndepiction: https://alo.works/depiction/native/works.alo.fonts.meloso80.json
+Name: Meloso Font (80%)
+Sileodepiction: https://alo.works/depiction/native/works.alo.fonts.meloso80.json
+Tags: compatible_min::ios14.0, compatible_max::ios16.6
+
+Package: works.alo.fonts.meloso85
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Alo <bbscydia@gmail.com>
+Depends: firmware (>=14.0)
+Filename: ./debs/works.alo.fonts.meloso85_1.0_iphoneos-arm64e.deb
+Size: 12478268
+MD5sum: 02b6c4d6f7d38338f7ec7befce1063ce
+SHA1: 45e2ddcd71ddfc54d0d10a043f99bb6d8945405f
+SHA256: 3f68e0b65229fb8a6415636006b219839a3a6f1cd3c0a31f633a986110632430
+Section: Fonts (iOS 14-16)
+Homepage: https://alo.works/
+Description: Meloso is a font which has a playful and organic feel that has its own hand-drawn charm. 85% scale. For iOS 14-16
+Author: Alexman <bbscydia@gmail.com>
+Depiction: https://alo.works/depiction/web/works.alo.fonts.meloso85.html
+Icon: https://alo.works/assets/works.alo.fonts.meloso85/icon.png
+Moderndepiction: https://alo.works/depiction/native/works.alo.fonts.meloso85.json
+Name: Meloso Font (85%)
+Sileodepiction: https://alo.works/depiction/native/works.alo.fonts.meloso85.json
+Tags: compatible_min::ios14.0, compatible_max::ios16.6
+
+Package: works.alo.fonts.mikhak100
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Alo <bbscydia@gmail.com>
+Depends: firmware (>=14.0)
+Filename: ./debs/works.alo.fonts.mikhak100_1.0_iphoneos-arm64e.deb
+Size: 10778964
+MD5sum: d0c60cfa9aa0cbc594a24cf5d37e1ae6
+SHA1: b691df97bd02deb78fca97e57b54d925481f47f3
+SHA256: c3c27ee5997038f51d4dd1899b23f7e4f7d4ae86f59cf50069ff5d22b915653f
+Section: Fonts (iOS 14-16)
+Homepage: https://alo.works/
+Description: Simple monoline semi handwriting font. 100% scale. For iOS 14-16
+Author: Alexman <bbscydia@gmail.com>
+Depiction: https://alo.works/depiction/web/works.alo.fonts.mikhak100.html
+Icon: https://alo.works/assets/works.alo.fonts.mikhak100/icon.png
+Moderndepiction: https://alo.works/depiction/native/works.alo.fonts.mikhak100.json
+Name: Mikhak Font (100%)
+Sileodepiction: https://alo.works/depiction/native/works.alo.fonts.mikhak100.json
+Tags: compatible_min::ios14.0, compatible_max::ios16.6
+
+Package: works.alo.fonts.mikhak85
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Alo <bbscydia@gmail.com>
+Depends: firmware (>=14.0)
+Filename: ./debs/works.alo.fonts.mikhak85_1.0_iphoneos-arm64e.deb
+Size: 11561552
+MD5sum: 2a3fecf3c85d54cbc85e4138d1ed18e1
+SHA1: aa0d569df64acdc47c48a7f5bf943ad22a7ddf31
+SHA256: 3a67761168430e1681bc7c9d73c3fac9cc4e47ec27c2eb8bf10651af78253831
+Section: Fonts (iOS 14-16)
+Homepage: https://alo.works/
+Description: Simple monoline semi handwriting font. 85% scale. For iOS 14-16
+Author: Alexman <bbscydia@gmail.com>
+Depiction: https://alo.works/depiction/web/works.alo.fonts.mikhak85.html
+Icon: https://alo.works/assets/works.alo.fonts.mikhak85/icon.png
+Moderndepiction: https://alo.works/depiction/native/works.alo.fonts.mikhak85.json
+Name: Mikhak Font (85%)
+Sileodepiction: https://alo.works/depiction/native/works.alo.fonts.mikhak85.json
+Tags: compatible_min::ios14.0, compatible_max::ios16.6
 
 Package: ws.hbang.alderis
 Version: 1.2.3.1
