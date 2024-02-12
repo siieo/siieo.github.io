@@ -2002,6 +2002,27 @@ Description: Removes Beta Expired Nag Alerts
 Author: Elias Limneos <limneoselias@gmail.com>
 Name: NoBetaExpiredAlert
 
+Package: netskao.ccbadgeclear
+Version: 1.2-4~roothide
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Filename: ./debs/netskao.ccbadgeclear_1.2-4~roothide_iphoneos-arm64e.deb
+Size: 19328
+MD5sum: 2e27af71f8f2ed358597b787b49b4590
+SHA1: 17f260b016dc8d2a384deff7ee94469ebe7f6c0f
+SHA256: 592fa03ba77347718a626dd7b8beb4095bfb435611be5ed228aaf579f5d2c1eb
+Section: Addons (ControlCenter)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccbadgeclearDp
+Description: Quickly clean up all red badge on desktop via Control Center, support iOS11-16
+Tag: purpose::extension
+Author: Netskao <netskao@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccbadgeclearDp
+Dev: netskao
+Icon: file:///Library/ControlCenter/Bundles/CCBadgeClear.bundle/Icon@2x.png
+Name: CCBadgeClear
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.9.1
 Architecture: iphoneos-arm64e
