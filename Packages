@@ -464,6 +464,38 @@ Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gsweather/icon.png
 Name: GSWeather (Rootless)
 Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gsweather.json
 
+Package: com.hitori.dotsbegone
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.hitori.dotsbegone_1.0_iphoneos-arm64e.deb
+Size: 2464
+MD5sum: d2f6475d675ac5ffc09d9c332367d17f
+SHA1: ef2db6405edbc516b63748a71d2f8c56b05d8309
+SHA256: a28bd1be9eb19b07a1e4aa5b086474c7f98ac80468cb17ae92983afa94b7db4b
+Section: Tweaks
+Description: Remove page dots from the home screen
+Author: Hitori
+Name: Dots Be Gone
+
+Package: com.hitori.quickactionsbegone
+Version: 5.0~Hitori
+Architecture: iphoneos-arm64e
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.hitori.quickactionsbegone_5.0~Hitori_iphoneos-arm64e.deb
+Size: 2562
+MD5sum: 787dd212cfa1b87479be807f1e3aea3d
+SHA1: 7800d3828c3fc4d7a8ea2473f5f6ff0a32338456
+SHA256: f2f72b622dd82e48de80ec1c58d937fde8cbbed2c8425f792ca64da53e77ed2b
+Section: Tweaks
+Description: Hide the Flashlight and the Camera button on the Lock screen
+Author: Hitori
+Name: Quick Actions Be Gone
+
 Package: com.ichitaso.iconorder
 Version: 1.0.2
 Architecture: iphoneos-arm64e
