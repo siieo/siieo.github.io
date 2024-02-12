@@ -2023,6 +2023,26 @@ Icon: file:///Library/ControlCenter/Bundles/CCBadgeClear.bundle/Icon@2x.png
 Name: CCBadgeClear
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: netskao.doubleclickwake
+Version: 1.1-2~roothide
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/netskao.doubleclickwake_1.1-2~roothide_iphoneos-arm64e.deb
+Size: 3816
+MD5sum: 6d072968645801cf02ac828cdeba581c
+SHA1: 4651c3cab1a6680430b7485bcbb7d3be31549dfe
+SHA256: b27649118b3cdc778ddf1188512330cb111b52cd876bfc0a61697ead50bc31e0
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=doubleclickwakeDp
+Description: Changing click to wake for full screen devices to double click to wake.
+Tag: purpose::extension
+Author: Netskao <netskao@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=doubleclickwakeDp
+Dev: netskao
+Name: DoubleClickWake
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.9.1
 Architecture: iphoneos-arm64e
