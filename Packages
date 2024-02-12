@@ -465,18 +465,18 @@ Name: GSWeather (Rootless)
 Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gsweather.json
 
 Package: com.hitori.dotsbegone
-Version: 1.0
+Version: 5.0~Hitori
 Architecture: iphoneos-arm64e
 Maintainer: Hitori
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/com.hitori.dotsbegone_1.0_iphoneos-arm64e.deb
+Filename: ./debs/com.hitori.dotsbegone_5.0~Hitori_iphoneos-arm64e.deb
 Size: 2464
-MD5sum: d2f6475d675ac5ffc09d9c332367d17f
-SHA1: ef2db6405edbc516b63748a71d2f8c56b05d8309
-SHA256: a28bd1be9eb19b07a1e4aa5b086474c7f98ac80468cb17ae92983afa94b7db4b
+MD5sum: 966545e23848b150d87903e09b6dc5d4
+SHA1: 37e768b9231cb73cffafb4122b703f4e74d42024
+SHA256: c9b165a0e464d5ed87860b9dcdeb9e717c568b1360c6653c53509a7ef73bb225
 Section: Tweaks
-Description: Remove page dots from the home screen
+Description: Remove page dots from the Home screen
 Author: Hitori
 Name: Dots Be Gone
 
