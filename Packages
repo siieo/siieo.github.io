@@ -533,6 +533,21 @@ Icon: https://cydia.ichitaso.com/icons/PowerSelector.png
 Name: PowerSelector
 Sileodepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
 
+Package: com.icraze.translucent3dmenus
+Version: 2.0~roothide
+Architecture: iphoneos-arm64e
+Maintainer: iCraze
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.icraze.translucent3dmenus_2.0~roothide_iphoneos-arm64e.deb
+Size: 4668
+MD5sum: b0e38deb3c25d25436da8bbd3c3973a7
+SHA1: bf12a0b6616916f808c547546d8a4424b2b92cce
+SHA256: ad762d5f66401866e85f357c8270a01efee06e07b371901b7d7e2948ffb97f09
+Section: Tweaks
+Description: Make the 3D-Touch menus translucent
+Author: iCraze
+Name: Translucent3DMenus
+
 Package: com.ioscreatix.sugarcane
 Version: 1.2.4.3
 Architecture: iphoneos-arm64e
