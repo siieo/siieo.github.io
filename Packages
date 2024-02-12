@@ -2049,10 +2049,10 @@ Installed-Size: 404
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader, com.spark.libsparkcolourpicker, com.spark.libsparkapplist, ws.hbang.alderis
 Conflicts: com.ivanc.accent
 Filename: ./debs/weeb.lillie.accentcustom_2.2.2~nezuko_iphoneos-arm64e.deb
-Size: 39992
-MD5sum: 983aca6438976a70bb6306a2c66d6244
-SHA1: 68cee183d8833962280672e655e09e3f75258ade
-SHA256: 528f29eeefb114ed1dd2ff6153bdf80f1fbee644dbd15fbe3320c99c8968c423
+Size: 39954
+MD5sum: 79a97ff53026fae3e2567b65fc170fc0
+SHA1: 85feef935824603bc0274fc9426d847397d4183e
+SHA256: 2c4dff0e0a61f27f5acfe0e680d2db0292f91fe685dd0a15759f992001a966b3
 Section: Tweaks
 Description: iOS Accent Colours In macOS Style
 Author: Lillie & Nezuko
