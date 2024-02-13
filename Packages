@@ -1203,17 +1203,16 @@ Author: Baw Appie <pp121324@gmail.com>
 Name: A-Font
 
 Package: com.ryannair05.cask3
-Version: 1.0.2
+Version: 1.0.2~roothide
 Architecture: iphoneos-arm64e
 Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
-Installed-Size: 854
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
 Replaces: com.ryannair05.cask2
-Filename: ./debs/com.ryannair05.cask3_1.0.2_iphoneos-arm64e.deb
-Size: 341234
-MD5sum: 6627ed5cb6b5ebf97209bce4781c61c2
-SHA1: beadfd9e39ec085108930da07c843b79abba3c10
-SHA256: 355b83aa4b650da0454b1f96ba596c0fd86b26291c99b6289436fbbff7447c58
+Filename: ./debs/com.ryannair05.cask3_1.0.2~roothide_iphoneos-arm64e.deb
+Size: 319936
+MD5sum: a6f1ec7347b14fb5dc410810f84d6db9
+SHA1: 1b3d7d9ec90f79bf97d7ef577712b649000ae360
+SHA256: a8e5ccc58b996e947bff7630d19481e65e999149f2aed9296a6630f4089f2ae1
 Section: Tweaks
 Description: Animated table scrolling
 Tag: compatible_min::ios14.0
@@ -2049,6 +2048,21 @@ Description: Removes Beta Expired Nag Alerts
 Author: Elias Limneos <limneoselias@gmail.com>
 Name: NoBetaExpiredAlert
 
+Package: net.sourceloc.pinanim
+Version: 2.0~roothide
+Architecture: iphoneos-arm64e
+Maintainer: sourcelocation
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
+Filename: ./debs/net.sourceloc.pinanim_2.0~roothide_iphoneos-arm64e.deb
+Size: 77500
+MD5sum: 2972e132ea9629b16334efcf46913585
+SHA1: 47528bd19b03c787b1ae590eff42534a8496a9bb
+SHA256: fe7b0709e9954a9177128bff018b327041be0ad48a0a41210c8e829fdf67802c
+Section: Tweaks
+Description: Animations for Pin dots
+Author: sourcelocation
+Name: PinAnim
+
 Package: netskao.ccbadgeclear
 Version: 1.2-4~roothide
 Architecture: iphoneos-arm64e
@@ -2130,17 +2144,17 @@ Author: roothide
 Name: Patches for Filza 64bit
 
 Package: weeb.lillie.accentcustom
-Version: 2.2.2~nezuko
+Version: 2.2.4~nezuko
 Architecture: iphoneos-arm64e
 Maintainer: Nezuko
-Installed-Size: 404
+Installed-Size: 392
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader, com.spark.libsparkcolourpicker, com.spark.libsparkapplist, ws.hbang.alderis
 Conflicts: com.ivanc.accent
-Filename: ./debs/weeb.lillie.accentcustom_2.2.2~nezuko_iphoneos-arm64e.deb
-Size: 39954
-MD5sum: 79a97ff53026fae3e2567b65fc170fc0
-SHA1: 85feef935824603bc0274fc9426d847397d4183e
-SHA256: 2c4dff0e0a61f27f5acfe0e680d2db0292f91fe685dd0a15759f992001a966b3
+Filename: ./debs/weeb.lillie.accentcustom_2.2.4~nezuko_iphoneos-arm64e.deb
+Size: 26656
+MD5sum: dcd598c4df092d553470051d5be70410
+SHA1: f7a852b2f18e9c9c9fb01e1fd02977f3ca0a5c76
+SHA256: 42c38e58cfe267942ebbef3e4a3201ce63468ca00b6c8084b05720cdd73461d0
 Section: Tweaks
 Description: iOS Accent Colours In macOS Style
 Author: Lillie & Nezuko
