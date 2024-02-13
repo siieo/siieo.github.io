@@ -1,15 +1,15 @@
 Package: Flex3beta
-Version: 3~Beta98.1~nezuko
+Version: 3~Beta98~nezuko
 Architecture: iphoneos-arm64e
 Maintainer: Nezuko
 Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/Flex3beta_3~Beta98.1~nezuko_iphoneos-arm64e.deb
-Size: 6275608
-MD5sum: 30ddaefcf5d07c197696925156193f08
-SHA1: 02e96a8e21deabcde3851cca4be846ffafa269c9
-SHA256: 1f90f2820b20b4357f6094c844bcf2d9cdc00bdb237a4d015123c5482919c894
+Filename: ./debs/Flex3beta_3~Beta98~nezuko_iphoneos-arm64e.deb
+Size: 6137348
+MD5sum: f4a7771aad177f31ec6678a212feef3b
+SHA1: 1f9ebe30b4f327359326bd464d9160e59a815b1a
+SHA256: 73584fa63b755238992b6013a8073da81c3700e90b224aea9bc82a2dc53a9c73
 Section: Tweaks
 Description: Develop your own tweaks and share them on the Flex Community Cloud - by Nezuko
 Author: John Coates
