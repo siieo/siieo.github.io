@@ -661,6 +661,41 @@ Description: Actually disable WiFI and Bluetooth from CC in iOS 11-16.
 Author: Jake James
 Name: RealCC
 
+Package: com.julioverne.goodwifi
+Version: 0.0~beta6
+Architecture: iphoneos-arm64e
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64e.deb
+Size: 40136
+MD5sum: e42c444a6b28659b818b6c18e65460c6
+SHA1: 8cfe605c8683b290baecf5f96be5bd917ed0729d
+SHA256: 29c2e45f0c1d55f005ecae6a72befc1416f389f5f99a743e2de107662024c0f7
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Better WiFi Preferences
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+Name: GoodWiFi
+
+Package: com.julioverne.lockdroid
+Version: 0.0~beta8
+Architecture: iphoneos-arm64e
+Maintainer: Julio
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.julioverne.lockdroid_0.0~beta8_iphoneos-arm64e.deb
+Size: 55800
+MD5sum: 30b773d56a6443a9f66020e298b1858b
+SHA1: 6bed3ddb52d3e82e5718f08a9f137a216c3af56b
+SHA256: abd83cca7e1e8e72a36a786026badd1a06a338b6f6c139a333eeb1a0e80b549e
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Android Lockscreen
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.lockdroid
+Name: LockDroid
+
 Package: com.miguelaka95.customizecc
 Version: 1.4.3.1
 Architecture: iphoneos-arm64e
