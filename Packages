@@ -496,6 +496,22 @@ Description: Hide the Flashlight and the Camera button on the Lock screen
 Author: Hitori
 Name: Quick Actions Be Gone
 
+Package: com.hitori.translucentquickaction
+Version: 4.0
+Architecture: iphoneos-arm64e
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.hitori.translucentquickaction_4.0_iphoneos-arm64e.deb
+Size: 2550
+MD5sum: 70fb0253d6bc9d72e644a92b44fab77d
+SHA1: 66e29738d44ab8afcddaafcf6dfa4ccb8cd601e6
+SHA256: 07698994f794d02d0bbe456e8e1c54bb410c0f8a6763db20a9891f288779668b
+Section: Tweaks
+Description: Make the Quick Actions background on Lock Screen translucent
+Author: Hitori
+Name: TranslucentQuickAction
+
 Package: com.ichitaso.iconorder
 Version: 1.0.2
 Architecture: iphoneos-arm64e
