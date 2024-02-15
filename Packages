@@ -1253,6 +1253,22 @@ Description: Change your font!
 Author: Baw Appie <pp121324@gmail.com>
 Name: A-Font
 
+Package: com.rpgfarm.a-shields
+Version: 1.7~roothide
+Architecture: iphoneos-arm64e
+Maintainer: Baw Appie <pp121324@gmail.com>
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, ws.hbang.alderis, com.opa334.altlist
+Filename: ./debs/com.rpgfarm.a-shields_1.7~roothide_iphoneos-arm64e.deb
+Size: 46980
+MD5sum: 40776ed57e07377f9b012cd7b557baa1
+SHA1: f5fc6ccb2e6a07624b642cbc4ed2754fb963ace9
+SHA256: f9dc0c4e8b9ec37d0a92ee56b52b231ecc925c72e10efdbfe7b54222742e42dd
+Section: Tweaks
+Description: Protect your device
+Author: Baw Appie <pp121324@gmail.com>
+Name: A-Shields
+
 Package: com.ryannair05.cask3
 Version: 1.0.2~roothide
 Architecture: iphoneos-arm64e
