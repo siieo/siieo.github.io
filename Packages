@@ -32,6 +32,23 @@ Description: This tweak makes ControlCenter cool! Compatible with iOS 15/rootles
 Author: alias20
 Name: CoolCC Reborn
 
+Package: beta.simalary.romanpad
+Version: 1.0~roothide
+Architecture: iphoneos-arm64e
+Maintainer: Simalary (Chris) <19harperc@gmail.com>
+Depends: mobilesubstrate, preferenceloader, oldabi
+Conflicts: beta.simalary.romanpad-beta
+Replaces: beta.simalary.romanpad-beta
+Filename: ./debs/beta.simalary.romanpad_1.0~roothide_iphoneos-arm64e.deb
+Size: 68724
+MD5sum: 011871c5dc97a9baa54a537f32e8d2c9
+SHA1: 916935299209375c6b0d7045fd7002e3b7ad5b76
+SHA256: 96d4eea4e4edf5283280b80b3ad5cf6f21704cb79a0eaaf306f5cd7db1e65ead
+Section: Tweaks
+Description: Change number buttons to Roman numerals.
+Author: Simalary (Chris) <19harperc@gmail.com>
+Name: RomanPad
+
 Package: ch.mdaus.latchkey
 Version: 2.3.4
 Architecture: iphoneos-arm64e
@@ -495,6 +512,22 @@ Section: Tweaks
 Description: Hide the Flashlight and the Camera button on the Lock screen
 Author: Hitori
 Name: Quick Actions Be Gone
+
+Package: com.hitori.showethernet
+Version: 4.0
+Architecture: iphoneos-arm64e
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.hitori.showethernet_4.0_iphoneos-arm64e.deb
+Size: 2546
+MD5sum: 96bde0751d07e4fe68bd40bea612b535
+SHA1: 4bc24ab445a150b41b9a0b34da19ad6f42d9de60
+SHA256: eedf5d4dd71f739a2c39409bb29434490f54f54108aa0635199fffa92b132566
+Section: Tweaks
+Description: Shows the Ethernet options in the Settings
+Author: Hitori
+Name: Show Ethernet
 
 Package: com.hitori.translucentquickaction
 Version: 4.0
@@ -1151,16 +1184,16 @@ Name: EmojiLibrary
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojilibrary.json
 
 Package: com.ps.emojiport10resources
-Version: 1.6.0~b1
+Version: 1.6.0~b2
 Architecture: iphoneos-arm64e
 Maintainer: PoomSmart
-Installed-Size: 224092
+Installed-Size: 241936
 Depends: firmware (>= 10.0)
-Filename: ./debs/com.ps.emojiport10resources_1.6.0~b1_iphoneos-arm64e.deb
-Size: 57088142
-MD5sum: 6d6c15a81a4f372e4463baf78605f9df
-SHA1: 98b27a642ed1955954db3f81cb4aa37bad1e8dc6
-SHA256: 953c4a233e9653bf83f4ba7d71682c26b7a663d448676817e5c45fb9d4a369be
+Filename: ./debs/com.ps.emojiport10resources_1.6.0~b2_iphoneos-arm64e.deb
+Size: 64401920
+MD5sum: df97e61abe4576647915ab382b452269
+SHA1: d8089a6ab1ab6e77e0b5a899c18478235a0829f0
+SHA256: ebe13e1dd5ccb00dc01eabf0d05bbeefbac58dfd56acafd32785bdebe5357a65
 Section: Tweaks
 Description: Latest emoji localization and metadata for iOS 10+
 Author: PoomSmart
