@@ -134,6 +134,115 @@ Description: Enable Apple Battery Icon
 Author: Mikasa
 Name: Wowza
 
+Package: com.ps.blurrybadges
+Version: 1.4.5
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 436
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.blurrybadges, com.spicat.blurrybadges
+Filename: ./debs/com.ps.blurrybadges_1.4.5_iphoneos-arm64.deb
+Size: 41866
+MD5sum: dc2a8e09c2590b2cdf851afea44a220b
+SHA1: 27f7b3af91cf9f7454e2eb3cd0cd557458418264
+SHA256: 0042d39fa2148edce179cb4916af646b3a87bb2abd7d373c8c5f21e32b2e40f7
+Section: Tweaks
+Description: Colored blur for SpringBoard icon badges.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/blurrybadges.html
+Name: BlurryBadges (iOS 14+)
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/blurrybadges.json
+
+Package: com.ps.emojiattributes
+Version: 1.8.0~b1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 508
+Depends: firmware (>= 5.1), mobilesubstrate, com.opa334.libundirect (>= 1.0)
+Conflicts: com.ps.flexmoji
+Filename: ./debs/com.ps.emojiattributes_1.8.0~b1_iphoneos-arm64.deb
+Size: 43072
+MD5sum: 67c7de6d54b020869e7b44f080e52c99
+SHA1: 66ab6f6210b84be2c638ddd8bdf7e059fbac0370
+SHA256: aed331da2877a49bfdc9ef23ac26526032c711717ee54d6219b6e3323feb0d72
+Section: Tweaks
+Description: Various under-the-hood fixes for emoji display.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiattributes.html
+Name: EmojiAttributes
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiattributes.json
+
+Package: com.ps.emojilibrary
+Version: 1.6.0~b1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 424
+Filename: ./debs/com.ps.emojilibrary_1.6.0~b1_iphoneos-arm64.deb
+Size: 34590
+MD5sum: ad1eda5eb0f415fb3d0e1c2ea603aac7
+SHA1: 59f6f226de945d280ea6e72dabb4fbbe789d537a
+SHA256: 2c3e47803ea2303f34abcad9d1038623e77baa415fb1e09464d91fb446409cc7
+Section: Development
+Description: Master library for PoomSmart's emoji tweaks.
+Tag: role::developer
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojilibrary.html
+Name: EmojiLibrary
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojilibrary.json
+
+Package: com.ps.emojiport10resources
+Version: 1.6.0~b2
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 241936
+Depends: firmware (>= 10.0)
+Filename: ./debs/com.ps.emojiport10resources_1.6.0~b2_iphoneos-arm64.deb
+Size: 64350656
+MD5sum: 83439a8ce58cf1d6db8d66647818be74
+SHA1: a88d205beb2a6e80d25b5b578d2512edc7078b79
+SHA256: c51e0fc485cfed3b4e8e6287a79fa9c94479282d84d6a6a866b4e5cecd908d1f
+Section: Tweaks
+Description: Latest emoji localization and metadata for iOS 10+
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport10resources.html
+Name: EmojiPort Resources (iOS 10+)
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiport10resources.json
+
+Package: com.ps.emojiportpe
+Version: 1.5.0~b2
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 400
+Depends: firmware (>= 12.0), firmware (<< 17.4), com.ps.emojiattributes (>= 1.8.0~b1) | com.ps.emojiattributes-meowbrek (>= 1.8.0~b1), com.ps.emojilibrary (>= 1.6.0~b1), com.ps.emojiport10resources (>= 1.6.0~b1)
+Filename: ./debs/com.ps.emojiportpe_1.5.0~b2_iphoneos-arm64.deb
+Size: 17876
+MD5sum: fc975f6b19613ca417fa81bc18a0969b
+SHA1: 3ecf4af780c4a02a41a5a77723ee0065651cb4ae
+SHA256: 32adb2951f2f3c1ef6c5cedd2b41eb784e47290a73e12b885c44ccce17daa20f
+Section: Tweaks
+Description: Latest emojis for iOS 12.0-17.3
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport_12.html
+Name: EmojiPort (iOS 12.0-17.3)
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojiport_12.json
+
+Package: com.ps.whatsallemojis
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), com.ps.emojilibrary
+Conflicts: com.spicat.whatsallemojis
+Filename: ./debs/com.ps.whatsallemojis_1.0.0_iphoneos-arm64.deb
+Size: 2974
+MD5sum: 7ff0f0bb32b8dbeeeafa3e5f153d50a8
+SHA1: cad1be6a08392f12b818bfe9a8012513dac59cd3
+SHA256: fd9da1dfd616a665779ee54e2e5393d4b7e9b5dc1a8ebef39f8b509a8f496110
+Section: Tweaks
+Description: Ensure WhatsApp recognizes the latest emojis.
+Author: PoomSmart
+Name: WhatsAllEmojis
+
 Package: com.rpgfarm.a-font
 Version: 1.11
 Architecture: iphoneos-arm64
