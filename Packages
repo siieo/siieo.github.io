@@ -329,6 +329,24 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.ioscreatix.sugarcane/ico
 Name: SugarCane 13/14/15/16
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.ioscreatix.sugarcane.json
 
+Package: com.julioverne.lockdroid
+Version: 0.0~beta8
+Architecture: iphoneos-arm64
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.julioverne.lockdroid_0.0~beta8_iphoneos-arm64.deb
+Size: 56628
+MD5sum: ac20d9138885cc5545e46d7cfc5d206a
+SHA1: a7a79a13671c41c605feb19ee0528c9f4220a4ed
+SHA256: baa1aac1a12d7074805a7262ff91d51171c5b08cf5f634fe09b485a560ec4ce7
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Android Lockscreen
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.lockdroid
+Icon: file:///var/jb/Library/PreferenceBundles/LockDroid.bundle/icon@2x.png
+Name: LockDroid
+
 Package: com.mikasa.wowza
 Version: 1.0
 Architecture: iphoneos-arm64
