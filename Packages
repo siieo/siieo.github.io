@@ -54,6 +54,22 @@ Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
 Name: AppData
 Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
 
+Package: com.hitori.clockwise
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Nezuko
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.hitori.clockwise_4.0_iphoneos-arm64.deb
+Size: 2084
+MD5sum: de40b9780e39049dc7410006d1d7ace9
+SHA1: abbf446e894a8e596d026e977a656c75c80a9908
+SHA256: 7f71f17f9f0935da0dc3151480b948fb8f7d146cadd27358d436915da2eb0443
+Section: Tweaks
+Description: The Clock icon is lost
+Author: Nezuko
+Name: Clockwise
+
 Package: com.hitori.dotsbegone
 Version: 5.0~Hitori
 Architecture: iphoneos-arm64
