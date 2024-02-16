@@ -1,3 +1,19 @@
+Package: com.bandarhl.bhtwitter
+Version: 4.3-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Installed-Size: 23840
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.bandarhl.bhtwitter_4.3-1+debug_iphoneos-arm64.deb
+Size: 8692250
+MD5sum: 64deb0bf6deee1055a00997088a8392e
+SHA1: 1a9424e145f80abf98c6512fb0eaab21fe3e794a
+SHA256: 2686ffb3a39fd8b6cc710858f112f00e90116338188238c8d5cb734f8afe94e3
+Section: Tweaks
+Description: Awesome tweak for Twitter
+Author: Bandar Alruwaili
+Name: BHTwitter
+
 Package: com.creaturecoding.tweaksettings
 Version: 1.0.8
 Architecture: iphoneos-arm64
@@ -476,6 +492,25 @@ Section: Fonts
 Description: Emojis from iOS 17.4
 Author: Nezuko
 Name: iOS 17.4 Emojis
+
+Package: com.p2kdev.quitall
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 440
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.quitall_1.3_iphoneos-arm64.deb
+Size: 32924
+MD5sum: 9f803236698919229db2ef197ff63158
+SHA1: f030b60f1ef2bfc54033cff312aa62211dab8a8f
+SHA256: d5811c835003ac155f6abaca0a3b15a637fea3370997b47550a7ec40b88f5975
+Section: Tweaks
+Description: Swipe down on app switcher card to kill all apps!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.quitall
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.quitall/icon.png
+Name: QuitAll
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.quitall.json
 
 Package: com.p2kdev.waqt
 Version: 1.3
