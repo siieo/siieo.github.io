@@ -607,15 +607,15 @@ Author: Baw Appie <pp121324@gmail.com>
 Name: A-Font
 
 Package: com.rpgfarm.a-shields
-Version: 1.7.1
+Version: 1.7
 Architecture: iphoneos-arm64
 Maintainer: Baw Appie <pp121324@gmail.com>
-Depends: mobilesubstrate, ws.hbang.alderis (>= 1.2), oldabi
-Filename: ./debs/com.rpgfarm.a-shields_1.7.1_iphoneos-arm64.deb
-Size: 50380
-MD5sum: baf729bcb91f509fec0c810564263031
-SHA1: c79a6501f21539725a60e2d167eeb791584f17df
-SHA256: 1bb04528d7c8f0c9482847e5b2237f54237a580a5f94ca6b7adcca499f88468c
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/com.rpgfarm.a-shields_1.7_iphoneos-arm64.deb
+Size: 47896
+MD5sum: d98aa09a18bb4fcbd16b7acb5a3487f8
+SHA1: 995834ddccfb5a8e797d5fbe3d23a0606c467a48
+SHA256: 4076280310a1ebe8b710025fc71f7a78c386fc0731c97c842a067c7bed2a6a54
 Section: Tweaks
 Description: Protect your device
 Author: Baw Appie <pp121324@gmail.com>
