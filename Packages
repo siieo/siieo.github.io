@@ -134,6 +134,25 @@ Description: Fixes uYou crash bugs on YouTube v18.43.4
 Author: iCraze
 Name: uYouCrashFix
 
+Package: com.imkpatil.colormybattery
+Version: 1.3.4
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 436
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.colormybattery_1.3.4_iphoneos-arm64.deb
+Size: 41352
+MD5sum: d4ac91182c836388095d0444ed89676e
+SHA1: 362390f0706e6d993c1f9b07e4e25587ec5c58ed
+SHA256: ce7dffc8783de0928fad3acc21f29fa90b66fa9307543e7000f1e995fd5abe89
+Section: Tweaks
+Description: Battery Color based on the battery percentage.
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.colormybattery
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.colormybattery/icon.png
+Name: ColorMyBattery
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.colormybattery.json
+
 Package: com.mikasa.wowza
 Version: 1.0
 Architecture: iphoneos-arm64
