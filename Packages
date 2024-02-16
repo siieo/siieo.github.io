@@ -189,6 +189,24 @@ Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
 Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
 Name: uYou
 
+Package: com.miro.uyouimport
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 444
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debs/com.miro.uyouimport_1.0_iphoneos-arm64.deb
+Size: 81376
+MD5sum: 583568c6e3b2215fd5d69da939f112b9
+SHA1: 582f9f84d000bb2b93b846c8e87226e778a5c19e
+SHA256: b7dd9822f4e7cf6a255eab72877d00229c86d648b50892419b96ed61b9b19bea
+Section: Tweaks
+Description: Library for importing songs/videos into the Music app.
+Tag: purpose::extension, compatible_min::ios13
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
+Name: uYouImport
+
 Package: com.p2kdev.waqt
 Version: 1.3
 Architecture: iphoneos-arm64
