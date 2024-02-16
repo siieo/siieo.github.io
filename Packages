@@ -2,13 +2,13 @@ Package: com.creaturecoding.tweaksettings
 Version: 1.0.8
 Architecture: iphoneos-arm64
 Maintainer: CreatureSurvive <support@creaturecoding.com>
-Installed-Size: 1064
-Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Installed-Size: 592
+Depends: firmware (>= 15.0), preferenceloader | com.creaturecoding.preferred
 Filename: ./debs/com.creaturecoding.tweaksettings_1.0.8_iphoneos-arm64.deb
-Size: 385528
-MD5sum: 95cc4431edd8cc5f737b4b5efad69d21
-SHA1: 6528ea2f1323498151ea25c6003fa0f1faa33640
-SHA256: 813bc58fe7c168f046005ed465ad346905b7e9f2f43dec0639eb13467d980a2a
+Size: 294578
+MD5sum: da51718cba835312ec2b85eb9ae8a797
+SHA1: f801130ecb5b9269e3c26779195fde5fdebaf598
+SHA256: 443f48f55c214a8d53b5e6b949c51f9005cfe4f9f6b5c9273541c2a85125cf37
 Section: Applications
 Priority: optional
 Homepage: https://creaturecoding.com/
@@ -17,7 +17,7 @@ Tag: purpose::application, compatible_min::ios10
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
 Dev: CreatureSurvive
-Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
+Icon: file:///Applications/TweakSettings.app/icon_large.png
 Name: TweakSettings
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
 
@@ -621,6 +621,22 @@ Description: Protect your device
 Author: Baw Appie <pp121324@gmail.com>
 Name: A-Shields
 
+Package: com.shepgoba.downloadbar
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Nezuko
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.shepgoba.downloadbar_1.2_iphoneos-arm64.deb
+Size: 5304
+MD5sum: 1825b05772ee02d3839ad046e54939d4
+SHA1: 902fcc2e9a88bdf38c43c19bc0cc6695af768a2a
+SHA256: 8a196a81faf69e381d866cf9f7e0314325b8103726181171a5e020bdeab7ad23
+Section: Tweaks
+Description: Show a progress bar for downloading apps instead!
+Author: shepgoba
+Name: DownloadBar
+
 Package: com.spark.libsparkapplist
 Version: 1.1.0~rootless
 Architecture: iphoneos-arm64
@@ -862,4 +878,22 @@ Author: Lillie & Hitori
 Depiction: https://repo.lillieweeb001.xyz/depictions/accentcustom.html
 Name: Accent Custom
 Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.accentcustom/depiction.json
+
+Package: xyz.skitty.sixls
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/xyz.skitty.sixls_1.2_iphoneos-arm64.deb
+Size: 1463600
+MD5sum: d5537100e4119b61cb55657bbecf1e72
+SHA1: cd66a002845fbed8edbf7eff91c9de54592e1fed
+SHA256: 4e920fefd5ecc277961355d0c57791dccce98563114828fc787e143fd7b37485
+Section: Tweaks
+Description: iOS 6 Style Lock Screen!
+Author: Skitty
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.sixls.png
+Name: Six (LS)
+Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls/sileo.json
 
