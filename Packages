@@ -189,6 +189,25 @@ Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
 Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
 Name: uYou
 
+Package: com.p2kdev.waqt
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.p2kdev.waqt_1.3_iphoneos-arm64.deb
+Size: 34004
+MD5sum: a0af1e2eeea58d1bac0a321e013ac9ca
+SHA1: 2a9fcef544898fe3eded7381b9cbd99b7cbe1848
+SHA256: 3cb72afe199a6d01dcce99f976bb107810ea9ac748655898ba7b0eac776f72d5
+Section: Tweaks
+Description: Know more than just the current time!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.waqt
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
+Name: Waqt
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
+
 Package: com.ps.blurrybadges
 Version: 1.4.5
 Architecture: iphoneos-arm64
@@ -329,6 +348,54 @@ Section: Tweaks
 Description: Protect your device
 Author: Baw Appie <pp121324@gmail.com>
 Name: A-Shields
+
+Package: com.spark.libsparkapplist
+Version: 1.1.0~rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 408
+Filename: ./debs/1.1.0~rootless.deb
+Size: 24834
+MD5sum: 0b8283166fd138011c971c9e466002c4
+SHA1: 986f8a4c07c63d9685b7fc61644dda220566438c
+SHA256: 3c99db2ec79f728826536bd55d2902c03c46ac995909c02b80c2fd5e9e8e812e
+Section: System
+Description: AppList alternative
+Tag: role::developer
+Author: Spark
+Name: libSparkAppList
+
+Package: com.spark.libsparkcolourpicker
+Version: 1.0.3-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 424
+Filename: ./debs/1.0.3-rootless.deb
+Size: 71040
+MD5sum: 2d6f2707d84e95f56a6f52402aa72996
+SHA1: f6d2f6acfe010b7c443f78921b490185f4ddd518
+SHA256: 22844b4abdd5bd37fa302ec6ce50c28948a7b88d3d363ae072e8bea081d025ad
+Section: System
+Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
+Tag: role::developer
+Author: Spark
+Name: libsparkcolourpicker
+
+Package: com.spark.libsparkmessage
+Version: 1.1.0~rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 200
+Filename: ./debs/1.1.0~rootless-2.deb
+Size: 8216
+MD5sum: 96a3fbfc6801b3858bfa6bf65972089e
+SHA1: cf7a814caf6c72b345b36bec99659b77aaaa49d3
+SHA256: def11abd6eab785384665d6988d23dc3471b3f60adce51b4347f87dedb7e6ffe
+Section: System
+Description: Super lightweight IPC messaging library
+Tag: role::developer
+Author: Spark
+Name: libSparkMessage
 
 Package: com.spark.snowboard
 Version: 1.5.26-Beta4-rootless
