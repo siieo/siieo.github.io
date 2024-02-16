@@ -118,6 +118,22 @@ Description: Make the Quick Actions background on Lock Screen translucent
 Author: Hitori
 Name: TranslucentQuickAction
 
+Package: com.icraze.uyoucrashfix
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.icraze.uyoucrashfix_1.0_iphoneos-arm64.deb
+Size: 2626
+MD5sum: 3e782b4a973a74301a8c09f8713d4d4f
+SHA1: 889fbce093919368971bbca033c670982deec33c
+SHA256: 6f8fddf3848761c24a07778442cc0ede479409cdc80683f8589f9f266ddffd7d
+Section: Tweaks
+Description: Fixes uYou crash bugs on YouTube v18.43.4
+Author: iCraze
+Name: uYouCrashFix
+
 Package: com.mikasa.wowza
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -133,6 +149,26 @@ Section: Tweaks
 Description: Enable Apple Battery Icon
 Author: Mikasa
 Name: Wowza
+
+Package: com.miro.uyou
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 31200
+Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Filename: ./debs/com.miro.uyou_3.0.1_iphoneos-arm64.deb
+Size: 10948110
+MD5sum: 9eb39d64200461cb4f64e7ab47358ace
+SHA1: ff43999f2889dcd6a5ce4b21a174c1fd825ce289
+SHA256: 6ec9a970e059b6ae458eda958544af749d0c420d76d10ebbf73733b36204df92
+Section: Tweaks
+Description: The best tweak for the YouTube app
+Tag: purpose::extension, compatible_min::ios13
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
+Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
+Name: uYou
 
 Package: com.ps.blurrybadges
 Version: 1.4.5
@@ -379,6 +415,26 @@ Section: Tweaks
 Description: Basic tweak to change carrier text. iOS 13+
 Author: Kota
 Name: Basic Carrier
+
+Package: me.alfhaily.rocket
+Version: 3.8.21
+Architecture: iphoneos-arm64
+Maintainer: Rocket App <support@getrocketapp.io>
+Installed-Size: 6620
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/me.alfhaily.rocket_3.8.21_iphoneos-arm64.deb
+Size: 1443270
+MD5sum: 7f4eb74b7176d2b0af721005c25d4cb7
+SHA1: 3beacc69f4264dc083aff2c5b48d06dbce5fe701
+SHA256: 4c9fef3d47ab2367bb36a9c3ba71014f4c68a35a422f024662fdb4fb8a90d218
+Section: Tweaks
+Priority: optional
+Description: Save posts and view stories anonymously and do much more
+Author: Rocket App
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Name: Rocket for Instagram
+Sileodepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
 
 Package: me.nepeta.axon
 Version: 1.5
