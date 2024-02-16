@@ -141,6 +141,22 @@ Description: Hide the Flashlight and the Camera button on the Lock screen
 Author: Hitori
 Name: Quick Actions Be Gone
 
+Package: com.hitori.showethernet
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.hitori.showethernet_4.0_iphoneos-arm64.deb
+Size: 2592
+MD5sum: 59803c48025e14ecf68f2731c5d0da16
+SHA1: 9812cccf8078aeb91d3c89f19b312e16be0e51bd
+SHA256: a2ad0b1466bfa5b9d65a9286d1d13ba1cfa65426ae4ee8564599c132a47db76c
+Section: Tweaks
+Description: Shows the Ethernet options in the Settings
+Author: Hitori
+Name: Show Ethernet
+
 Package: com.hitori.translucentquickaction
 Version: 4.0
 Architecture: iphoneos-arm64
