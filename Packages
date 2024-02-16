@@ -725,6 +725,24 @@ Description: Protect your device
 Author: Baw Appie <pp121324@gmail.com>
 Name: A-Shields
 
+Package: com.ryannair05.cylinderremade
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair
+Installed-Size: 652
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Conflicts: com.ryannair05.cylinder
+Filename: ./debs/com.ryannair05.cylinderremade_0.0.5_iphoneos-arm64.deb
+Size: 104486
+MD5sum: 611e25c4cdf39160211ebb9e0606a258
+SHA1: db418ee90e4bd9cebf6f907403aea6ce51419e26
+SHA256: 77f0e87efcff4bf653889cf375689df70010ccb423e9449dcd012f7cabb64e16
+Section: Tweaks
+Description: Make your icons dance
+Author: Ryan Nair
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@3x.png
+Name: Cylinder Remade
+
 Package: com.shepgoba.downloadbar
 Version: 1.2
 Architecture: iphoneos-arm64
