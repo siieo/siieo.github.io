@@ -329,6 +329,22 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.ioscreatix.sugarcane/ico
 Name: SugarCane 13/14/15/16
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.ioscreatix.sugarcane.json
 
+Package: com.jakeashacks.realcc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Jake James
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.jakeashacks.realcc_1.0_iphoneos-arm64.deb
+Size: 4460
+MD5sum: edf7065f07f89bfede44d3b2409670b1
+SHA1: c84f723923d69877b2dcce01ee193e8aa46e6d1c
+SHA256: 74d4f45e714c607a0f0563ff91e9b0b2888b30845b13b2cb0915254e7c73886f
+Section: Tweaks
+Description: Actually disable WiFI and Bluetooth from CC in iOS 11-16.
+Author: Jake James
+Name: RealCC
+
 Package: com.julioverne.lockdroid
 Version: 0.0~beta8
 Architecture: iphoneos-arm64
@@ -498,6 +514,25 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/blurrybadges.html
 Name: BlurryBadges (iOS 14+)
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/blurrybadges.json
+
+Package: com.ps.cconandoff
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc
+Filename: ./debs/com.ps.cconandoff_1.1.1_iphoneos-arm64.deb
+Size: 4908
+MD5sum: abc3c44e276fde955829ee6e62f68442
+SHA1: 2fc3ff0123268fd641aba747efcac95e963cec2d
+SHA256: cce2d080bdddd78361a5d34d8e353ad912ab105aa42dde65489fb3c64330f402
+Section: Tweaks
+Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+).
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
+Name: CC On & Off
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
 
 Package: com.ps.emojiattributes
 Version: 1.8.0~b1
