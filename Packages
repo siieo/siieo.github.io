@@ -118,6 +118,140 @@ Description: Make the Quick Actions background on Lock Screen translucent
 Author: Hitori
 Name: TranslucentQuickAction
 
+Package: com.ichitaso.autolockcc
+Version: 0.2
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 192
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.ichitaso.autolockcc_0.2_iphoneos-arm64.deb
+Size: 21342
+MD5sum: a5547b62d7174fa0fa9351818c7c99b1
+SHA1: eee4ce3fcd7d98f1df865e2113ae1549abbf240c
+SHA256: 98ff8e7272bf7304d1e6d58f690b0b5738f193ff41dac296f3048b7c7f44b9d4
+Section: Addons (ControlCenter)
+Homepage: https://ichitaso.com
+Description: Turn on / off Auto lock from the control center.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.3.1
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/autolocktoggle11.html
+Dev: ichitaso
+Icon: file:///Library/ControlCenter/Bundles/AutoLock.bundle/SettingsIcon@2x.png
+Name: AutoLockToggle (CCSupport)
+
+Package: com.ichitaso.locationservicecc
+Version: 0.1-6
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 248
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport (>= 1.2)
+Filename: ./debs/com.ichitaso.locationservicecc_0.1-6_iphoneos-arm64.deb
+Size: 34280
+MD5sum: b522f428c5cdab06763cb355e9c9aa16
+SHA1: 0e700d97f8855f081d362ec94b47707518f40f25
+SHA256: 8679802c4b392760f4707108296fa97ec8dc2332e880e0212d86030cfd48e5ec
+Section: Addons (ControlCenter)
+Homepage: https://ichitaso.com
+Description: Turn on / off LocationService from the control center.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.5
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/locationservicecc.html
+Dev: ichitaso
+Name: LocationService (CCSupport)
+
+Package: com.ichitaso.powerselector11
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Installed-Size: 2212
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/com.ichitaso.powerselector11_1.4.0_iphoneos-arm64.deb
+Size: 201760
+MD5sum: 8239543ce656dcdfc767153ca91bf4e6
+SHA1: a903b8356ebf69ceb1df8c0b70629c27fba7c1b8
+SHA256: fc84a4e3f985998449beb6bfc84b79b13356efb94a3482aa1cbd50ff5e8b928a
+Section: Utilities
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Description: The power supply relation of a device is operated.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios17.1.2
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Dev: ichitaso
+Icon: https://cydia.ichitaso.com/icons/PowerSelector.png
+Name: PowerSelector
+Sileodepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
+
+Package: com.ichitaso.primalfolder2
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 464
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
+Replaces: com.ichitaso.primalfolder2
+Filename: ./debs/com.ichitaso.primalfolder2_0.1.1_iphoneos-arm64.deb
+Size: 48326
+MD5sum: d511bd4eb5e7f65e0ff3fa1e1a511212
+SHA1: 5c58a700f75aa9fee0c1df1264cfa6b45fbe1250
+SHA256: ab1d9b28d71b290b5787e50d3786f592129daf15afd8b8144b22067d79a333e7
+Section: Tweaks
+Homepage: https://ichitaso.com
+Description: Display to folder as icon and launch action for Folders
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios16.4
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/primalfolder2.html
+Dev: ichitaso
+Icon: https://cydia.ichitaso.com/icons/PrimalFolder2.png
+Name: PrimalFolder 2
+
+Package: com.ichitaso.regionchanger
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 236
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ichitaso.regionchanger_0.0.2_iphoneos-arm64.deb
+Size: 117828
+MD5sum: cb1a2accf436f2b92bd55f34e7690331
+SHA1: 073ef3db5044c488bf2c27edd92cfc278856ae87
+SHA256: abc49b8c0967cee828bff1b949e5c20523a1921b43eda3e885357fc156c96d5c
+Section: Utilities
+Homepage: https://ichitaso.com/
+Description: Set the System Region of your device to US. Mute the shutter sound of the camera in silent mode, etc.
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/regionchanger.html
+Dev: ichitaso
+Icon: https://raw.githubusercontent.com/ichitaso/RegionChanger/main/Resources/AppIcon60x60%403x.png
+Name: RegionChanger
+
+Package: com.ichitaso.ringertoggle
+Version: 0.2
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 196
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.ichitaso.ringertoggle_0.2_iphoneos-arm64.deb
+Size: 18988
+MD5sum: e9e7d6d4709da1ee4a2740d5716f3169
+SHA1: 5372c9d2062bb10c5ec1244dd05eb8d2da7d3a9e
+SHA256: 01d48f05284913e775d69cfde90a7dd571d9dbc224840ab30b5750f681352a43
+Section: Addons (ControlCenter)
+Homepage: https://ichitaso.com
+Description: Turn on / off Silent Switch from the control center.
+Tag: purpose::extension, compatible_min::ios11, compatible_max::ios16
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/ringertoggle.html
+Dev: ichitaso
+Icon: https://i.imgur.com/bNyKUSs.png
+Name: RingerToggle (CCSupport)
+Sileodepiction: https://cydia.ichitaso.com/depiction/ringertoggle.json
+
 Package: com.icraze.uyoucrashfix
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -433,6 +567,39 @@ Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
 Name: SnowBoard
+
+Package: com.tigisoftware.appdatamanager
+Version: 1.8.2-4
+Architecture: iphoneos-arm64
+Maintainer: TIGI Software
+Installed-Size: 5236
+Recommends: ldid
+Filename: ./debs/com.tigisoftware.appdatamanager_1.8.2-4_iphoneos-arm64.deb
+Size: 1900552
+MD5sum: 83d681d4b17b81059c5ee4682dd9a0a0
+SHA1: dd86ddeae5f0d40d0ba2380c333a62b40e8c6e99
+SHA256: b321ddaf6d03e2f2710c9f8f9a6a6d617e3c6db2abf46cced44ddbe82629ee50
+Section: Utilities
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Author: TIGI Software
+Name: Apps Manager
+
+Package: com.tigisoftware.filza64bit
+Version: 4.0.1-4
+Architecture: iphoneos-arm64
+Maintainer: TIGI Software
+Installed-Size: 23200
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debs/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm64.deb
+Size: 8700882
+MD5sum: 3ba64c6c17e4a92c3afc89a95a224532
+SHA1: edaaf4766eeafcbc2186eecdc99a519b8eca2ed5
+SHA256: 5d354834ad5d44fcd2c1e3bdb4d082c25df6f8ba48f837745c2be1aec3f8f981
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Author: TIGI Software
+Name: Filza File Manager 64-bit
 
 Package: dev.traurige.batterybuddy
 Version: 1.3.5
