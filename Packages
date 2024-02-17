@@ -37,6 +37,25 @@ Icon: file:///Applications/TweakSettings.app/icon_large.png
 Name: TweakSettings
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
 
+Package: com.dcproducts.colorbar15
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: DTCalabro
+Installed-Size: 1952
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2.1), preferenceloader (>= 2.2.6)
+Filename: ./debs/com.dcproducts.colorbar15_1.1.0_iphoneos-arm64.deb
+Size: 475202
+MD5sum: b7547abdafcb5afe8ecaadd8ba683286
+SHA1: d6111a577f6da62f00846601bbb7ae225fbd5a40
+SHA256: 98331405023346304dc472bd10bcb64b8a6fbb8feb1d09b9600fccef2876e404
+Section: Tweaks
+Description: ColorBar15 allows you to personally style your status bar with colors and more.
+Author: DTCalabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.colorbar15
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/icon.png
+Name: ColorBar15
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/depiction.json
+
 Package: com.exile90.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64
@@ -307,6 +326,22 @@ Icon: https://i.imgur.com/bNyKUSs.png
 Name: RingerToggle (CCSupport)
 Sileodepiction: https://cydia.ichitaso.com/depiction/ringertoggle.json
 
+Package: com.icraze.translucent3dmenus
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.icraze.translucent3dmenus_2.0_iphoneos-arm64.deb
+Size: 4268
+MD5sum: d8c3536c6ab8fd100542f19912c107e2
+SHA1: a9e60af368aeef3e491347372ae7c2b3f96c2316
+SHA256: 295e7f78dd42746324fd657f2a424c3fc50475b58c47f858ba642522411a24ef
+Section: Tweaks
+Description: Make the 3D-Touch menus translucent
+Author: iCraze
+Name: Translucent3DMenus
+
 Package: com.icraze.uyoucrashfix
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -448,6 +483,40 @@ Tag: purpose::extension, compatible_min::ios13
 Author: MiRO <tweaks_support@miro92.com>
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
 Name: uYouImport
+
+Package: com.mtac.ccpowermenu
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 356
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.mtac.ccpowermenu_1.0.2_iphoneos-arm64.deb
+Size: 31262
+MD5sum: 1baa5b46408bb3094fb50794c8dc8c79
+SHA1: 00017afaf4a6ac9148fdd30adcfe48f15834a182
+SHA256: eec3d9ac26af2989d3247c8101bcc39a278a57c03354758f7a806b8794a3208d
+Section: Control Center (Modules)
+Description: Control device power options from Control Center
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.ccpowermenu/icon-rounded.png
+Name: CCPowerMenu
+Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.ccpowermenu.json
+
+Package: com.nezuko.croutons
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Nezuko
+Installed-Size: 412
+Depends: mobilesubstrate
+Filename: ./debs/com.nezuko.croutons_2.0_iphoneos-arm64.deb
+Size: 70620
+MD5sum: 5cd7e5a79c158c8fb7244f410f704f02
+SHA1: 2b68f35c0bf602e2334aa4f90d3ed329b2c635e0
+SHA256: 704ae3ad4d31b7bef8454e2a98d93e611f185d0c7e4aa18c02331fd74bd15b4f
+Section: Tweaks
+Description: Replace the text in breadcrumbs with the app icon!
+Author: burrit0z & Nezuko
+Name: Croutons
 
 Package: com.nezuko.emoji3dfluent
 Version: 1.0
@@ -764,7 +833,7 @@ Version: 1.1.0~rootless
 Architecture: iphoneos-arm64
 Maintainer: Spark
 Installed-Size: 408
-Filename: ./debs/1.1.0~rootless.deb
+Filename: ./debs/com.spark.libsparkapplist_1.1.0~rootless_iphoneos-arm64.deb
 Size: 24834
 MD5sum: 0b8283166fd138011c971c9e466002c4
 SHA1: 986f8a4c07c63d9685b7fc61644dda220566438c
@@ -796,7 +865,7 @@ Version: 1.1.0~rootless
 Architecture: iphoneos-arm64
 Maintainer: Spark
 Installed-Size: 200
-Filename: ./debs/1.1.0~rootless-2.deb
+Filename: ./debs/com.spark.libsparkmessage_1.1.0~rootless_iphoneos-arm64.deb
 Size: 8216
 MD5sum: 96a3fbfc6801b3858bfa6bf65972089e
 SHA1: cf7a814caf6c72b345b36bec99659b77aaaa49d3
@@ -816,7 +885,7 @@ Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/1.5.26-Beta4-rootless.deb
+Filename: ./debs/com.spark.snowboard_1.5.26-Beta4-rootless_iphoneos-arm64.deb
 Size: 1120268
 MD5sum: 9109ec3d0b2bca55154f15610c8b61ba
 SHA1: 1548df152c15da2d898f19e618fb6af4bdee5d85
@@ -824,6 +893,169 @@ SHA256: 2857efc003bf3c2def3119ea1b45f25b86eb57c8bf6f3b8d12c822e976608a51
 Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
+Name: SnowBoard
+
+Package: com.spark.snowboard.dock
+Version: 1.1.3~Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 440
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.dock_1.1.3~Beta4-rootless_iphoneos-arm64.deb
+Size: 31682
+MD5sum: 9db9e9541cb3d6625502ff6cca08a2cd
+SHA1: 32d596da0567ad826db9ac6d3131a36c419fec1c
+SHA256: edee24c6df1f10e1fe4373a385a5f40a0673b6ec37c31a6f0bedbedd5e7e5e36
+Section: SnowBoard Extensions
+Description: Dock for SnowBoard
+Author: Spark
+Name: SnowBoard Dock Extension
+
+Package: com.spark.snowboard.effects
+Version: 1.2.2-Beta2-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 412
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.effects_1.2.2-Beta2-rootless_iphoneos-arm64.deb
+Size: 33060
+MD5sum: 7e2bf3771c05ae47f4b48f59badd9fdf
+SHA1: 3f8817d5ee943c94afaad00058e13c6076d81bd5
+SHA256: 04ce8ec541c9d6dfe8a08a70852a632a078a45a1ca07ad3a4f2eb5fd4cffb0fc
+Section: SnowBoard Extensions
+Description: Icon Effects for SnowBoard
+Author: Spark
+Name: SnowBoard Icon Effects Extension
+
+Package: com.spark.snowboard.fonts
+Version: 1.1.0~Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 392
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Filename: ./debs/com.spark.snowboard.fonts_1.1.0~Beta4-rootless_iphoneos-arm64.deb
+Size: 20312
+MD5sum: 4ffba8f73f3315a2a483b452b520d129
+SHA1: ac12c858be9fa5153836431f7371f34d78d30394
+SHA256: adb486617e2ce7d70bb989ac8450173e7d074433ea482f7c648bcfe9227d2a30
+Section: SnowBoard Extensions
+Description: Fonts for SnowBoard
+Author: Spark
+Name: SnowBoard Fonts Extension
+
+Package: com.spark.snowboard.labels
+Version: 1.1.1~Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 432
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.labels_1.1.1~Beta4-rootless_iphoneos-arm64.deb
+Size: 25342
+MD5sum: 96b851c461e4e68de8a2f4bbda6f6b7f
+SHA1: f0d42945e11b6041b1add0a149fe3b44186cb02f
+SHA256: 1eb3cb31b95a6e3d2bb8840f04e0b8b4b6fb4c6345489bffa70252f9f15d33b3
+Section: SnowBoard Extensions
+Description: Labels for SnowBoard
+Author: Spark
+Name: SnowBoard Labels Extension
+
+Package: com.spark.snowboard.masks
+Version: 1.2.2-Beta2-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 340
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.masks_1.2.2-Beta2-rootless_iphoneos-arm64.deb
+Size: 18734
+MD5sum: cb532088f3180c9fd3c6aac4ee21bd2e
+SHA1: 934c376daab8aaad9a787c678f911afd8f375797
+SHA256: 476bb6dd6551597029be67b76640475d7f7a24efeb827165ac3738f58b710537
+Section: SnowBoard Extensions
+Description: Icon masks for SnowBoard
+Author: Spark
+Name: SnowBoard Icon Masks Extension
+
+Package: com.spark.snowboard.presetextension
+Version: 1.1.0~Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 488
+Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
+Filename: ./debs/com.spark.snowboard.presetextension_1.1.0~Beta4-rootless_iphoneos-arm64.deb
+Size: 43272
+MD5sum: 14a88164e5ae9e747640655786d9d10f
+SHA1: 92849abb3b227b6ea46ff09aa4559e63c5a37b73
+SHA256: d873421873f5e48fc36edca13926205f733a17c9fde78743bd68f2e4d1a25ffb
+Section: SnowBoard Extensions
+Description: SnowBoard Presets Extension
+Author: Spark
+Name: SnowBoard Preset Extension
+
+Package: com.spark.snowboard.settingsicons
+Version: 1.0.26~Beta3-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 340
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.settingsicons_1.0.26~Beta3-rootless_iphoneos-arm64.deb
+Size: 17612
+MD5sum: d2918a46e495d73716d525fed117f1cf
+SHA1: ceb9d1e9eb55bbd81c38f82e1f08268317c24546
+SHA256: a7f5908b455a30783735657f6b85e899c6297eb483684ec0e160023634482b1c
+Section: SnowBoard Extensions
+Description: Settings Icons for SnowBoard
+Author: Spark
+Name: SnowBoard Settings Icons Extension
+
+Package: com.spark.snowboard.statusbar
+Version: 1.1.0-Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 364
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.statusbar_1.1.0-Beta4-rootless_iphoneos-arm64.deb
+Size: 26782
+MD5sum: 449df3d477073458365d07c51fcbc4b5
+SHA1: f4005c0a53739386f57ae6de550b2118781f8324
+SHA256: 926c838ec8fb006ae0ccb928df307b1c96f31739c7c81aae8291c1ac937fa8f1
+Section: SnowBoard Extensions
+Description: StatusBar for SnowBoard
+Author: Spark
+Name: SnowBoard StatusBar Extension
+
+Package: com.spark.snowboard.ui
+Version: 1.3.0~Beta2-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 476
+Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
+Filename: ./debs/com.spark.snowboard.ui_1.3.0~Beta2-rootless_iphoneos-arm64.deb
+Size: 65132
+MD5sum: 5e7ffb5f6ee232d6ec7d266ae9f8a100
+SHA1: 4adfcba1ecb738d0c52a503e5cab4b82e62fa023
+SHA256: 3fdb54dd243811c2e3585dd902ac0b431f44685bf4223a540cc57cdbbdc3a03a
+Section: SnowBoard Extensions
+Description: UI Extension for SnowBoard
+Author: Spark
+Name: SnowBoard UI Extension
+
+Package: com.spark.snowboardapplication
+Version: 1.1.0~Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 992
+Depends: com.spark.snowboard
+Filename: ./debs/com.spark.snowboardapplication_1.1.0~Beta4-rootless_iphoneos-arm64.deb
+Size: 607836
+MD5sum: 444df49de498d4de314abe5d3170e70d
+SHA1: 56495891554c40a86b7779b9a1b05409f8ff5942
+SHA256: ac5db855173c67b6751f32c8a5d09a1f5f1ba652a3c01bbe992e870a8beaaa86
+Section: Utilities
+Description: An awesome application!
+Author: Spark
 Name: SnowBoard
 
 Package: com.tigisoftware.appdatamanager
@@ -858,6 +1090,28 @@ Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
 Author: TIGI Software
 Name: Filza File Manager 64-bit
+
+Package: com.twickd.john-sklikas.3dbadgeclear
+Version: 1.6.8
+Architecture: iphoneos-arm64
+Maintainer: isklikas
+Installed-Size: 192
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.isklikas.3dbadgeclear
+Replaces: com.isklikas.3dbadgeclear
+Provides: com.isklikas.3dbadgeclear
+Filename: ./debs/com.twickd.john-sklikas.3dbadgeclear_1.6.8_iphoneos-arm64.deb
+Size: 17860
+MD5sum: 2e6aab09b1051b0f6d6c7822bf749de6
+SHA1: 66a02309299630f2927a100b6e0e2f4a5d5409c0
+SHA256: 7383016a023397cc32e17760bfc8f7121e97e55cea878fbdde043438cfc1fc91
+Section: Tweaks
+Description: Clear your badges from the Force Touch / 3D Touch Menu! Only appears on apps that have badges.
+Author: isklikas
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.twickd.john-sklikas.3dbadgeclear
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.twickd.john-sklikas.3dbadgeclear/icon.png
+Name: 3DBadgeClear
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.twickd.john-sklikas.3dbadgeclear.json
 
 Package: dev.traurige.batterybuddy
 Version: 1.3.5
