@@ -82,12 +82,11 @@ Package: com.evynw.fontquicksand
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-3)
 Filename: ./debs/com.evynw.fontquicksand_1.0_iphoneos-arm64.deb
-Size: 11794600
-MD5sum: 42b81dd9c22780122ec6eae25f186d67
-SHA1: 211de73f79bb5a64a4c73fb0923c359bd8b20bf9
-SHA256: 27778c33139ae4d52f8cfd9bea0b90ce107fddd8d95dcca7270b9311b67e83c9
+Size: 11796900
+MD5sum: 87f5a2443fb6fa5b40b7d9c200b0acbf
+SHA1: f743b08cbfd59133dc1d469d29d4da7e01669201
+SHA256: ff528911b981006b1da6b1ce68740cd0eb0f690f6990af71a7de5aa357f7a90c
 Section: Fonts
 Description: Rounded sans serif. 100% size. For iOS15-16.
 Author: Alex (@Alexman1979)
@@ -536,6 +535,25 @@ Section: Tweaks
 Description: Actually disable WiFI and Bluetooth from CC in iOS 11-16.
 Author: Jake James
 Name: RealCC
+
+Package: com.julioverne.goodwifi
+Version: 0.0~beta6
+Architecture: iphoneos-arm64
+Maintainer: Julio
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb
+Size: 40822
+MD5sum: a1001e8b942bd4870f4c5e55096ec28a
+SHA1: 79c9c4197f616a2b885ed496af43a437390d21a0
+SHA256: 6c329bfdb459abe3e7cb2f6dc7ccd6d5fb6607838864cf97193d70e96eed130c
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Better WiFi Preferences
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+Icon: file:///var/jb/Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Name: GoodWiFi
 
 Package: com.julioverne.lockdroid
 Version: 0.0~beta8
