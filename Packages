@@ -269,16 +269,16 @@ Author: Hitori
 Name: Dots Be Gone
 
 Package: com.hitori.nobetaalert
-Version: 1.3.1
+Version: 4.0
 Architecture: iphoneos-arm64
 Maintainer: Hitori
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/com.hitori.nobetaalert_1.3.1_iphoneos-arm64.deb
-Size: 2528
-MD5sum: 69c756011a0438a0b00f3642f74e2c6b
-SHA1: c5e0ad93bf654536ee338072ef0bc61e45ed8298
-SHA256: ae3ef45b1745351175265b4f1d5ce3083c2e978968abeb457c29f8cd44c13f64
+Filename: ./debs/com.hitori.nobetaalert_4.0_iphoneos-arm64.deb
+Size: 2524
+MD5sum: 4f0a8007ed99ad83e38d4cab294dbb85
+SHA1: 5cccada2cbb62a7dba9b8fdab2c1e60bea8c925e
+SHA256: 93108b50ec480971c8a1245eb6df1c5553fadcbc389564a5380809a7c24f7aa3
 Section: Tweaks
 Description: Removes Beta Expired Alerts
 Author: Hitori
