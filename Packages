@@ -56,6 +56,46 @@ Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/icon
 Name: ColorBar15
 Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/depiction.json
 
+Package: com.ethn.mirage
+Version: 1.9
+Architecture: iphoneos-arm64
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Filename: ./debs/com.ethn.mirage_1.9_iphoneos-arm64.deb
+Size: 12743368
+MD5sum: ccde16ad247cb010cb656e6f15b96158
+SHA1: 4092ca4225e4c0921260779f2b0715cfa54ecd30
+SHA256: ecdf4c8506f2f1e17f357f4fbce5b9fd6e9475f430fa95c6ea96185da02a5fb8
+Section: Themes
+Homepage: https://nahtedetihw.github.io
+Description: An iOS modern glyphs theme, with beautiful gradients.
+Tag: role::enduser
+Author: ETHN <ethanwhited2208@gmail.com>
+Depiction: https://nahtedetihw.github.io/depiction/web/com.ethn.mirage.html
+Icon: https://nahtedetihw.github.io/assets/com.ethn.mirage/icon.png
+Moderndepiction: https://nahtedetihw.github.io/depiction/native/com.ethn.mirage.json
+Name: Mirage
+Sileodepiction: https://nahtedetihw.github.io/depiction/native/com.ethn.mirage.json
+Someotherentrytocontrol: True
+Tags: compatible_min::ios11.0, compatible_max::ios14.3
+
+Package: com.evynw.fontquicksand
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontquicksand_1.0_iphoneos-arm64.deb
+Size: 11794600
+MD5sum: 42b81dd9c22780122ec6eae25f186d67
+SHA1: 211de73f79bb5a64a4c73fb0923c359bd8b20bf9
+SHA256: 27778c33139ae4d52f8cfd9bea0b90ce107fddd8d95dcca7270b9311b67e83c9
+Section: Fonts
+Description: Rounded sans serif. 100% size. For iOS15-16.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontquicksand14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Quicksand (iOS15-16)
+Sileodepiction: https://evynw.github.io/sileo/fontquicksand14.json
+
 Package: com.exile90.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64
@@ -147,6 +187,39 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 Name: Watusi 3 for WhatsApp
+
+Package: com.furawa.parousia
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Samara
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: com.spark.snowboard
+Filename: ./debs/com.furawa.parousia_1.4_iphoneos-arm64.deb
+Size: 8096796
+MD5sum: 7c7518517cb9121147c39519735aba4d
+SHA1: 6e710c507d4217662da635570d8af14bbbf8c395
+SHA256: a08ab5f470a20d9936b7c01f749a11157c3f0b9e5ede0b669af2375dd113881f
+Section: Themes
+Description: Colorful theme for everyone!
+Author: Samara
+Name: Parousia
+
+Package: com.gabehern.goji
+Version: 2.1.2
+Architecture: iphoneos-arm64
+Maintainer: gabehern <hello@gabehern.com>
+Filename: ./debs/com.gabehern.goji_2.1.2_iphoneos-arm64.deb
+Size: 2814688
+MD5sum: 39f6d01c61ef0259f2b89baa54f278f9
+SHA1: a0887a7eee0f4349bc367258b0258574c74ca673
+SHA256: 283c82fffc3b7c435092bf970350d38022fd60f133cdd3459d34031726c44d72
+Section: Themes
+Description: The classic Goji experience.
+Tag: compatible_min::ios14.0
+Author: gabehern <hello@gabehern.com>
+Depiction: https://chariz.com/get/goji
+Icon: https://cdn.chariz.cloud/icon/goji/icon@3x.png
+Name: Goji
 
 Package: com.hitori.clockwise
 Version: 4.0
@@ -432,6 +505,22 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.ioscreatix.sugarcane/ico
 Name: SugarCane 13/14/15/16
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.ioscreatix.sugarcane.json
 
+Package: com.ivintagelover.bigdeal
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: iVintageLover
+Filename: ./debs/com.ivintagelover.bigdeal_1.1_iphoneos-arm64.deb
+Size: 7268788
+MD5sum: 3cea8e64f5767854e616a77d68221964
+SHA1: a9434cd543ba1afa33d76ed1c7fd6d2fd4538b1d
+SHA256: 25c8e17fe7323868e4cd30562a173dbc90b3a81543a5275274a2474d99602a5e
+Section: Themes
+Description: macOS Big Sur icons ported to iOS! Compatible with iPhone, iPad and iPod Touch. Any version of iOS. Apply using Anemone/SnowBoard
+Author: iVintageLover
+Banner: https://ivintagelover.github.io/repo/assets/com.ivintagelover.bigdeal/banner.png
+Icon: https://ivintagelover.github.io/repo/assets/com.ivintagelover.bigdeal/icon.png
+Name: Big Deal
+
 Package: com.jakeashacks.realcc
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -613,6 +702,21 @@ Section: Fonts
 Description: Emojis from iOS 17.4
 Author: Nezuko
 Name: iOS 17.4 Emojis
+
+Package: com.nezuko.fontcorporative85
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nezuko
+Depends: com.spark.snowboard.fonts
+Filename: ./debs/com.nezuko.fontcorporative85_1.0_iphoneos-arm64.deb
+Size: 1618596
+MD5sum: 4de4fdeaef1a64847ddb5aee6fad9acd
+SHA1: 08950316a6f740886bba162b230fb61e5cc5742b
+SHA256: 5b97e56a1de73cbaf1e6b320d7ce7ad09b557be17a803551c2b54f1c7ec7d3de
+Section: Fonts
+Description: Corporative Sans Alt Font (85%)
+Author: Alexman1979
+Name: Corporative Sans Alt Font (85%)
 
 Package: com.p2kdev.quitall
 Version: 1.3
@@ -1290,6 +1394,111 @@ Author: Lillie & Hitori
 Depiction: https://repo.lillieweeb001.xyz/depictions/accentcustom.html
 Name: Accent Custom
 Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.accentcustom/depiction.json
+
+Package: works.alo.fonts.meloso100
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Alo <bbscydia@gmail.com>
+Depends: firmware (>=14.0)
+Filename: ./debs/works.alo.fonts.meloso100_1.0_iphoneos-arm64.deb
+Size: 11938140
+MD5sum: 2ecdbf24be1bb6a4ee9619f2e885dd67
+SHA1: aeca851cc22e7683e975d276b05330c393314c35
+SHA256: 592347e8bf234c0185d171c2070ee4569225a2d81a7cee99d5cfbcad45d72d6e
+Section: Fonts (iOS 14-16)
+Homepage: https://alo.works/
+Description: Meloso is a font which has a playful and organic feel that has its own hand-drawn charm. 100% scale. For iOS 14-16
+Author: Alexman <bbscydia@gmail.com>
+Depiction: https://alo.works/depiction/web/works.alo.fonts.meloso100.html
+Icon: https://alo.works/assets/works.alo.fonts.meloso100/icon.png
+Moderndepiction: https://alo.works/depiction/native/works.alo.fonts.meloso100.json
+Name: Meloso Font (100%)
+Sileodepiction: https://alo.works/depiction/native/works.alo.fonts.meloso100.json
+Tags: compatible_min::ios14.0, compatible_max::ios16.6
+
+Package: works.alo.fonts.meloso80
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Alo <bbscydia@gmail.com>
+Depends: firmware (>=14.0)
+Filename: ./debs/works.alo.fonts.meloso80_1.0_iphoneos-arm64.deb
+Size: 13018564
+MD5sum: d232fd1a7d589062dfa760ab412376aa
+SHA1: aa46c4d2d52b826fdcd7063a4441be460eb2f9a0
+SHA256: 459b6d98f0c898aa85c7758921fd0a43f7643536fa38d0c92dec36da898759c0
+Section: Fonts (iOS 14-16)
+Homepage: https://alo.works/
+Description: Meloso is a font which has a playful and organic feel that has its own hand-drawn charm. 80% scale. For iOS 14-16
+Author: Alexman <bbscydia@gmail.com>
+Depiction: https://alo.works/depiction/web/works.alo.fonts.meloso80.html
+Icon: https://alo.works/assets/works.alo.fonts.meloso80/icon.png
+Moderndepiction: https://alo.works/depiction/native/works.alo.fonts.meloso80.json
+Name: Meloso Font (80%)
+Sileodepiction: https://alo.works/depiction/native/works.alo.fonts.meloso80.json
+Tags: compatible_min::ios14.0, compatible_max::ios16.6
+
+Package: works.alo.fonts.meloso85
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Alo <bbscydia@gmail.com>
+Depends: firmware (>=14.0)
+Filename: ./debs/works.alo.fonts.meloso85_1.0_iphoneos-arm64.deb
+Size: 13010284
+MD5sum: 6be334a2eb6fbd7b17c75f5a67e5f01e
+SHA1: 384846b08ccd00a84f662e485a9b01d8c622a89d
+SHA256: 456c24cb259703d6c5a8b69490b09841bbfb119718029eac71d3de78def86eab
+Section: Fonts (iOS 14-16)
+Homepage: https://alo.works/
+Description: Meloso is a font which has a playful and organic feel that has its own hand-drawn charm. 85% scale. For iOS 14-16
+Author: Alexman <bbscydia@gmail.com>
+Depiction: https://alo.works/depiction/web/works.alo.fonts.meloso85.html
+Icon: https://alo.works/assets/works.alo.fonts.meloso85/icon.png
+Moderndepiction: https://alo.works/depiction/native/works.alo.fonts.meloso85.json
+Name: Meloso Font (85%)
+Sileodepiction: https://alo.works/depiction/native/works.alo.fonts.meloso85.json
+Tags: compatible_min::ios14.0, compatible_max::ios16.6
+
+Package: works.alo.fonts.mikhak100
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Alo <bbscydia@gmail.com>
+Depends: firmware (>=14.0)
+Filename: ./debs/works.alo.fonts.mikhak100_1.0_iphoneos-arm64.deb
+Size: 12094328
+MD5sum: 444f822eab6204bc048775c37f68e868
+SHA1: d2566ef1b22137757a54c5ec2eba8f7b4790cbd8
+SHA256: d449811507ea821abce51bbf3a9c73ed317fe50202091b5bf34aa563aee0cfff
+Section: Fonts (iOS 14-16)
+Homepage: https://alo.works/
+Description: Simple monoline semi handwriting font. 100% scale. For iOS 14-16
+Author: Alexman <bbscydia@gmail.com>
+Depiction: https://alo.works/depiction/web/works.alo.fonts.mikhak100.html
+Icon: https://alo.works/assets/works.alo.fonts.mikhak100/icon.png
+Moderndepiction: https://alo.works/depiction/native/works.alo.fonts.mikhak100.json
+Name: Mikhak Font (100%)
+Sileodepiction: https://alo.works/depiction/native/works.alo.fonts.mikhak100.json
+Tags: compatible_min::ios14.0, compatible_max::ios16.6
+
+Package: works.alo.fonts.mikhak85
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Alo <bbscydia@gmail.com>
+Depends: firmware (>=14.0)
+Filename: ./debs/works.alo.fonts.mikhak85_1.0_iphoneos-arm64.deb
+Size: 12883616
+MD5sum: f3c52795d55e9c2a66bf865ed7f37bb5
+SHA1: f8dcaa94014241c98b784c954776e6136444b201
+SHA256: 302e1eccdac22e715e78c496039d6291bc02e6c739ebd83efd7cdf26d57f80e5
+Section: Fonts (iOS 14-16)
+Homepage: https://alo.works/
+Description: Simple monoline semi handwriting font. 85% scale. For iOS 14-16
+Author: Alexman <bbscydia@gmail.com>
+Depiction: https://alo.works/depiction/web/works.alo.fonts.mikhak85.html
+Icon: https://alo.works/assets/works.alo.fonts.mikhak85/icon.png
+Moderndepiction: https://alo.works/depiction/native/works.alo.fonts.mikhak85.json
+Name: Mikhak Font (85%)
+Sileodepiction: https://alo.works/depiction/native/works.alo.fonts.mikhak85.json
+Tags: compatible_min::ios14.0, compatible_max::ios16.6
 
 Package: xyz.skitty.sixls
 Version: 1.2
