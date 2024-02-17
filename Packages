@@ -1,3 +1,19 @@
+Package: com.0xkuj.3dappversionspoofer
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 456
+Depends: com.opa334.altlist
+Filename: ./debs/com.0xkuj.3dappversionspoofer_2.0.3_iphoneos-arm64.deb
+Size: 56102
+MD5sum: 0a6f797aa31957ece4222b8375efe3f2
+SHA1: 9d6b10a8a2a2ad05d25b251c6dc14987f685db54
+SHA256: 3b736993dbcc1e4bb8cd97a2e20088ec02219b1844b67be70fb6deb3274141bb
+Section: Tweaks
+Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
+Author: 0xkuj
+Name: 3DAppVersionSpoofer
+
 Package: com.bandarhl.bhtwitter
 Version: 4.3-1+debug
 Architecture: iphoneos-arm64
