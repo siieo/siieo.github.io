@@ -968,6 +968,24 @@ Description: Show a progress bar for downloading apps instead!
 Author: shepgoba
 Name: DownloadBar
 
+Package: com.slyfabi.blurryalerts
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: SlyFabi
+Installed-Size: 396
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/com.slyfabi.blurryalerts_1.2.3_iphoneos-arm64.deb
+Size: 30150
+MD5sum: 5f7c9bea62d9269a36c761a1e99b0d0e
+SHA1: 3dc73631144d196a297e577344a5eecefb14fc03
+SHA256: f147ec4afef1681752ef4551c674ff4e8096de4185267382b7b5f63b35c4809a
+Section: Tweaks
+Description: tvOS style alerts!
+Author: SlyFabi
+Depiction: https://slyfabi.github.io/depictions/?p=com.slyfabi.blurryalerts
+Icon: file:///var/jb/Library/PreferenceBundles/BlurryAlerts.bundle/icon@3x.png
+Name: BlurryAlerts
+
 Package: com.spark.libsparkapplist
 Version: 1.1.0~rootless
 Architecture: iphoneos-arm64
