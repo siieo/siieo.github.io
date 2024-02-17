@@ -268,6 +268,22 @@ Description: Remove page dots from the Home screen
 Author: Hitori
 Name: Dots Be Gone
 
+Package: com.hitori.nobetaalert
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.hitori.nobetaalert_1.3.1_iphoneos-arm64.deb
+Size: 2528
+MD5sum: 69c756011a0438a0b00f3642f74e2c6b
+SHA1: c5e0ad93bf654536ee338072ef0bc61e45ed8298
+SHA256: ae3ef45b1745351175265b4f1d5ce3083c2e978968abeb457c29f8cd44c13f64
+Section: Tweaks
+Description: Removes Beta Expired Alerts
+Author: Hitori
+Name: NoBetaAlert
+
 Package: com.hitori.quickactionsbegone
 Version: 5.0~Hitori
 Architecture: iphoneos-arm64
@@ -500,6 +516,25 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imk
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.colormybattery/icon.png
 Name: ColorMyBattery
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.colormybattery.json
+
+Package: com.imkpatil.letmeknow
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.letmeknow_1.4.2_iphoneos-arm64.deb
+Size: 26432
+MD5sum: 1a05352c6ff50edf9b8512e7fa62d50e
+SHA1: 35a1542d22b577f6538866b2adc67392db753aef
+SHA256: 1653534ab3c964d783ee1adb8903226ab6ba248156760a1cb5b54a5616573222
+Section: Tweaks
+Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.letmeknow
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.letmeknow/icon.png
+Name: LetMeKnow
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.letmeknow.json
 
 Package: com.ioscreatix.sugarcane
 Version: 1.2.4.3
