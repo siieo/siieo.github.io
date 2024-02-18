@@ -858,17 +858,17 @@ Name: Waqt
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
 
 Package: com.ps.blurrybadges
-Version: 1.4.5
+Version: 1.5.0
 Architecture: iphoneos-arm64
 Maintainer: PoomSmart
-Installed-Size: 436
+Installed-Size: 432
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: org.thebigboss.blurrybadges, com.spicat.blurrybadges
-Filename: ./debs/com.ps.blurrybadges_1.4.5_iphoneos-arm64.deb
-Size: 41866
-MD5sum: dc2a8e09c2590b2cdf851afea44a220b
-SHA1: 27f7b3af91cf9f7454e2eb3cd0cd557458418264
-SHA256: 0042d39fa2148edce179cb4916af646b3a87bb2abd7d373c8c5f21e32b2e40f7
+Filename: ./debs/com.ps.blurrybadges_1.5.0_iphoneos-arm64.deb
+Size: 42774
+MD5sum: 459fd03bfb2ac4f9b5519d34518d9501
+SHA1: 7d403b2778b8e0b5f34857296638341f140a3cdb
+SHA256: d89224d85986e6cebdc19fb78b0db6636ad2ace11ba1c2615585bce50341e915
 Section: Tweaks
 Description: Colored blur for SpringBoard icon badges.
 Author: PoomSmart
