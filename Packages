@@ -268,6 +268,22 @@ Description: Remove page dots from the Home screen
 Author: Hitori
 Name: Dots Be Gone
 
+Package: com.hitori.hideccbar
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.hitori.hideccbar_4.0_iphoneos-arm64.deb
+Size: 2496
+MD5sum: 6d0d9077d6f2d9c23a9f9cd8ca5dfecb
+SHA1: b5d99f16b53bffdd954fff39ba5e23cb32201301
+SHA256: 43d6393e5f754cfe48c9b99370a9294dd192dd949b45502e2cf2c11638531325
+Section: Tweaks
+Description: Hide control center grabber bar
+Author: Hitori
+Name: HideCCBar
+
 Package: com.hitori.hidehomebar
 Version: 4.0
 Architecture: iphoneos-arm64
@@ -275,12 +291,12 @@ Maintainer: Hitori
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.hitori.hidehomebar_4.0_iphoneos-arm64.deb
-Size: 2810
-MD5sum: d1c9e8880265ecaadb9a2d7353bab4a8
-SHA1: 9fe792964ae8433107fc8b357ab5eb60deb5ee2b
-SHA256: f2121398e2c996d8ed5e84ee026bc346a2490e95bb95a63ff0d5da0486f90b99
+Size: 2600
+MD5sum: 65b5e98d98e22ab62a9c087192c0ba47
+SHA1: 47e68932855ba71fdc13de786d4ad24721baff33
+SHA256: 03c887a6a5a6c197a605c9ffd1620419995a6ae6221fcfdd1802689a1f93b96c
 Section: Tweaks
-Description: Hides The Home Bar
+Description: Hides the iPhone X home bar
 Author: Hitori
 Name: Hide Home Bar
 
@@ -1070,6 +1086,22 @@ Author: SlyFabi
 Depiction: https://slyfabi.github.io/depictions/?p=com.slyfabi.blurryalerts
 Icon: file:///var/jb/Library/PreferenceBundles/BlurryAlerts.bundle/icon@3x.png
 Name: BlurryAlerts
+
+Package: com.spark.hidebarx
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Depends: mobilesubstrate
+Filename: ./debs/com.spark.hidebarx_0.0.4_iphoneos-arm64.deb
+Size: 3944
+MD5sum: f4ed1965e5c3dd4574d7dd3b8a589ce1
+SHA1: 97cd120fe5b7d066fae327a94f59674b818f5508
+SHA256: 2bd7a9189ea97f311916a2bed0cebc258c8ae78dfd3d3eae46fefba382de5ef2
+Section: Tweaks
+Description: Hides the iPhone X home bar - compatible with VolumeBarX
+Author: Spark
+Name: HideBarX [Public]
+Removes: com.spark.HidebarX
 
 Package: com.spark.libsparkapplist
 Version: 1.1.0~rootless
