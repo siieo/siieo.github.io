@@ -1479,19 +1479,19 @@ Name: Rocket for Instagram
 Sileodepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
 
 Package: me.nepeta.axon
-Version: 1.5
+Version: 1.5-1
 Architecture: iphoneos-arm64
 Maintainer: Baw Appie
-Installed-Size: 628
-Depends: mobilesubstrate, firmware (>= 16.0)
+Installed-Size: 644
+Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: ./debs/me.nepeta.axon_1.5_iphoneos-arm64.deb
-Size: 138836
-MD5sum: ece047eb1f01205154c0b978b48e1e6a
-SHA1: 68de20bc99cbaf46069cb9de0b8227b8e0b3b800
-SHA256: 3ad69155817e6614d2815ee5b4dfef878ed6dd01891d038a3ea98d654c5eec58
+Filename: ./debs/me.nepeta.axon_1.5-1_iphoneos-arm64.deb
+Size: 137916
+MD5sum: 6bfffc9103f1eba7d5e4504b38841442
+SHA1: 6d61e76babaa25f508371aed79ba5aec26f94158
+SHA256: a7e747fd8f31e40eeba91567bf0e964f6839ff8d47a3ca11b490bc69768c1690
 Section: Tweaks
-Description: Priority Hub for iOS 16
+Description: Priority Hub for iOS 15-16 (rootless/Ellekit)
 Author: Nepeta & Baw Appie
 Name: Axon
 
