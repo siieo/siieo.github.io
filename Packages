@@ -896,17 +896,17 @@ Name: CC On & Off
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
 
 Package: com.ps.emojiattributes
-Version: 1.8.0~b1
+Version: 1.8.0~b2
 Architecture: iphoneos-arm64
 Maintainer: PoomSmart
 Installed-Size: 508
 Depends: firmware (>= 5.1), mobilesubstrate, com.opa334.libundirect (>= 1.0)
 Conflicts: com.ps.flexmoji
-Filename: ./debs/com.ps.emojiattributes_1.8.0~b1_iphoneos-arm64.deb
-Size: 43072
-MD5sum: 67c7de6d54b020869e7b44f080e52c99
-SHA1: 66ab6f6210b84be2c638ddd8bdf7e059fbac0370
-SHA256: aed331da2877a49bfdc9ef23ac26526032c711717ee54d6219b6e3323feb0d72
+Filename: ./debs/com.ps.emojiattributes_1.8.0~b2_iphoneos-arm64.deb
+Size: 43498
+MD5sum: e863c4f3948968276c3525d7659f9528
+SHA1: e0e28ad252f8cba2ec945ff9337f91aa5dad967e
+SHA256: f87412618f940032790cfac274a80d7cc60005d27e1d362b2a07bea50a021f37
 Section: Tweaks
 Description: Various under-the-hood fixes for emoji display.
 Author: PoomSmart
@@ -1086,22 +1086,6 @@ Author: SlyFabi
 Depiction: https://slyfabi.github.io/depictions/?p=com.slyfabi.blurryalerts
 Icon: file:///var/jb/Library/PreferenceBundles/BlurryAlerts.bundle/icon@3x.png
 Name: BlurryAlerts
-
-Package: com.spark.hidebarx
-Version: 0.0.4
-Architecture: iphoneos-arm64
-Maintainer: Spark
-Depends: mobilesubstrate
-Filename: ./debs/com.spark.hidebarx_0.0.4_iphoneos-arm64.deb
-Size: 3944
-MD5sum: f4ed1965e5c3dd4574d7dd3b8a589ce1
-SHA1: 97cd120fe5b7d066fae327a94f59674b818f5508
-SHA256: 2bd7a9189ea97f311916a2bed0cebc258c8ae78dfd3d3eae46fefba382de5ef2
-Section: Tweaks
-Description: Hides the iPhone X home bar - compatible with VolumeBarX
-Author: Spark
-Name: HideBarX [Public]
-Removes: com.spark.HidebarX
 
 Package: com.spark.libsparkapplist
 Version: 1.1.0~rootless
@@ -1510,6 +1494,26 @@ Section: Tweaks
 Description: Priority Hub for iOS 16
 Author: Nepeta & Baw Appie
 Name: Axon
+
+Package: netskao.doubleclickwake
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/netskao.doubleclickwake_1.1-2_iphoneos-arm64.deb
+Size: 3748
+MD5sum: 47ff26a81ff65e62ec4cae4a378cb1f6
+SHA1: 95318095bbf12071af7543370919f473557b6003
+SHA256: 7b996a976cb2d5f3219c06e57ad21e378981bd9b801bda3ce9ea047aac40a6d5
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=doubleclickwakeDp
+Description: 将全面屏的单击唤醒改为双击唤醒
+Tag: purpose::extension
+Author: Netskao <netskao@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=doubleclickwakeDp
+Dev: netskao
+Name: DoubleClickWake
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: weeb.lillie.accentcustom
 Version: 2.2~rootless
