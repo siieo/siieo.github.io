@@ -276,13 +276,13 @@ Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.hitori.hideccbar_4.0_iphoneos-arm64.deb
 Size: 2496
-MD5sum: 6d0d9077d6f2d9c23a9f9cd8ca5dfecb
-SHA1: b5d99f16b53bffdd954fff39ba5e23cb32201301
-SHA256: 43d6393e5f754cfe48c9b99370a9294dd192dd949b45502e2cf2c11638531325
+MD5sum: 4306730beb9bddb751d45d2e68a8e3bb
+SHA1: 7ba21647223a39855aa4bae33460caf9f8bcecf2
+SHA256: 174c7aef6b99ef30ae3887e3cab1f6dfc2becd05e4f6932df8934f90edcc6734
 Section: Tweaks
 Description: Hide control center grabber bar
 Author: Hitori
-Name: HideCCBar
+Name: Hide CC Bar
 
 Package: com.hitori.hidehomebar
 Version: 4.0
