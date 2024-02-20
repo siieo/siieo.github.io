@@ -1,6 +1,3 @@
-Certainly, here's the modified JSON with the "View web depiction" section removed:
-
-```json
 {
   "minVersion": "0.4",
   "class": "DepictionTabView",
