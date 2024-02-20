@@ -1596,9 +1596,8 @@ SHA256: 7b15b8e5de6b10a26353afc8c9129e01931f7b6334512846731f01bc26ef06f5
 Section: Tweaks
 Description: iOS Accent Colours In macOS Style
 Author: Lillie & Hitori
-Depiction: https://repo.lillieweeb001.xyz/depictions/accentcustom.html
 Name: Accent Custom
-Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.accentcustom/depiction.json
+Sileodepiction: https://siieo.github.io/depictions/weeb.lillie.accentcustom/weeb.lillie.accentcustom.json
 
 Package: works.alo.fonts.meloso100
 Version: 1.0
