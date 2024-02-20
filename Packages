@@ -236,6 +236,25 @@ Depiction: https://chariz.com/get/goji
 Icon: https://cdn.chariz.cloud/icon/goji/icon@3x.png
 Name: Goji
 
+Package: com.ginsu.dodo
+Version: 4.2.2-1
+Architecture: iphoneos-arm64
+Maintainer: Ginsu
+Installed-Size: 2180
+Depends: dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.comet, com.ginsu.gscore, com.ginsu.gsweather
+Filename: ./debs/com.ginsu.dodo_4.2.2-1_iphoneos-arm64.deb
+Size: 415176
+MD5sum: 1dc1590c1bf83ed39e9f800c9bb91c0e
+SHA1: 93741da71fe69fcab8e57c44ff6775287657ae57
+SHA256: 812b3e364da4b87dd3717d5de10c018d23071978fc10c2cff2b02118da8f13a9
+Section: Tweaks
+Description: The perfect Lock Screen redesign.
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.dodo
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.dodo/icon.png
+Name: Dodo (Rootless)
+Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.dodo.json
+
 Package: com.hitori.clockwise
 Version: 4.0
 Architecture: iphoneos-arm64
@@ -905,17 +924,17 @@ Name: Waqt
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
 
 Package: com.ps.blurrybadges
-Version: 1.5.1
+Version: 1.5.2
 Architecture: iphoneos-arm64
 Maintainer: PoomSmart
-Installed-Size: 432
+Installed-Size: 428
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: org.thebigboss.blurrybadges, com.spicat.blurrybadges
-Filename: ./debs/com.ps.blurrybadges_1.5.1_iphoneos-arm64.deb
-Size: 42816
-MD5sum: 8efd4e7ecab67c12665df7e19041d98a
-SHA1: 9370fd6ea5574c6ce0e6d8348c15917552b43ccf
-SHA256: 138d6c3aa8f407bdf9c5bb55ed68b2f0797b408acc997bb3c0e9c6e87be5427c
+Filename: ./debs/com.ps.blurrybadges_1.5.2_iphoneos-arm64.deb
+Size: 40430
+MD5sum: f41b689c0dd76c3c203a6d9169953735
+SHA1: adbc85c9350a1b48cc900a0c57f3ba7359c41e72
+SHA256: 90d97ded568d52f4c67d853b25ac05cc9c420132b7a646f3eabac0d603b147bc
 Section: Tweaks
 Description: Colored blur for SpringBoard icon badges.
 Author: PoomSmart
