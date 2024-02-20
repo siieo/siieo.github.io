@@ -316,6 +316,22 @@ Description: Removes Beta Expired Alerts
 Author: Hitori
 Name: NoBetaAlert
 
+Package: com.hitori.pressspring
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.hitori.pressspring_4.0_iphoneos-arm64.deb
+Size: 3014
+MD5sum: 14df309e67937ec082d5bb28aa531982
+SHA1: ac437d80cc17f0a508f31c1263ac0cdeeea4681f
+SHA256: 6244fd1f3bd0e79115fc80bb0409d50d95b35ecb3b01e205f38db390002183c4
+Section: Tweaks
+Description: Respring with hardware buttons.
+Author: Hitori
+Name: Press Spring
+
 Package: com.hitori.quickactionsbegone
 Version: 5.0~Hitori
 Architecture: iphoneos-arm64
@@ -363,6 +379,22 @@ Section: Tweaks
 Description: Make the Quick Actions background on Lock Screen translucent
 Author: Hitori
 Name: TranslucentQuickAction
+
+Package: com.hitori.transparentdock
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.hitori.transparentdock_4.0_iphoneos-arm64.deb
+Size: 3052
+MD5sum: f4746dcc3a68e5932a37f023fc7c3b04
+SHA1: 27fa1c371a91a0c0edf41c11ddd8b75702302ad3
+SHA256: 3690df039ddad5cf2ec07a2b7f68b102ed723c4a17aeb84af39a19edf58e828c
+Section: Tweaks
+Description: Transparent Dock
+Author: Hitori
+Name: Transparent Dock
 
 Package: com.ichitaso.autolockcc
 Version: 0.2
