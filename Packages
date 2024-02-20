@@ -705,19 +705,19 @@ Author: Mikasa
 Name: Wowza
 
 Package: com.miro.uyou
-Version: 3.0.1
+Version: 3.0.3
 Architecture: iphoneos-arm64
 Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 31200
+Installed-Size: 31212
 Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
 Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
-Filename: ./debs/com.miro.uyou_3.0.1_iphoneos-arm64.deb
-Size: 10948110
-MD5sum: 9eb39d64200461cb4f64e7ab47358ace
-SHA1: ff43999f2889dcd6a5ce4b21a174c1fd825ce289
-SHA256: 6ec9a970e059b6ae458eda958544af749d0c420d76d10ebbf73733b36204df92
+Filename: ./debs/com.miro.uyou_3.0.3_iphoneos-arm64.deb
+Size: 10951856
+MD5sum: f9d7373100bdaf1fbc31cb1824f3486e
+SHA1: 021fb7b741d9fea27e76087bb5599cdbc956d394
+SHA256: f343275a9cee83303060309ee924657b64329b653de1bae3cd453bb2a5d593d2
 Section: Tweaks
-Description: The best tweak for the YouTube app
+Description: Enhance Your YouTube Experience
 Tag: purpose::extension, compatible_min::ios13
 Author: MiRO <tweaks_support@miro92.com>
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
@@ -759,6 +759,21 @@ Author: MTAC
 Icon: https://mtac.app/repo/assets/com.mtac.ccpowermenu/icon-rounded.png
 Name: CCPowerMenu
 Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.ccpowermenu.json
+
+Package: com.nezuko.applesymbols
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nezuko
+Depends: com.spark.snowboard.fonts
+Filename: ./debs/com.nezuko.applesymbols_1.0_iphoneos-arm64.deb
+Size: 342792
+MD5sum: 742634be3ee0695ccf2a6dba43fd2864
+SHA1: c2b7975e7e668b8f0608991e1b66ff262707ac7c
+SHA256: be5593f23260394ced6963d5d676b4bae20fccf354de76bdda048e388d0f6bfa
+Section: Fonts
+Description: Change characters
+Author: YangJiii
+Name: Apple Symbols
 
 Package: com.nezuko.croutons
 Version: 2.0
