@@ -236,6 +236,25 @@ Depiction: https://chariz.com/get/goji
 Icon: https://cdn.chariz.cloud/icon/goji/icon@3x.png
 Name: Goji
 
+Package: com.ginsu.dodo
+Version: 4.2.2-1
+Architecture: iphoneos-arm64
+Maintainer: Ginsu
+Installed-Size: 2180
+Depends: dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.comet, com.ginsu.gscore, com.ginsu.gsweather
+Filename: ./debs/com.ginsu.dodo_4.2.2-1_iphoneos-arm64.deb
+Size: 415176
+MD5sum: 1dc1590c1bf83ed39e9f800c9bb91c0e
+SHA1: 93741da71fe69fcab8e57c44ff6775287657ae57
+SHA256: 812b3e364da4b87dd3717d5de10c018d23071978fc10c2cff2b02118da8f13a9
+Section: Tweaks
+Description: The perfect Lock Screen redesign.
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.dodo
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.dodo/icon.png
+Name: Dodo (Rootless)
+Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.dodo.json
+
 Package: com.hitori.clockwise
 Version: 4.0
 Architecture: iphoneos-arm64
