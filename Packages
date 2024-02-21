@@ -1539,6 +1539,44 @@ Description: Little and colorful notification banners
 Author: Traurige <hello@traurige.dev>
 Name: Liddell
 
+Package: emt.paisseon.xinamine
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Sudo + Paisseon
+Installed-Size: 564
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Filename: ./debs/emt.paisseon.xinamine_0.0.5_iphoneos-arm64.deb
+Size: 70006
+MD5sum: 7f8ed32b1fd837e82809b7f2b2600998
+SHA1: cca516b753396474b40a2d686795801a528a107a
+SHA256: 84c09be66731624a44a2f39b2acb8e90db6130cd14874bc1e127aafe7332c6c4
+Section: System
+Description: Add Xina tweak compatibility to Dopamine
+Author: Sudo + Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Xinamine.png
+Name: Xinamine
+Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
+
+Package: ez.now.xinaminepatcherscript
+Version: 1.7.4
+Architecture: iphoneos-arm64
+Maintainer: NoW4U2Kid
+Depends: mobilesubstrate, ellekit, file, odcctools, ldid, emt.paisseon.xinamine
+Filename: ./debs/ez.now.xinaminepatcherscript_1.7.4_iphoneos-arm64.deb
+Size: 4232
+MD5sum: 876acfaf6faddbf0addfa6884392952c
+SHA1: 0bf1573b8ca243625ee58fdc2602b1cb7d3f9b60
+SHA256: 8a08519c40a29f79018571e0ec065a4951081e70bf665d6ae35af1377462a0e8
+Section: System
+Description: IMPORTANT: Make sure to use Dopamine 1.1 or Xinam1ne if you are using Dopamine. This package now automatically creates symlinks as well. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
+ - YES, this is much better than Derootifier or any other rootless conversion script.
+ - Supported jailbreaks: Dopamine, Fugu15Max, Palera1n (rootless), Xina, or any other rootless jailbreak.
+ - Repacks tweaks as rootless, but this script is by far the best script for converting tweaks to rootless because it additionally modifies paths like with Xina jailbreak, so it works with almost every tweak.
+ - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process), @sudo for ideas and a few modifications here and there, @évelyne for Allemand (removes the need for having Legacy arm64e Support/oldabi)
+Author: NoW4U2Kid
+Name: Xinamine Patcher
+
 Package: gay.kota.basiccarrier
 Version: 1.0.0nya~
 Architecture: iphoneos-arm64
