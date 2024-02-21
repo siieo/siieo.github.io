@@ -1540,16 +1540,15 @@ Author: Traurige <hello@traurige.dev>
 Name: Liddell
 
 Package: emt.paisseon.xinamine
-Version: 0.0.5
+Version: 0.0.5-1
 Architecture: iphoneos-arm64
 Maintainer: Sudo + Paisseon
-Installed-Size: 564
-Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
-Filename: ./debs/emt.paisseon.xinamine_0.0.5_iphoneos-arm64.deb
-Size: 70006
-MD5sum: 7f8ed32b1fd837e82809b7f2b2600998
-SHA1: cca516b753396474b40a2d686795801a528a107a
-SHA256: 84c09be66731624a44a2f39b2acb8e90db6130cd14874bc1e127aafe7332c6c4
+Depends: ellekit, oldabi
+Filename: ./debs/emt.paisseon.xinamine_0.0.5-1_iphoneos-arm64.deb
+Size: 69988
+MD5sum: defb7f4083c07a5405ee05675821ccf2
+SHA1: dac383e940ec54926b752664676c517316bb1fdc
+SHA256: 4821704de0aafcafac327d88e56c6ecc7e2ed2f9f24158c4bb09d881e0d6bc3f
 Section: System
 Description: Add Xina tweak compatibility to Dopamine
 Author: Sudo + Paisseon
@@ -1597,13 +1596,13 @@ Package: love.litten.diary
 Version: 1.2.2-2
 Architecture: iphoneos-arm64
 Maintainer: Litten
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, firmware (>= 15.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo, love.litten.libkitten
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, firmware (>= 15.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo, love.litten.libkitten, emt.paisseon.xinamine
 Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, se.nosskirneh.properlockgestures
-Filename: ./debs/love.litten.diary_1.2.2_iphoneos-arm64.deb
-Size: 2591860
-MD5sum: 8b559ff3dbdf712d9a4a6b7ee0b4a009
-SHA1: 0cb70a5d899597f6af83bc1a7371d8121559c649
-SHA256: 11af2cd6819e8238821000ad7763e9abe4f7b8de546bf9109b37b6fbc8622d15
+Filename: ./debs/love.litten.diary_1.2.2-2_iphoneos-arm64.deb
+Size: 2591908
+MD5sum: 200ec9fc8435e999bc473545763e85af
+SHA1: 04c3d5be3c8b8da48566b30779b81edab21bce11
+SHA256: af283981c89b3798b2053d715e8002bb8eb7df888f06dddc3a2f308eefbbf90e
 Section: Tweaks
 Description: Dear diary..
 Author: Litten
