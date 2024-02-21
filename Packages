@@ -240,13 +240,13 @@ Package: com.ginsu.dodo
 Version: 4.2.2-1
 Architecture: iphoneos-arm64
 Maintainer: Ginsu
-Installed-Size: 2180
+Installed-Size: 2176
 Depends: dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.comet, com.ginsu.gscore, com.ginsu.gsweather
 Filename: ./debs/com.ginsu.dodo_4.2.2-1_iphoneos-arm64.deb
-Size: 415176
-MD5sum: 1dc1590c1bf83ed39e9f800c9bb91c0e
-SHA1: 93741da71fe69fcab8e57c44ff6775287657ae57
-SHA256: 812b3e364da4b87dd3717d5de10c018d23071978fc10c2cff2b02118da8f13a9
+Size: 411306
+MD5sum: 00810a81b105d89347e65431e9c0002a
+SHA1: b024ca325880fdc138a7db5503f855c92514cf01
+SHA256: b36208246a7e59ccb657670eb058d72009f1a8ccb79c80b058be432f61d25e22
 Section: Tweaks
 Description: The perfect Lock Screen redesign.
 Author: Ginsu
@@ -1596,8 +1596,9 @@ SHA256: 7b15b8e5de6b10a26353afc8c9129e01931f7b6334512846731f01bc26ef06f5
 Section: Tweaks
 Description: iOS Accent Colours In macOS Style
 Author: Lillie & Hitori
+Depiction: https://repo.lillieweeb001.xyz/depictions/accentcustom.html
 Name: Accent Custom
-Sileodepiction: https://siieo.github.io/sileodepictions/AccentCustom/AccentCustom.json
+Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.accentcustom/depiction.json
 
 Package: works.alo.fonts.meloso100
 Version: 1.0
