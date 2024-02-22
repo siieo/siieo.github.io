@@ -779,6 +779,22 @@ Icon: https://mtac.app/repo/assets/com.mtac.ccpowermenu/icon-rounded.png
 Name: CCPowerMenu
 Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.ccpowermenu.json
 
+Package: com.nahtedetihw.macpass
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 876
+Depends: mobilesubstrate, com.spark.libsparkcolourpicker, ws.hbang.common
+Filename: ./debs/com.nahtedetihw.macpass_1.4_iphoneos-arm64.deb
+Size: 196252
+MD5sum: 110ae3243e7a9787c40d31e8d7227921
+SHA1: 1ea588d71f25087a176e76e20e00035085fba44f
+SHA256: 23a4e7a745b1ab8f494791cd61727fb03eb20225cdd5cf65be97ecee0f995ccc
+Section: Tweaks
+Description: MacPass gives MacOS password screen for passcode!
+Author: Ethan Whited
+Name: MacPass
+
 Package: com.nezuko.applesymbols
 Version: 1.0
 Architecture: iphoneos-arm64
