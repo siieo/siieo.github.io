@@ -1108,10 +1108,10 @@ Maintainer: Baw Appie <pp121324@gmail.com>
 Installed-Size: 2476
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: ./debs/com.rpgfarm.a-font_1.11_iphoneos-arm64.deb
-Size: 493026
-MD5sum: d2ffd0b5ef5aec90e68b735a82231df5
-SHA1: eb007e21f48d9d78744888ad208f28385d68928c
-SHA256: 8726e1d0a49aedbe80ad8c9f0c82a6f7c66bff1e904ef83431290d057f4439ee
+Size: 495256
+MD5sum: ea5929ed29a1da4186066951ab0c2abf
+SHA1: 7c44dbacf373eedd4cacce83fe728d97f2ee31c0
+SHA256: 7c124302d7d22d1d07b4559520c097d41c4e7d8360145d0274d8cccb9b37d0bd
 Section: Tweaks
 Description: Change your font!
 Author: Baw Appie <pp121324@gmail.com>
