@@ -255,6 +255,44 @@ Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.dodo/icon.png
 Name: Dodo (Rootless)
 Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.dodo.json
 
+Package: com.ginsu.gscore
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Ginsu
+Installed-Size: 4268
+Depends: dev.theos.orion14, firmware (>= 14.0)
+Filename: ./debs/com.ginsu.gscore_1.0.4_iphoneos-arm.deb
+Size: 436160
+MD5sum: b28404b6bb234fd418849046c31443fb
+SHA1: c21b197a0edba041ff5262779050bdca0f8ef91f
+SHA256: 3765bc20c8e8cf5d1159136054c7a5ba9dce1b0f7ba81a81aaf7efcdb7e9b641
+Section: Tweaks
+Description: Environment and communication between my tweaks
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gscore
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gscore/icon.png
+Name: GSCore
+Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gscore.json
+
+Package: com.ginsu.gsweather
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Ginsu
+Installed-Size: 1216
+Depends: dev.theos.orion14, firmware (>= 14.0)
+Filename: ./debs/com.ginsu.gsweather-_1.1.1_iphoneos-arm.deb
+Size: 119784
+MD5sum: 6e3616bc13153db49cbce06133f3e310
+SHA1: 870532e7f6ef3fef4b1b17052746738b30107cf2
+SHA256: 5631dca039c575d221abd949a4f8dfd7f1befee731838f3f4f52a741f5189ad5
+Section: Tweaks
+Description: A Weather fetching framework
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gsweather
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gsweather/icon.png
+Name: GSWeather
+Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gsweather.json
+
 Package: com.hitori.clockwise
 Version: 4.0
 Architecture: iphoneos-arm64
