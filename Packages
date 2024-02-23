@@ -200,17 +200,17 @@ Name: AppData
 Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
 
 Package: com.fouadraheb.watusi3
-Version: 1.2.20
+Version: 1.2.24
 Architecture: iphoneos-arm64
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6604
-Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.19)
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.20)
 Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
-Filename: ./debs/com.fouadraheb.watusi3_1.2.20_iphoneos-arm64.deb
-Size: 1968740
-MD5sum: 69d224066e9540b44ea720290154d685
-SHA1: 2dd60700ab2772223b6e57912b7a6ea208ee42c9
-SHA256: 73aff730770a11befec651d61b4695fbfc8a19a771ecbc644134ad563eb6162f
+Filename: ./debs/com.fouadraheb.watusi3_1.2.24_iphoneos-arm64.deb
+Size: 1969626
+MD5sum: 828f1f2a19bc7a18866d048064b90372
+SHA1: 3d5ecbe575de5e97a0563576e82bbacffe072ffa
+SHA256: aa3048cff17cf861be4c49e2dd652fba13b85daf157e54dd0d1194d80a26ebe5
 Section: Tweaks
 Description: The all-in-one tweak for WhatsApp Messenger
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -388,6 +388,22 @@ Description: Hides the iPhone X home bar
 Author: Hitori
 Name: Hide Home Bar
 
+Package: com.hitori.melosoclock
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: firmware (>=16.0), com.spark.snowboard.fonts
+Filename: ./debs/com.hitori.melosoclock_1.0_iphoneos-arm64.deb
+Size: 93756
+MD5sum: 6e5618c0fbbc4d68cb8e019b5651dd30
+SHA1: 34b58391ff1153d35333213fae8277aaf23a29b1
+SHA256: 2a2003bb9616894c5d23b01e1d013baf50b61b8e00605778dd0a7534205623c7
+Section: Fonts
+Description: Change your iOS 16 clock font to the 'Meloso' clock font!
+Author: Alexman
+Icon: https://alo.works/assets/works.alo.fonts.mikhak85/icon.png
+Name: Meloso Clock Font (iOS 16)
+
 Package: com.hitori.nobetaalert
 Version: 4.0
 Architecture: iphoneos-arm64
@@ -435,6 +451,36 @@ Section: Tweaks
 Description: Hide the Flashlight and the Camera button on the Lock screen
 Author: Hitori
 Name: Quick Actions Be Gone
+
+Package: com.hitori.roundfont
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: firmware (>=16.0), com.spark.snowboard.fonts
+Filename: ./debs/com.hitori.roundfont_1.0_iphoneos-arm64.deb
+Size: 8986456
+MD5sum: 85861ac51a19a2269472ddd01eb79f64
+SHA1: a5100f287bbe7eb49b21554ccdcf5ae5713491c2
+SHA256: d2aecba3616fe3b921ed97e0972981e62133526791e3b5996f52787a4af09139
+Section: Fonts
+Author: Hitori
+Name: Apple Round Font iOS 16
+
+Package: com.hitori.shakesafe
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.hitori.shakesafe_4.0_iphoneos-arm64.deb
+Size: 3082
+MD5sum: 8512f74d0406ec92fdebd6116781be20
+SHA1: 84e135e7ae0ff09d46bd68f758b12ec66c2df558
+SHA256: 3b14fc3fe45f3a94dd586447b2a8db6ffe37bcf3ee36616931eb29e9f739d7cd
+Section: Tweaks
+Description: Shake your device to enter safe mode
+Author: Hitori
+Name: ShakeSafe
 
 Package: com.hitori.showethernet
 Version: 4.0
@@ -633,22 +679,6 @@ Section: Tweaks
 Description: Make the 3D-Touch menus translucent
 Author: iCraze
 Name: Translucent3DMenus
-
-Package: com.icraze.uyoucrashfix
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: iCraze
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs/com.icraze.uyoucrashfix_1.0_iphoneos-arm64.deb
-Size: 2626
-MD5sum: 3e782b4a973a74301a8c09f8713d4d4f
-SHA1: 889fbce093919368971bbca033c670982deec33c
-SHA256: 6f8fddf3848761c24a07778442cc0ede479409cdc80683f8589f9f266ddffd7d
-Section: Tweaks
-Description: Fixes uYou crash bugs on YouTube v18.43.4
-Author: iCraze
-Name: uYouCrashFix
 
 Package: com.imkpatil.colormybattery
 Version: 1.3.4
@@ -1712,6 +1742,119 @@ Depiction: https://apt.alfhaily.me/depiction/4EYOXC
 Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
 Name: Rocket for Instagram
 Sileodepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+
+Package: me.luki.april
+Version: 3.1
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 808
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings
+Filename: ./debs/me.luki.april_3.1_iphoneos-arm64.deb
+Size: 393118
+MD5sum: c708a6ffc0438e4e791ee3f37b22da58
+SHA1: 5c46ab7a61f80507dddeea16eff5d2e1fa484e95
+SHA256: 8b13541b71f5dcda16e4ade492b90d34e7c0c2533793577e9338f912abe282e4
+Section: Tweaks
+Description: Augment your settings app aesthetics to the next level on the fly
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.april
+Icon: https://raw.githubusercontent.com/Luki120/April/main/AprilPrefs/Resources/Assets/AprilIcon.png
+Name: April
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.april/depiction.json
+
+Package: me.luki.elixir
+Version: 0.9.6
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/me.luki.elixir_0.9.6_iphoneos-arm64.deb
+Size: 7028
+MD5sum: e489ea44425b6d89d81f8d0b709604ca
+SHA1: 86dd92583a5baa6246d3bd748f454aeef08a768c
+SHA256: 880292ea80cfcd5ddbb1305ec86db1c9028755c908869c117ff4c2e67b77ca5f
+Section: Tweaks
+Description: Tweak count at a glimpse
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.elixir
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Elixir/ElixirIcon.png
+Name: Elixir
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.elixir/depiction.json
+
+Package: me.luki.marie
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 940
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/me.luki.marie_1.0.6_iphoneos-arm64.deb
+Size: 552346
+MD5sum: 904c909232833f4df1420ca25f05d6db
+SHA1: 8b2be9dd46bb4981771db206d139bdb5b5e6ab65
+SHA256: 45bbb458e67d6d712042e5e113a395b1601af48beb4b007e00b94c86086721d0
+Section: Tweaks
+Description: Put an image for the dialer, passcode or sharesheet background on the fly
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/SpringBoard/Marie/MarieIcon.png
+Name: Marie
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
+
+Package: me.luki.shakespring
+Version: 0.9.0
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/me.luki.shakespring_0.9.0_iphoneos-arm64.deb
+Size: 3130
+MD5sum: ef79b5faf221748f4b2358cebd70f194
+SHA1: 8261e3a7ccf74cd92809ccd8c6f957bf877e9453
+SHA256: 764e491f61e688b52eb03e5ebdb12c713a7d2c861b145bfe91f46206d813381a
+Section: Tweaks
+Description: Shake your device to respring, ez
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.shakespring
+Name: ShakeSpring
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.shakespring/depiction.json
+
+Package: me.luki.stealthcc
+Version: 0.9.0
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 364
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/me.luki.stealthcc_0.9.0_iphoneos-arm64.deb
+Size: 21374
+MD5sum: 46abcee1ba961d0271e3aed99df641d7
+SHA1: 989ba6973a78ed8da0a7e660102957e092d61558
+SHA256: 5ab2ee37857f7d011a82a8221771f8b538d7183a3ca2302c0ca21e57a02a135e
+Section: Tweaks
+Description: Control the intensity of the stock CC blur on the fly
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Misc/StealthCC.png
+Name: StealthCC
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
+
+Package: me.luki.zaire
+Version: 0.9.0
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/me.luki.zaire_0.9.0_iphoneos-arm64.deb
+Size: 5230
+MD5sum: b4030b7f2a95e2725203c182941ac6c8
+SHA1: d60e555f3c91513799a6adb24b22335bd5ac2cb8
+SHA256: 658b32580ec5c3c74307fed9065d802411212feca9e09f89e117e89b8a7a2bcf
+Section: Tweaks
+Description: Displays the number of installed apps in the storage page
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.zaire
+Name: Zaire
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.zaire/depiction.json
 
 Package: me.nepeta.axon
 Version: 1.5-1
