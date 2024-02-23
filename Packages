@@ -1,3 +1,20 @@
+Package: beta.simalary.romanpad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Simalary (Chris) <19harperc@gmail.com>
+Depends: mobilesubstrate, firmware(>=13.0)
+Conflicts: beta.simalary.romanpad-beta
+Replaces: beta.simalary.romanpad-beta
+Filename: ./debs/beta.simalary.romanpad_1.0_iphoneos-arm64.deb
+Size: 69156
+MD5sum: efeb8dd5a09f8acc3c7847f87b536880
+SHA1: 2f1a24698c87c2eb32b4a8a51c5e1a1cebbd6545
+SHA256: 21e038b7fe8d87080474818ee42e3a4932396297090e222b5812e1a967b83eb9
+Section: Tweaks
+Description: Change number buttons to Roman numerals.
+Author: Simalary (Chris) <19harperc@gmail.com>
+Name: RomanPad
+
 Package: com.0xkuj.3dappversionspoofer
 Version: 2.0.3
 Architecture: iphoneos-arm64
@@ -256,23 +273,20 @@ Name: Dodo (Rootless)
 Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.dodo.json
 
 Package: com.ginsu.gscore
-Version: 1.0.4
+Version: 1.0.4-1
 Architecture: iphoneos-arm64
 Maintainer: Ginsu
-Installed-Size: 4272
+Installed-Size: 2756
 Depends: dev.theos.orion14, firmware (>= 14.0)
-Filename: ./debs/com.ginsu.gscore_1.0.4_iphoneos-arm64.deb
-Size: 437604
-MD5sum: 876dc2fd2777f4e257019282b636b7d0
-SHA1: 69edc4702c619d5c308f65244b4dc3045bd9ef62
-SHA256: 8c4d296c4c19d14f7ea8103b233663ca25d3fcfc367149392c0557d9c3d18aa3
+Filename: ./debs/com.ginsu.gscore_1.0.4-1_iphoneos-arm64.deb
+Size: 243428
+MD5sum: 3af25e539ac0b5ac03dd9ae61c3f57f6
+SHA1: 9b94e6d6c068a893df4168b86faab6dd584abcf1
+SHA256: 482e85bcb0d83930c114e00429a269e6194d8251ed3787ac4bf1143c26ad7b4e
 Section: Tweaks
 Description: Environment and communication between my tweaks
 Author: Ginsu
-Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gscore
-Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gscore/icon.png
 Name: GSCore (Rootless)
-Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gscore.json
 
 Package: com.ginsu.gsweather
 Version: 1.1.1
@@ -292,6 +306,25 @@ Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gswe
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gsweather/icon.png
 Name: GSWeather (Rootless)
 Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gsweather.json
+
+Package: com.ginsu.ramundertime
+Version: 3.3
+Architecture: iphoneos-arm64
+Maintainer: Ginsu
+Installed-Size: 248
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.ginsu.ramundertime_3.3_iphoneos-arm64.deb
+Size: 23868
+MD5sum: 365c626741147f78123802f5208dc713
+SHA1: 654cbdfb6b8824de4d9a142e048da5a75fc67c17
+SHA256: f5277f726cf5804b289d8bc08094752b31e91b75c000e48fda6c7a338df821b8
+Section: Tweaks
+Description: Shows the amount of free RAM in the status bar.
+Author: Ginsu
+Depiction: https://ginsudev.github.io/repo/depictions/ramundertime/index.html
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.ramundertime/icon.png
+Name: RAMUnderTime
+Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.ramundertime.json
 
 Package: com.hitori.clockwise
 Version: 4.0
