@@ -15,16 +15,16 @@ Author: 0xkuj
 Name: 3DAppVersionSpoofer
 
 Package: com.bandarhl.bhtwitter
-Version: 4.3-1+debug
+Version: 4.4
 Architecture: iphoneos-arm64
 Maintainer: Bandar Alruwaili
-Installed-Size: 23840
+Installed-Size: 19052
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/com.bandarhl.bhtwitter_4.3-1+debug_iphoneos-arm64.deb
-Size: 8692250
-MD5sum: 64deb0bf6deee1055a00997088a8392e
-SHA1: 1a9424e145f80abf98c6512fb0eaab21fe3e794a
-SHA256: 2686ffb3a39fd8b6cc710858f112f00e90116338188238c8d5cb734f8afe94e3
+Filename: ./debs/com.bandarhl.bhtwitter_4.4_iphoneos-arm64.deb
+Size: 6942744
+MD5sum: 5f59c09d57feaac2277e7cc4b8ab30e4
+SHA1: d222c3657e1b5b0eb73400046b3d3223e0e713f8
+SHA256: 5473998a83c8b3e2f0dec6dac203b18cca5b797071464324fb460298dec61dda
 Section: Tweaks
 Description: Awesome tweak for Twitter
 Author: Bandar Alruwaili
