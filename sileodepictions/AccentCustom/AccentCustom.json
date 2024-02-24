@@ -1,84 +1,218 @@
 {
-  "minVersion": "0.4",
-  "class": "DepictionTabView",
-  "tabs": [
-    {
-      "class": "DepictionStackView",
-      "tabname": "Details",
-      "views": [
-        {
-          "class": "DepictionSubheaderView",
-          "useMargins": true,
-          "title": "Compatible with iOS 7.0 +"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "A tweak that allows setting of Amber LED, or both White and Amber LEDs.</p>",
-          "useSpacing": true,
-          "useRawFormat": true
-        }
-      ],
-      "xPadding": 10
-    },
-    {
-      "class": "DepictionStackView",
-      "tabname": "Changelog",
-      "views": [
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Version 1.2.1"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- You can also tap the text under the flashlight icon to switch between modes\n- Some code refactoring\n"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Version 1.2.0"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- You now tap the flashlight icon to switch between modes instead of swiping, iOS 14+"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Version 1.1.1"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- Fixed respring bug when expanding the flashlight CC button"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Version 1.1.0"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- Rootless mode (Swipe-only), iOS 11+"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Version 1.0.2"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- Fixed crashing on iOS 12 when opening flashlight CC module"
-        }
-      ]
-    }
-  ],
-  "tintColor": "orange",
-  "headerImage": "https://poomsmart.github.io/repo/features/amber.png"
+   "class":"DepictionTabView",
+   "minVersion":"0.4",
+   "headerImage":"https://media.havoc.app/65d123cde9f9cb32f6e72581",
+   "tabs":[
+      {
+         "class":"DepictionStackView",
+         "tabname":"Details",
+         "views":[
+            {
+               "class":"DepictionSubheaderView",
+               "title":"iOS Accent Colours In macOS Style.",
+               "useBoldText":true
+            },
+            {
+               "class":"DepictionScreenshotsView",
+               "itemCornerRadius":6,
+               "itemSize":"{160, 346}",
+               "screenshots":[
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://media.havoc.app/65d628a28c0bfe909ff8711f"
+                  },
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://media.havoc.app/65d8f53bcb2061eb86be83cb"
+                  },
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://media.havoc.app/65d628b58c0bfe909ff87635"
+                  }
+               ]
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"Description"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown":"Changes iOS Accent Color. Enjoy iOS Accent Colors in the elegant fashion of macOS, bringing a touch of the Mac experience to your iOS device. Lightweight, customizable, and compatible with various iOS versions.",
+               "useSpacing":true
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"Information"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Version",
+               "text":"2.2-1"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Size",
+               "text":"127.9 KB"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Updated",
+               "text":"February 24, 2024"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"iOS Versions",
+               "text":"15.0 - 16.6.1"
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"Sellers"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionSpacerView",
+               "spacing":15
+            },
+            {
+               "class":"DepictionStackView",
+               "tabname":"",
+               "xPadding":15,
+               "views":[
+                  {
+                     "class":"DepictionLayerView",
+                     "views":[
+                        {
+                           "class":"DepictionLabelView",
+                           "text":"Hitori",
+                           "fontSize":14,
+                           "fontWeight":"semibold",
+                           "margins":"{2, 32, 2, 15}"
+                        },
+                        {
+                           "class":"DepictionImageView",
+                           "URL":"https://yourdeveloperavatarurl.com",
+                           "width":24,
+                           "height":24,
+                           "cornerRadius":4
+                        }
+                     ]
+                  },
+                  {
+                     "class":"DepictionSpacerView",
+                     "spacing":6
+                  },
+                  {
+                     "class":"DepictionLayerView",
+                     "views":[
+                        {
+                           "class":"DepictionLabelView",
+                           "text":"YourOtherDeveloperName",
+                           "fontSize":14,
+                           "fontWeight":"semibold",
+                           "margins":"{2, 32, 2, 15}"
+                        },
+                        {
+                           "class":"DepictionImageView",
+                           "URL":"https://yourotherdeveloperavatarurl.com",
+                           "width":24,
+                           "height":24,
+                           "cornerRadius":4
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "class":"DepictionSpacerView",
+               "spacing":15
+            }
+         ]
+      },
+      {
+         "class":"DepictionStackView",
+         "tabname":"Changelog",
+         "views":[
+            {
+               "class":"DepictionLayerView",
+               "views":[
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"2.2-1",
+                     "fontWeight":"bold",
+                     "fontSize":16
+                  },
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"February 24, 2024",
+                     "fontWeight":"semibold",
+                     "fontSize":16,
+                     "textColor":"#696969",
+                     "alignment":2
+                  }
+               ]
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown":"- Adds Safari progress bar"
+            },
+            {
+               "class":"DepictionLayerView",
+               "views":[
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"2.2",
+                     "fontWeight":"bold",
+                     "fontSize":16
+                  },
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"February 16, 2024",
+                     "fontWeight":"semibold",
+                     "fontSize":16,
+                     "textColor":"#696969",
+                     "alignment":2
+                  }
+               ]
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown":"- Adds text selection color\n- Adds Safari progress bar"
+            },
+            {
+               "class":"DepictionLayerView",
+               "views":[
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"2.1",
+                     "fontWeight":"bold",
+                     "fontSize":16
+                  },
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"January 20, 2024",
+                     "fontWeight":"semibold",
+                     "fontSize":16,
+                     "textColor":"#696969",
+                     "alignment":2
+                  }
+               ]
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown":"- Supports rootless"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            }
+         ]
+      }
+   ]
 }
