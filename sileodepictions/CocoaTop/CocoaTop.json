@@ -58,7 +58,7 @@
             {
                "class":"DepictionTableTextView",
                "title":"Version",
-               "text":"2.2-1"
+               "text":"2.2.4"
             },
             {
                "class":"DepictionTableTextView",
@@ -166,7 +166,7 @@
             },
             {
                "class":"DepictionMarkdownView",
-               "markdown":"-Fix the icon\n- Fix the entitlements"
+               "markdown":"\n Fix the icon\n- Fix the entitlements"
             },
             {
                "class":"DepictionSeparatorView"

@@ -14,6 +14,106 @@ Description: A tweak to add app spoofing capabilities right from your 3D menu an
 Author: 0xkuj
 Name: 3DAppVersionSpoofer
 
+Package: com.anthopak.addtofolder-rootless
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/com.anthopak.addtofolder-rootless.deb
+Size: 136444
+MD5sum: 1883efa636a3dd352fa899fb085d315b
+SHA1: 985c0304f65579794ad15f7c6e52c910dbb8ae73
+SHA256: c0fb9686dfb6644cfbdb40e23756582cd7d45aef2380d125b2c7c44f6714d0f2
+Section: Tweaks
+Homepage: https://repo.anthopak.dev
+Description: Easily move apps to your folders
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.addtofolder-rootless.php
+Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder-rootless/icon.png
+Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
+Name: AddToFolder (Rootless)
+Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
+
+Package: com.anthopak.easyairplanedisabler-rootless
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.anthopak.easyairplanedisabler-rootless.deb
+Size: 7868
+MD5sum: 1eb7701da3829acbc4e2bcc8c02916b3
+SHA1: 1ea1cf9780f512d3352d7bd571912c9282c60b4a
+SHA256: 05a96f6f925e7d989f248ebe66b5cafd9c4f5dd901dd0dc9fa0aef085133dd84
+Section: Tweaks
+Homepage: https://repo.anthopak.dev
+Description: Turn off Airplane mode directly from alert
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.easyairplanedisabler-rootless.php
+Icon: https://repo.anthopak.dev/assets/com.anthopak.easyairplanedisabler-rootless/icon.png
+Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.easyairplanedisabler-rootless.json
+Name: EasyAirplaneDisabler (Rootless)
+Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.easyairplanedisabler-rootless.json
+
+Package: com.anthopak.pancake-rootless
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
+Filename: ./debs/com.anthopak.pancake-rootless.deb
+Size: 117704
+MD5sum: 6a105fbcec401cb11d5775027e473d53
+SHA1: c7d23ede8c839f1a23f78471259c03f8f0868012
+SHA256: 47dbd0bc69f36e383563048af7e35fbd5d40183b9d83019de3514c088ebbed9c
+Section: Tweaks
+Homepage: https://repo.anthopak.dev
+Description: Interactive dismiss gesture on the whole screen in all apps and ability to restore previous page
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.pancake-rootless.php
+Icon: https://repo.anthopak.dev/assets/com.anthopak.pancake-rootless/icon.png
+Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
+Name: PanCake (Rootless)
+Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
+
+Package: com.anthopak.quickccdismiss-rootless
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.anthopak.quickccdismiss-rootless.deb
+Size: 105578
+MD5sum: a05b7f0fcdd25e4a1b2aeba0206ed00a
+SHA1: ed4fe3de0458d6ab52f84b1b04869e582de92dac
+SHA256: ae587dfde0240c6b5ebab422fd9883fb99e1d3dc5b62baca3db5426b62c184e4
+Section: Tweaks
+Homepage: https://repo.anthopak.dev
+Description: Quickly dismiss CC from expanded modules
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.quickccdismiss-rootless.php
+Icon: https://repo.anthopak.dev/assets/com.anthopak.quickccdismiss-rootless/icon.png
+Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.quickccdismiss-rootless.json
+Name: QuickCCDismiss (Rootless)
+Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.quickccdismiss-rootless.json
+
+Package: com.anthopak.quickprefs-rootless
+Version: 1.3.2
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Filename: ./debs/com.anthopak.quickprefs-rootless.deb
+Size: 609572
+MD5sum: 96d019a7f1fa9cc553353863c8102dbc
+SHA1: a452e63b3b53310ec24ad2e0c484d85f9c06d148
+SHA256: e1ae5c8e120339a7feb5e7a226bc484eb05643f821c9e24625324da3c272466b
+Section: Tweaks
+Homepage: https://repo.anthopak.dev
+Description: Quickly access settings prefs from 3D Touch Menu
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.quickprefs-rootless.php
+Icon: https://repo.anthopak.dev/assets/com.anthopak.quickprefs-rootless/icon.png
+Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.quickprefs-rootless.json
+Name: QuickPrefs (Rootless)
+Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.quickprefs-rootless.json
+
 Package: com.bandarhl.bhtwitter
 Version: 4.4
 Architecture: iphoneos-arm64
@@ -250,6 +350,24 @@ Author: gabehern <hello@gabehern.com>
 Depiction: https://chariz.com/get/goji
 Icon: https://cdn.chariz.cloud/icon/goji/icon@3x.png
 Name: Goji
+
+Package: com.ginsu.classicalerts
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Ginsu
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ginsu.classicalerts_1.0.0_iphoneos-arm64.deb
+Size: 3140
+MD5sum: 3cd7529637ebe7016b020f3373668854
+SHA1: 1ce1c7c91c29d08494ed7dd1f063f64036c6e2ee
+SHA256: 17ddabecde2f7e98ab9d5dbea7473e06c10fb30e0bd60bfd3bc3e01dc9f7a17c
+Section: Tweaks
+Description: Bring iOS 8 and lower's square-styled alerts back!
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.classicalerts
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.classicalerts/icon.png
+Name: ClassicAlerts
+Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.classicalerts.json
 
 Package: com.ginsu.dodo
 Version: 4.2.2-1
