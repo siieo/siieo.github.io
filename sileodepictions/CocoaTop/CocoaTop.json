@@ -2,6 +2,7 @@
    "class":"DepictionTabView",
    "minVersion":"0.4",
    "headerImage":"https://siieo.github.io/sileodepictions/CocoaTop/header.png",
+   "tintColor": "#2CCE21",
    "tabs":[
       {
          "class":"DepictionStackView",
