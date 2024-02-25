@@ -72,7 +72,7 @@
             },
             {
                "class":"DepictionHeaderView",
-               "title":"Sellers"
+               "title":"Developers"
             },
             {
                "class":"DepictionSeparatorView"
@@ -91,7 +91,7 @@
                      "views":[
                         {
                            "class":"DepictionLabelView",
-                           "text":"Hitori",
+                           "text":"Lillie",
                            "fontSize":14,
                            "fontWeight":"semibold",
                            "margins":"{2, 32, 2, 15}"
@@ -114,14 +114,14 @@
                      "views":[
                         {
                            "class":"DepictionLabelView",
-                           "text":"YourOtherDeveloperName",
+                           "text":"Hitori",
                            "fontSize":14,
                            "fontWeight":"semibold",
                            "margins":"{2, 32, 2, 15}"
                         },
                         {
                            "class":"DepictionImageView",
-                           "URL":"https://yourotherdeveloperavatarurl.com",
+                           "URL":"https://siieo.github.io/sileodepictions/icon.png",
                            "width":24,
                            "height":24,
                            "cornerRadius":4
