@@ -2101,9 +2101,36 @@ Tags: compatible_min::ios14.0, compatible_max::ios16.6
 
 Package: xyz.skitty.lightsout
 Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 424
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/xyz.skitty.lightsout_1.1_iphoneos-arm64.deb
+Size: 56084
+MD5sum: 1af7fb94b7e6c8b3699bf1443e5fcd48
+SHA1: 63df6562ef4590d08c057424a39bd5b8720bd5ba
+SHA256: 7ebed1d1ee7632233fd0b2e29b2ec760040d41ca4538719e2ba453579a3c1fb4
+Section: Tweaks
+Description: Toggle dark mode/night shift with the light sensor!
+Author: Skitty
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.lightsout/
 Icon: https://skitty.xyz/repo/icons/xyz.skitty.lightsout.png
+Name: LightsOut
+Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.lightsout/sileo.json
 
 Package: xyz.skitty.quietdown
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 432
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/xyz.skitty.quietdown_1.1.1_iphoneos-arm64.deb
+Size: 44044
+MD5sum: c77042f94ec217845be5594d1f7b2ff1
+SHA1: 5d954a871010133d8f949913400a54fc794b2d2e
+SHA256: 80758fd14ff8caff8b882a57536cedf8946c7fc40c152d2873256710e8dbf2e3
+Section: Tweaks
+Description: Mute Notifications for Time Periods
 Author: Skitty
 Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.quietdown/
 Icon: https://skitty.xyz/repo/icons/xyz.skitty.quietdown.png
