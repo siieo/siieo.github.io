@@ -2119,16 +2119,16 @@ Name: LightsOut
 Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.lightsout/sileo.json
 
 Package: xyz.skitty.quietdown
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm64
 Maintainer: Skitty
 Installed-Size: 432
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/xyz.skitty.quietdown_1.1.1_iphoneos-arm64.deb
-Size: 44044
-MD5sum: c77042f94ec217845be5594d1f7b2ff1
-SHA1: 5d954a871010133d8f949913400a54fc794b2d2e
-SHA256: 80758fd14ff8caff8b882a57536cedf8946c7fc40c152d2873256710e8dbf2e3
+Filename: ./debs/xyz.skitty.quietdown_1.1.2_iphoneos-arm64.deb
+Size: 44068
+MD5sum: 1672b9f649378e68076e88b8df0cb273
+SHA1: 25f67fa1e00c1202056d735a2ad6dd093e296552
+SHA256: daaf0c47efebe15e73649e33935673c2a119ac14afcb9ca02d1ad8818afd68af
 Section: Tweaks
 Description: Mute Notifications for Time Periods
 Author: Skitty
