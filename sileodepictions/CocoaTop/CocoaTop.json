@@ -166,7 +166,7 @@
             },
             {
                "class":"DepictionMarkdownView",
-               "markdown":"Fix the icon\n- Fix the entitlements"
+               "markdown":"-Fix the icon\n- Fix the entitlements"
             },
             {
                "class":"DepictionSeparatorView"

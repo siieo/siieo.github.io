@@ -894,6 +894,22 @@ Icon: https://mtac.app/repo/assets/com.mtac.ccpowermenu/icon-rounded.png
 Name: CCPowerMenu
 Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.ccpowermenu.json
 
+Package: com.nahtedetihw.airpodscompanion
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 1060
+Depends: preferenceloader
+Filename: ./debs/com.nahtedetihw.airpodscompanion_1.0_iphoneos-arm64.deb
+Size: 459728
+MD5sum: 2bf7a02b4f9cd7587c0d3fd0c57c5210
+SHA1: 2952109019151796bb45e0d13dd7eebba87d9c51
+SHA256: bb1f921d4106bae09cee4fb178d4a557c8774c317f44901bc0021aa9685c661f
+Section: Tweaks
+Description: Floating Noise Cancellation control next to volume slider
+Author: Ethan Whited
+Name: AirpodsCompanion
+
 Package: com.nahtedetihw.macpass
 Version: 1.4
 Architecture: iphoneos-arm64
