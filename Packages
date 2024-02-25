@@ -2001,15 +2001,16 @@ Maintainer: Hitori
 Depends: firmware (>= 15.0)
 Conflicts: ru.domo.cocoatop
 Filename: ./debs/ru.domo.cocoatop64_2.2.4_iphoneos-arm64.deb
-Size: 137928
-MD5sum: 891830f069d2ac295163afe0eb96cadd
-SHA1: 031ece2390ca8063b37291a3b2991bba38128ebb
-SHA256: eb0afb38717660d08593af6f9422f04141643edab66d0fc4a6d8cbacacba1554
+Size: 137904
+MD5sum: f733f7f19452c9df1cc31192d5d6fbb7
+SHA1: a36ef8efd0b6b363b04e8110ec47e1ac34f0064b
+SHA256: accf21bf12f1028b6f84a5251efefb09ffc0d307823be4c1868f8bd97fbe95a7
 Section: Utilities
-Description: Process Viewer for iOS 15-16
+Description: Process Viewer for iOS
 Author: Domo <domo@rambler.ru>
-Icon: file:///Applications/CocoaTop.app/Icon.png
+Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
 Name: CocoaTop64
+Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
 Package: weeb.lillie.accentcustom
 Version: 2.2.1
