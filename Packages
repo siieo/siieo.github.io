@@ -1818,17 +1818,36 @@ Maintainer: Luki
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/me.luki.elixir_0.9.6_iphoneos-arm64.deb
-Size: 7028
-MD5sum: e489ea44425b6d89d81f8d0b709604ca
-SHA1: 86dd92583a5baa6246d3bd748f454aeef08a768c
-SHA256: 880292ea80cfcd5ddbb1305ec86db1c9028755c908869c117ff4c2e67b77ca5f
+Size: 7086
+MD5sum: e26c2e7d0d25a52b9761900a7cce298e
+SHA1: e9461acbbdbd783a776d765c22824736c112e588
+SHA256: ee2eac08ff4ca5695cec1415218f8b3a438610db48234acccdccf23cd3fbe04e
 Section: Tweaks
 Description: Tweak count at a glimpse
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.elixir
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Elixir/ElixirIcon.png
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/Apps/Elixir/ElixirIcon.png
 Name: Elixir
 Sileodepiction: https://luki120.github.io/depictions/native/me.luki.elixir/depiction.json
+
+Package: me.luki.iwanttranslucent
+Version: 0.9.2
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/me.luki.iwanttranslucent_0.9.2_iphoneos-arm64.deb
+Size: 3966
+MD5sum: d4ec2b6a84f1ff3c0a02978bc0f000e6
+SHA1: 9dde5fe00e4f86b8adaee504f48015b8b3746f3e
+SHA256: 75b5afd999a15a3aba8cb1896d4862a6ec33b6f86c663796c2d35bf60f5e7eb3
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak indeed
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/SpringBoard/IWantTranslucent/IWantTranslucent.png
+Name: IWantTranslucent
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
 
 Package: me.luki.marie
 Version: 1.0.6
@@ -2171,4 +2190,23 @@ Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls
 Icon: https://skitty.xyz/repo/icons/xyz.skitty.sixls.png
 Name: Six (LS)
 Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls/sileo.json
+
+Package: xyz.skitty.spectrum
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 580
+Depends: mobilesubstrate, libskittycolor, firmware (>= 13.0)
+Filename: ./debs/xyz.skitty.spectrum_1.1_iphoneos-arm64.deb
+Size: 60814
+MD5sum: 1fb3cad655bbd4f831af4eb3b0384f80
+SHA1: d7783f337ed583c0a4603592f1e8b7cef51b31e9
+SHA256: 4749d93c697b70ad9a87c1489e6c8509570d5d428be58b7abb5ca65b05988e77
+Section: Tweaks
+Description: Customize system colors!
+Author: Skitty & EvenDev
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.spectrum/
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.spectrum.png
+Name: Spectrum
+Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.spectrum/sileo.json
 
