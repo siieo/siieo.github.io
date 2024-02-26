@@ -442,6 +442,21 @@ Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.ramundertime/icon.png
 Name: RAMUnderTime
 Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.ramundertime.json
 
+Package: com.hitori.arima
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: com.spark.snowboard.fonts
+Filename: ./debs/com.hitori.arima_1.0_iphoneos-arm64.deb
+Size: 929152
+MD5sum: 4e2910eb36d9192c10f41f8b3a466ac5
+SHA1: 24ce9f85b493c364415feff55a199bf61b24d445
+SHA256: a185003e0a5a13371ff64d3ba51e32347558abe04c017e1f87b517266ef8a645
+Section: Fonts
+Description: A display font with soft edges and calligraphic feel is the main inspiration for Arima project.
+Author: Hitori
+Name: Arima Font
+
 Package: com.hitori.clockwise
 Version: 4.0
 Architecture: iphoneos-arm64
@@ -631,6 +646,36 @@ Section: Tweaks
 Description: Shows the Ethernet options in the Settings
 Author: Hitori
 Name: Show Ethernet
+
+Package: com.hitori.trakyarounded100
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: com.spark.snowboard.fonts
+Filename: ./debs/com.hitori.trakyarounded100_1.0_iphoneos-arm64.deb
+Size: 701116
+MD5sum: 94582d5bf64c57022c828058a6badb01
+SHA1: eaf2b9edaec670e22933a56003a48a2e71536490
+SHA256: 27a027b5e3597a47109b662ede0b4c5a52eac628c8dca269239c13e21344ae6b
+Section: Fonts
+Description: A perfect blend of elegant, minimal and premium design aesthetics at it’s level best.
+Author: Hitori
+Name: Trakya Rounded Font (100%)
+
+Package: com.hitori.trakyarounded85
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: com.spark.snowboard.fonts
+Filename: ./debs/com.hitori.trakyarounded85_1.0_iphoneos-arm64.deb
+Size: 236484
+MD5sum: 8506e6e738e5b57996c267cc1256dfb2
+SHA1: 993ddbbed532e0ae9fa5f7142c3ab4c26e1f0bf5
+SHA256: 55d460a7fbf4bd8949b68ac8fa3c4dedb5b2838c1741d7477f4083bd12e6aab2
+Section: Fonts
+Description: A perfect blend of elegant, minimal and premium design aesthetics at it’s level best.
+Author: Hitori
+Name: Trakya Rounded Font (85%)
 
 Package: com.hitori.translucentquickaction
 Version: 4.0
