@@ -209,6 +209,23 @@ Sileodepiction: https://nahtedetihw.github.io/depiction/native/com.ethn.mirage.j
 Someotherentrytocontrol: True
 Tags: compatible_min::ios11.0, compatible_max::ios14.3
 
+Package: com.evynw.fontffmilo14
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontffmilo14_1.1_iphoneos-arm64.deb
+Size: 5325176
+MD5sum: cc592399314906c12767b3f5a1eade17
+SHA1: b467a9683f66454e399b9e1e31e4ad8939dd3755
+SHA256: 1b4c40baa4e08c74f2c9a8f77dea38022ac9cb9ba9f9caa98681659d30d920a6
+Section: Fonts (iOS14-16)
+Description: Plain sans serif. 100% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffmilo14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: FF Milo (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontffmilo14.json
+
 Package: com.evynw.fontquicksand
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -225,6 +242,91 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontquicksand14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Quicksand (iOS15-16)
 Sileodepiction: https://evynw.github.io/sileo/fontquicksand14.json
+
+Package: com.evynw.fontquicksand8514
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontquicksand8514_1.0_iphoneos-arm64.deb
+Size: 12429808
+MD5sum: f0cc50da00355a8822ef7a667e86e4c7
+SHA1: 8bd640af9523c4b599baaa7125dac12c06abc72c
+SHA256: 79a004c2ac213e3890db3738779773dd23c8f42704d990587cf313e640d630e2
+Section: Fonts (iOS14-16)
+Description: Rounded sans serif. 85% size. For iOS14-16.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontquicksand8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Quicksand_85% (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontquicksand8514.json
+
+Package: com.evynw.fontrhino8514
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontrhino8514_1.0_iphoneos-arm64.deb
+Size: 11512440
+MD5sum: 454a1803fef625bb06555eda572cce85
+SHA1: fa4d4017cef80fb903c91f729bd748279a29834c
+SHA256: cc53e0f577618ebbc3bc19f2b0f3f7f2aa38fcf10bd8eea4f1bba1a16bde284d
+Section: Fonts (iOS14-16)
+Description: Slightly cursive sans. 85% size. For iOS14-16.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontrhino8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Rhino_85% (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontrhino8514.json
+
+Package: com.evynw.fontroboto14
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontroboto14_1.1_iphoneos-arm64.deb
+Size: 4467224
+MD5sum: e54e5e75534583c8015c3c7e362b97c5
+SHA1: 2f0a7645fa02ee60f54c3322358253c032d85014
+SHA256: 4e7a7fb25a0c062b45286dd89abc900cd61bc959b531a5e52dd59fa3227eadfd
+Section: Fonts (iOS14-16)
+Description: Classic Android font. 100% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontroboto14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Roboto (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontroboto14.json
+
+Package: com.evynw.fontshootastar14
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontshootastar14_1.0_iphoneos-arm64.deb
+Size: 7468152
+MD5sum: 9f356e86b96c1c6345e22173e3679754
+SHA1: 7b2fccac390ec4663b2dd64c29a78d43bfa4fa09
+SHA256: 3b27df0fcd9ac57134e34d34261e3bd0017ac5853fe3e17dfe639ad19806f68f
+Section: Fonts (iOS14-16)
+Description: Cutesy Korean-style handwritten font. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontshootastar14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Shoot a Star (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontshootastar14.json
+
+Package: com.evynw.fontwhitney14
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontwhitney14_1.0_iphoneos-arm64.deb
+Size: 5855308
+MD5sum: 201652f6dba52873c9170f3b14c87e50
+SHA1: 848d6362dfe33ac0a63d6884c1f170ad3f596900
+SHA256: 9206945f2aba5698c5ed0e5738e2981e0b0a50f4d888c6a2a58e16dadc5cfe1c
+Section: Fonts (iOS14-16)
+Description: Official font for Discord. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontwhitney14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Whitney (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontwhitney14.json
 
 Package: com.exile90.icleanerpro
 Version: 7.10.0
@@ -488,6 +590,22 @@ Section: Tweaks
 Description: Remove page dots from the Home screen
 Author: Hitori
 Name: Dots Be Gone
+
+Package: com.hitori.galaxyfont
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Filename: ./debs/com.hitori.galaxyfont_4.0_iphoneos-arm64.deb
+Size: 74912
+MD5sum: e36c1788e850fba1bd03c15a075dc4bb
+SHA1: 91bd1f9c07031374b90fb701a831e7ee8e117c32
+SHA256: 7c47c6b7bcf6f4540ae6955d8fbcffff2c1cc24e87fea48bac84c148c3bb0777
+Section: Fonts
+Description: Ported over OneUI 6 Clock Fonts
+Author: Hitori
+Icon: https://siieo.github.io/sileodepictions/Fonts/Galaxy/icon.png
+Name: Galaxy Font
+Sileodepiction: https://siieo.github.io/sileodepictions/Fonts/Galaxy/Galaxy.json
 
 Package: com.hitori.hideccbar
 Version: 4.0
