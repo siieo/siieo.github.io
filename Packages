@@ -994,6 +994,24 @@ Author: MiRO <tweaks_support@miro92.com>
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
 Name: uYouImport
 
+Package: com.misakaproject.frendacc
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: sugiuta
+Installed-Size: 4332
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.misakaproject.frendacc_1.0.1_iphoneos-arm64.deb
+Size: 1403642
+MD5sum: 4a112dcdadf172be51002771c810333a
+SHA1: f9c1f378f28dc86949b6b289d60715d05dca2bfa
+SHA256: af45cafbbaac0faa851db45b94d9120f9a145c166c9da19cd1fc18052b0ce8e5
+Section: Tweaks
+Description: FrendaCC is custumize CC on Jailbroken devices for iOS15 & 16.
+Author: sugiuta
+Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.misakaproject.frendacc
+Icon: https://sugiuta.github.io/repo/images/icons/frendacc.png
+Name: FrendaCC
+
 Package: com.mtac.ccpowermenu
 Version: 1.0.2
 Architecture: iphoneos-arm64
