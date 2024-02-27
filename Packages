@@ -114,6 +114,22 @@ Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.quickpr
 Name: QuickPrefs (Rootless)
 Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.quickprefs-rootless.json
 
+Package: com.apple.Terminal
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Filename: ./debs/com.apple.Terminal_1.5_iphoneos-arm64.deb
+Size: 925844
+MD5sum: da429cb5f35cb9795d5b7b8d5e654397
+SHA1: 8e852edc84cdb58342d63406c84ce7e78ed63db6
+SHA256: ead8a0cfacd15d654309c3fc63f5f37f60cdffee2e4dc6bbda49e7f070a59df3
+Section: Utilities
+Description: Apple Terminal
+Author: Hitori
+Icon: https://siieo.github.io/sileodepictions/Terminal/icon.png
+Name: Terminal
+Sileodepiction: https://siieo.github.io/sileodepictions/Terminal/Terminal.json
+
 Package: com.bandarhl.bhtwitter
 Version: 4.4
 Architecture: iphoneos-arm64
