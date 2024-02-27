@@ -961,6 +961,38 @@ Icon: https://i.imgur.com/bNyKUSs.png
 Name: RingerToggle (CCSupport)
 Sileodepiction: https://cydia.ichitaso.com/depiction/ringertoggle.json
 
+Package: com.icraze.nosearchpill
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.icraze.nosearchpill_1.0_iphoneos-arm64.deb
+Size: 2828
+MD5sum: e9d00ddc819c3936734b113e575e277d
+SHA1: 90667c37edc68f901bac376edf082373117dd2b3
+SHA256: ecd1e023a82c125c38bc5b597049b57c055ba54207c44ad3699c5c52a581bbb1
+Section: Tweaks
+Description: Remove search pill from home screen on iOS 16
+Author: iCraze
+Name: NoSearchPill
+
+Package: com.icraze.swipeselection
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.icraze.swipeselection_2.0_iphoneos-arm64.deb
+Size: 14200
+MD5sum: 590ba52bacebd881e2f2fa69ab1a2f26
+SHA1: a489496646bd67f2a9a6eee2fbef5ce4c97a6bf2
+SHA256: a27263299acee94a506b4447f789dee652a0e03fe2e76f686ece619910354e57
+Section: Tweaks
+Description: Swipe along the keyboard to move the cursor and select text.
+Author: Kyle Howells
+Name: SwipeSelection
+
 Package: com.icraze.translucent3dmenus
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -2070,6 +2102,25 @@ Tag: role::developer
 Author: Skitty
 Name: libskittycolor
 
+Package: lilliana.reverie
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 788
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/lilliana.reverie_0.0.3_iphoneos-arm64.deb
+Size: 94754
+MD5sum: 98ec1dc0a72a6efc5c763ffeb3ea0824
+SHA1: 9447b23a68eed5a62487a1cd3d578ddb3af9ffa5
+SHA256: 4719d1228ed47c179b49c2452f0d71840c00dad6ae8865e6d4e25739e8cc5f86
+Section: Tweaks
+Description: Let your iPhone dream
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Reverie.json&name=Reverie&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Reverie.png
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/depictions/Reverie.json
+
 Package: love.litten.diary
 Version: 1.2.2-2
 Architecture: iphoneos-arm64
@@ -2326,6 +2377,24 @@ Author: Domo <domo@rambler.ru>
 Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
 Name: CocoaTop64
 Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
+
+Package: tf.festival.rescale2
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Nezuko
+Installed-Size: 1016
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/tf.festival.rescale2_2.0_iphoneos-arm64.deb
+Size: 174074
+MD5sum: db6d8fe1738a3374f3fe1152c37d2316
+SHA1: 9ef4ba8180f141fa91f8c8c6482a415461b9813e
+SHA256: 5c2e73398542e496076fe38e830c1f8ce03cde2252ef8378068cdc5be5eca47d
+Section: Tweaks
+Description: A modern (and safe) Upscale alternative!
+Author: Sniper_GER & Nezuko <sniperger@festival.ml>
+Icon: https://siieo.github.io/sileodepictions/ReScale2/icon.png
+Name: Re:Scale 2
+Sileodepiction: https://siieo.github.io/sileodepictions/ReScale2/ReScale2.json
 
 Package: weeb.lillie.accentcustom
 Version: 2.2.1
