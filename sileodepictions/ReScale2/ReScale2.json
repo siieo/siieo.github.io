@@ -92,14 +92,14 @@
                      "views":[
                         {
                            "class":"DepictionLabelView",
-                           "text":"FΞSTIVΛL",
+                           "text":"SniperGER",
                            "fontSize":14,
                            "fontWeight":"semibold",
                            "margins":"{2, 32, 2, 15}"
                         },
                         {
                            "class":"DepictionImageView",
-                           "URL":"https://avatars.githubusercontent.com/u/21039501",
+                           "URL":"https://avatars.githubusercontent.com/u/6178765,
                            "width":24,
                            "height":24,
                            "cornerRadius":4
