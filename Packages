@@ -1,3 +1,45 @@
+Package: cc.igerman.taptapslumber
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: iGerman <igerman@igerman.cc>
+Depends: firmware (>=15.0)
+Filename: ./debs/cc.igerman.taptapslumber.deb
+Size: 30388
+MD5sum: ae25f59b38526760b01b2ba78fedcb8d
+SHA1: 1d14c72d6e92c9a77a81178a7d4d6040925cc4a3
+SHA256: b27346a2b8e120b16a411222c6d82acfd7b3a0d8ba17f1b011c56325927ccb23
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: Double-tap the lock screen, home screen, or status bar to lock your device.
+Author: iGerman <igerman@igerman.cc>
+Depiction: https://repo.igerman.cc/depiction/web/cc.igerman.taptapslumber.html
+Icon: https://repo.igerman.cc/assets/cc.igerman.taptapslumber/icon.png
+Moderndepiction: https://repo.igerman.cc/depiction/native/cc.igerman.taptapslumber.json
+Name: TapTapSlumber
+Sileodepiction: https://repo.igerman.cc/depiction/native/cc.igerman.taptapslumber.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.4.1
+
+Package: cc.igerman.trim
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: iGerman <igerman@igerman.cc>
+Depends: firmware (>=15.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/cc.igerman.trim.deb
+Size: 20132
+MD5sum: 2f590012db330e14f474345d019204ec
+SHA1: 1b04d05efdefaee8df14945e74571618d84002fc
+SHA256: 984f13f733d5a8c1e74aecedcc1507ae04b33448bd78353ac17af8160eb32423
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: Marvelous Majestic Magnificence of Masterfully Minimized Mobile Margins
+Author: iGerman <igerman@igerman.cc>
+Depiction: https://repo.igerman.cc/depiction/web/cc.igerman.trim.html
+Icon: https://repo.igerman.cc/assets/cc.igerman.trim/icon.png
+Moderndepiction: https://repo.igerman.cc/depiction/native/cc.igerman.trim.json
+Name: Trim
+Sileodepiction: https://repo.igerman.cc/depiction/native/cc.igerman.trim.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.4.1
+
 Package: ch.mdaus.latchkey
 Version: 2.2.1
 Architecture: iphoneos-arm64
@@ -5,10 +47,10 @@ Maintainer: Hitori
 Installed-Size: 13544
 Depends: mobilesubstrate, ws.hbang.alderis
 Filename: ./debs/ch.mdaus.latchkey_2.2.1_iphoneos-arm64.deb
-Size: 6484322
-MD5sum: ede5aa89ffb1cd04a2f6e9e8ac157f59
-SHA1: b9770fa41e31187c495b80b72c3a1b0bf09c6c25
-SHA256: bc415bbd95bcafe6fe0b27dba35a745523f58c694046ca5166cc329649097913
+Size: 6484370
+MD5sum: 27ac4bc200799dc5fba1156417312492
+SHA1: 76ed06f46ec1b3aa5cb578096d697ca5025c07d9
+SHA256: add732cf99ec2e74ca28f5627cff691248e9e746bb3278cb4c98a4530e8a3dec
 Section: Tweaks
 Description: Move and theme the Face-ID lock glyph
 Author: Maxwell Dausch <max.dausch@gmail.com>
@@ -1465,6 +1507,21 @@ Section: Development
 Description: An awesome library to get current weather which provides by iOS Weater.app easily.
 Author: Soongyu Kwon
 Name: libPDDokdo
+
+Package: com.pollapo.LatchKeyThemes
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: ch.mdaus.latchkey
+Filename: ./debs/com.pollapo.LatchKeyThemes_1.0_iphoneos-arm64.deb
+Size: 10445228
+MD5sum: 84b6e24275a31502855b89e4d88d4453
+SHA1: 5a2e25db509418fccfaabb5f71574e54beeaf4b6
+SHA256: 0bd359ad63c1375097338a1fd86b9f4d77254671bd91ddd0a053b3638022b760
+Section: Themes
+Description: LatchKey Themes
+Author: POLLAPO <loseecho@gmail.com>
+Name: LatchKey Themes
 
 Package: com.ps.blurrybadges
 Version: 1.5.2
