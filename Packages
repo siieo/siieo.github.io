@@ -1123,6 +1123,21 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.letmeknow/icon.
 Name: LetMeKnow
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.letmeknow.json
 
+Package: com.imkpatil.spotcc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Depends: mobilesubstrate, oldabi
+Filename: ./debs/com.imkpatil.spotcc_1.0_iphoneos-arm64.deb
+Size: 2968
+MD5sum: 3282ba26be6a5aee8df18b22d8c6e7d7
+SHA1: 424542cc6f87209b44be8e96eeb5f920543504dc
+SHA256: c144e6bab35193caf99834feaf6d20ff1e19dfd74c068ee5574ab49b5cb741df
+Section: Tweaks
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Author: P2KDev <p2kdev@gmail.com>
+Name: SpotCC
+
 Package: com.ioscreatix.sugarcane
 Version: 1.2.4.3
 Architecture: iphoneos-arm64
