@@ -2595,3 +2595,19 @@ Icon: https://skitty.xyz/repo/icons/xyz.skitty.spectrum.png
 Name: Spectrum
 Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.spectrum/sileo.json
 
+Package: xyz.xninja.systeminfo
+Version: 2.7.2-2
+Architecture: iphoneos-arm64
+Maintainer: ARX8x
+Depends: mobilesubstrate, oldabi
+Filename: ./debs/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64.deb
+Size: 272484
+MD5sum: b95eab5cb98ee59903074e07556eeeef
+SHA1: cd12112a3197a800fc1e1fe45779cba2ec47e921
+SHA256: 4259c4f9ba2bb891b854fb0fbb6ad309ef2ddb8b9016c3c7d6b9490d5202f9e7
+Section: Tweaks
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
+Author: ARX8x
+Depiction: https://arx8x.github.io/depictions/systeminfo.html
+Name: System Info
+
