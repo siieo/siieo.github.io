@@ -2382,13 +2382,13 @@ Package: tf.festival.rescale2
 Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: Nezuko
-Installed-Size: 1016
+Installed-Size: 864
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Filename: ./debs/tf.festival.rescale2_2.0_iphoneos-arm64.deb
-Size: 174074
-MD5sum: db6d8fe1738a3374f3fe1152c37d2316
-SHA1: 9ef4ba8180f141fa91f8c8c6482a415461b9813e
-SHA256: 5c2e73398542e496076fe38e830c1f8ce03cde2252ef8378068cdc5be5eca47d
+Size: 168704
+MD5sum: 5105d31bbf0853569c30b6b7bb704653
+SHA1: 401c9250998cd80285a684955bfa6767e911cf1e
+SHA256: 1d79911f631d108483d48cbbc2d34106cabdcf7b0c5ebfbfbea4a8178c4ee33d
 Section: Tweaks
 Description: A modern (and safe) Upscale alternative!
 Author: Sniper_GER & Nezuko <sniperger@festival.ml>
