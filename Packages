@@ -1,3 +1,21 @@
+Package: ch.mdaus.latchkey
+Version: 2.2.1
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 13544
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/ch.mdaus.latchkey_2.2.1_iphoneos-arm64.deb
+Size: 6484322
+MD5sum: ede5aa89ffb1cd04a2f6e9e8ac157f59
+SHA1: b9770fa41e31187c495b80b72c3a1b0bf09c6c25
+SHA256: bc415bbd95bcafe6fe0b27dba35a745523f58c694046ca5166cc329649097913
+Section: Tweaks
+Description: Move and theme the Face-ID lock glyph
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Icon: https://siieo.github.io/sileodepictions/LatchKey/icon.png
+Name: LatchKey
+Sileodepiction: https://siieo.github.io/sileodepictions/LatchKey/LatchKey.json
+
 Package: com.0xkuj.3dappversionspoofer
 Version: 2.0.3
 Architecture: iphoneos-arm64
