@@ -2031,6 +2031,24 @@ Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This v
 Author: TIGI Software
 Name: Filza File Manager 64-bit
 
+Package: com.tomaszpoliszuk.lockscreenbatterymagsafe
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Nezuko
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.tomaszpoliszuk.lockscreenbatterymagsafe_4.0_iphoneos-arm64.deb
+Size: 4606
+MD5sum: 5a070e8c6a2c4e41d0ba76dc8b51e306
+SHA1: 9a76967b952cc647355b263cacccbd5899aae476
+SHA256: 7d14a34c5768cf401f02c8afaa7825b154eb1efefe3fe4dc7cbbe1fcd614635c
+Section: Tweaks
+Description: Enable native MagSafe charging view on lockscreen when connecting device to power source
+Author: Tomasz Poliszuk
+Icon: https://siieo.github.io/sileodepictions/MagSafe/icon.png
+Name: MagSafe Enabler
+Sileodepiction: https://siieo.github.io/sileodepictions/MagSafe/MagSafe.json
+
 Package: com.twickd.john-sklikas.3dbadgeclear
 Version: 1.6.8
 Architecture: iphoneos-arm64
