@@ -1,0 +1,165 @@
+{
+   "class":"DepictionTabView",
+   "minVersion":"0.4",
+   "headerImage":"https://siieo.github.io/sileodepictions/MagSafe/header.png",
+   "tintColor": "#7CE681",
+   "tabs":[
+      {
+         "class":"DepictionStackView",
+         "tabname":"Details",
+         "views":[
+            {
+               "class":"DepictionSubheaderView",
+               "title":"Enable native MagSafe charging view on Lockscreen",
+               "useBoldText":true
+            },
+            {
+               "class":"DepictionScreenshotsView",
+               "itemCornerRadius":6,
+               "itemSize":"{160, 346}",
+               "screenshots":[
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://siieo.github.io/sileodepictions/MagSafe/1.png"
+                  }
+               ]
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"Description"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown":"Enjoy the beauty of the official MagSafe charging animation right on your lock screen.",
+               "useSpacing":true
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"Information"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Version",
+               "text":"4.0"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Size",
+               "text":"5 KB"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Updated",
+               "text":"February 28, 2024"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"iOS Versions",
+               "text":"15.0 - 16.6.1"
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"Developers"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionSpacerView",
+               "spacing":15
+            },
+            {
+               "class":"DepictionStackView",
+               "tabname":"",
+               "xPadding":15,
+               "views":[
+                  {
+                     "class":"DepictionLayerView",
+                     "views":[
+                        {
+                           "class":"DepictionLabelView",
+                           "text":"Tomasz Poliszuk",
+                           "fontSize":14,
+                           "fontWeight":"semibold",
+                           "margins":"{2, 32, 2, 15}"
+                        },
+                        {
+                           "class":"DepictionImageView",
+                           "URL":"",
+                           "width":24,
+                           "height":24,
+                           "cornerRadius":4
+                        }
+                     ]
+                  },
+                  {
+                     "class":"DepictionSpacerView",
+                     "spacing":6
+                  },
+                  {
+                     "class":"DepictionLayerView",
+                     "views":[
+                        {
+                           "class":"DepictionLabelView",
+                           "text":"Hitori",
+                           "fontSize":14,
+                           "fontWeight":"semibold",
+                           "margins":"{2, 32, 2, 15}"
+                        },
+                        {
+                           "class":"DepictionImageView",
+                           "URL":"https://siieo.github.io/sileodepictions/icon.png",
+                           "width":24,
+                           "height":24,
+                           "cornerRadius":4
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "class":"DepictionSpacerView",
+               "spacing":15
+            }
+         ]
+      },
+      {
+         "class":"DepictionStackView",
+         "tabname":"Changelog",
+         "views":[
+            {
+               "class":"DepictionLayerView",
+               "views":[
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"2.0",
+                     "fontWeight":"bold",
+                     "fontSize":16
+                  },
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"February 27, 2024",
+                     "fontWeight":"semibold",
+                     "fontSize":16,
+                     "textColor":"#696969",
+                     "alignment":2
+                  }
+               ]
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown":"Support iOS 15-16 rootless"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            }
+         ]
+      }
+   ]
+}
