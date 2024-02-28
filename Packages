@@ -1425,15 +1425,15 @@ Author: Nezuko
 Name: One UI 6 Emojis
 
 Package: com.nezuko.emojis
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: Nezuko
 Depends: com.ps.emojifontmanager, com.ps.emojiportpe
-Filename: ./debs/com.nezuko.emojis_1.0_iphoneos-arm64.deb
-Size: 58147360
-MD5sum: 9ff95360c0277071885526553d17bf5f
-SHA1: 1bafb6c139d3b7428bc15b6f8fc41b49a1dd65a9
-SHA256: 8b3eb46807cd6eb879d95f99a872a000d3b75b8eab00ec1210cb5d9614984c57
+Filename: ./debs/com.nezuko.emojis_1.0.1_iphoneos-arm64.deb
+Size: 58216812
+MD5sum: 0fb24e9053b87123cc9a41b1a888d05b
+SHA1: 2edc3194bad0b4fb3bc4e44f78d598bb8013e641
+SHA256: 76967669f212c33f8862f5cb83b72390fc75b1ab4b39b263fefab1bb9b0c1a36
 Section: Fonts
 Description: Emojis from iOS 17.4
 Author: Nezuko
