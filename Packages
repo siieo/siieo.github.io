@@ -1633,16 +1633,16 @@ Name: EmojiLibrary
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojilibrary.json
 
 Package: com.ps.emojiport10resources
-Version: 1.6.0~b2
+Version: 1.6.0
 Architecture: iphoneos-arm64
 Maintainer: PoomSmart
 Installed-Size: 241936
 Depends: firmware (>= 10.0)
-Filename: ./debs/com.ps.emojiport10resources_1.6.0~b2_iphoneos-arm64.deb
-Size: 64350656
-MD5sum: 83439a8ce58cf1d6db8d66647818be74
-SHA1: a88d205beb2a6e80d25b5b578d2512edc7078b79
-SHA256: c51e0fc485cfed3b4e8e6287a79fa9c94479282d84d6a6a866b4e5cecd908d1f
+Filename: ./debs/com.ps.emojiport10resources_1.6.0_iphoneos-arm64.deb
+Size: 64366740
+MD5sum: cb1dcffcdad20b767f5c60ff193515e4
+SHA1: 2c65d11b97a780cef63dcd720c6581298ae4e846
+SHA256: 446db899c5770e341f7999aac76f0d404b346a44894ad29867f0763c0f180da3
 Section: Tweaks
 Description: Latest emoji localization and metadata for iOS 10+
 Author: PoomSmart
