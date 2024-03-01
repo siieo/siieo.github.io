@@ -1222,6 +1222,24 @@ Description: Actually disable WiFI and Bluetooth from CC in iOS 11-16.
 Author: Jake James
 Name: RealCC
 
+Package: com.johnzaro.appstoreupdatestab
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.johnzaro.appstoreupdatestab_4.0_iphoneos-arm64.deb
+Size: 5350
+MD5sum: 5821b642ffe15d5af1f3184e6cfe3a91
+SHA1: 8f5ea77a92e35202f727fb3418a751fa2f3af64a
+SHA256: dc0bd77496e0345b8d5c4b1f2a630e978a9302fc9db6c1629f3f2467e888a985
+Section: Tweaks
+Description: Replace Arcade button with "Show Updates" button in the AppStore app
+Author: Johnzaro & Hitori <johnzrgnns@gmail.com>
+Icon: https://siieo.github.io/sileodepictions/UpdateTab/icon.png
+Name: AppStoreUpdatesTab
+Sileodepiction: https://siieo.github.io/sileodepictions/UpdateTab/UpdateTab.json
+
 Package: com.julioverne.goodwifi
 Version: 0.0~beta6
 Architecture: iphoneos-arm64
