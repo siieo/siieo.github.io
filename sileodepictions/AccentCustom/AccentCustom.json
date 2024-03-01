@@ -1,7 +1,8 @@
 {
    "class":"DepictionTabView",
    "minVersion":"0.4",
-   "headerImage":"https://media.havoc.app/65d123cde9f9cb32f6e72581",
+   "headerImage":"https://siieo.github.io/sileodepictions/AccentCustom/header.png",
+   "tintColor": "#EE9CC0",
    "tabs":[
       {
          "class":"DepictionStackView",
@@ -19,15 +20,19 @@
                "screenshots":[
                   {
                      "accessibilityText":"Screenshot",
-                     "url":""
+                     "url":"https://siieo.github.io/sileodepictions/AccentCustom/1.png"
                   },
                   {
                      "accessibilityText":"Screenshot",
-                     "url":""
+                     "url":"https://siieo.github.io/sileodepictions/AccentCustom/2.png"
                   },
                   {
                      "accessibilityText":"Screenshot",
-                     "url":""
+                     "url":"https://siieo.github.io/sileodepictions/AccentCustom/3.png"
+                  },
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://siieo.github.io/sileodepictions/AccentCustom/4.png"
                   }
                ]
             },
@@ -53,12 +58,12 @@
             {
                "class":"DepictionTableTextView",
                "title":"Version",
-               "text":"2.2-1"
+               "text":"2.2.1"
             },
             {
                "class":"DepictionTableTextView",
                "title":"Size",
-               "text":"127.9 KB"
+               "text":"26 KB"
             },
             {
                "class":"DepictionTableTextView",
@@ -98,7 +103,7 @@
                         },
                         {
                            "class":"DepictionImageView",
-                           "URL":"https://yourdeveloperavatarurl.com",
+                           "URL":"https://avatars.githubusercontent.com/u/91358136",
                            "width":24,
                            "height":24,
                            "cornerRadius":4
@@ -145,36 +150,13 @@
                "views":[
                   {
                      "class":"DepictionLabelView",
-                     "text":"2.2-1",
+                     "text":"2.2.1",
                      "fontWeight":"bold",
                      "fontSize":16
                   },
                   {
                      "class":"DepictionLabelView",
-                     "text":"February 24, 2024",
-                     "fontWeight":"semibold",
-                     "fontSize":16,
-                     "textColor":"#696969",
-                     "alignment":2
-                  }
-               ]
-            },
-            {
-               "class":"DepictionMarkdownView",
-               "markdown":"- Adds Safari progress bar"
-            },
-            {
-               "class":"DepictionLayerView",
-               "views":[
-                  {
-                     "class":"DepictionLabelView",
-                     "text":"2.2",
-                     "fontWeight":"bold",
-                     "fontSize":16
-                  },
-                  {
-                     "class":"DepictionLabelView",
-                     "text":"February 16, 2024",
+                     "text":"February 25, 2024",
                      "fontWeight":"semibold",
                      "fontSize":16,
                      "textColor":"#696969",
