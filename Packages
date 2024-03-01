@@ -2615,13 +2615,14 @@ Installed-Size: 392
 Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.spark.libsparkcolourpicker, com.spark.libsparkapplist
 Conflicts: com.ivanc.accent
 Filename: ./debs/weeb.lillie.accentcustom_2.2.1_iphoneos-arm64.deb
-Size: 26364
-MD5sum: da2010ddc5c0df06e52ab12304b387c7
-SHA1: 4dfcf97ece400473c1e9c141fa432f258ccfc409
-SHA256: 8c7e0c5efddedd28086d36b6b7066152edb3365f999eb96f411ea27c80bd15dd
+Size: 26412
+MD5sum: 75be0c1ae59bd9fa8f1666bbf2481216
+SHA1: fec8fa4db5846e2cfdb623dc735d7732eed64b85
+SHA256: 2844b3631d3baaddceadb00963780a34cab876877560e6fe4920de21a85bca6f
 Section: Tweaks
 Description: iOS Accent Colours In macOS Style
 Author: Lillie & Hitori
+Icon: https://siieo.github.io/sileodepictions/AccentCustom/icon.png
 Name: Accent Custom
 Sileodepiction: https://siieo.github.io/sileodepictions/AccentCustom/AccentCustom.json
 
