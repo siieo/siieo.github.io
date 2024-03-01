@@ -700,6 +700,22 @@ Description: Remove page dots from the Home screen
 Author: Hitori
 Name: Dots Be Gone
 
+Package: com.hitori.fiveicondock
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.hitori.fiveicondock_4.0_iphoneos-arm64.deb
+Size: 2908
+MD5sum: be843dc424809d3110983cda9cc98a67
+SHA1: 9a0d9ce278b285d6239949a3559c9d156730438b
+SHA256: deb42b1053966a39c57913384ad61a7365cbde58e654da39d83c8d577b6fa22d
+Section: Tweaks
+Description: Five Icon Dock
+Author: Hitori
+Name: Five Icon Dock
+
 Package: com.hitori.galaxyfont
 Version: 4.0
 Architecture: iphoneos-arm64
@@ -2516,6 +2532,25 @@ Section: Tweaks
 Description: Priority Hub for iOS 15-16 (rootless/Ellekit)
 Author: Nepeta & Baw Appie
 Name: Axon
+
+Package: net.cadoth.otaenabler
+Version: 0.4.2
+Architecture: iphoneos-arm64
+Maintainer: alexia <me@alexia.lol>
+Installed-Size: 0
+Depends: awk | gawk, com.bingner.plutil, file-cmds
+Conflicts: com.apple.memecity, jp.akusio.kernbypass, jp.akusio.kernbypassbeta, jp.akusio.kernbypass-unofficial
+Filename: ./debs/net.cadoth.otaenabler_0.4.2_iphoneos-arm64.deb
+Size: 2006
+MD5sum: 23dd043895fcad845dc9d3a304a2fd61
+SHA1: c9a927540c38b76c65c119c93a04e8e79e08a718
+SHA256: 65cae21d0d60c82e21bccf9bfdc83e62b806500481b953a2ab8b5e756125e96f
+Section: System
+Description: Re-enable OTA software updates blocked by various methods
+Author: alexia <me@alexia.lol>
+Depiction: https://repo.alexia.lol/depictions/net.cadoth.otaenabler
+Name: OTAEnabler
+Sileodepiction: https://repo.alexia.lol/sileo-depictions/net.cadoth.otaenabler
 
 Package: net.p0358.pridebars
 Version: 1.1.0
