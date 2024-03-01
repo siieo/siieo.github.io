@@ -319,6 +319,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Quicksand (iOS15-16)
 Sileodepiction: https://evynw.github.io/sileo/fontquicksand14.json
 
+Package: com.evynw.fontquicksand14
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontquicksand14_1.0_iphoneos-arm64.deb
+Size: 11798696
+MD5sum: f9772cf98e86e4b98d85846755b3d790
+SHA1: fd6a26b42d107233b68814965ded5d9862ac19de
+SHA256: e82dadcbff46a9f6775312ea5bfc5895018395680680c0819269197b13be6fd8
+Section: Fonts (iOS14-16)
+Description: Rounded sans serif. 100% size. For iOS14-16.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontquicksand14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Quicksand (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontquicksand14.json
+
 Package: com.evynw.fontquicksand8514
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -2226,6 +2243,25 @@ Section: Tweaks
 Description: Basic tweak to change carrier text. iOS 13+
 Author: Kota
 Name: Basic Carrier
+
+Package: kr.xsf1re.vnodebypass
+Version: 0.4.2
+Architecture: iphoneos-arm64
+Maintainer: alias20
+Installed-Size: 532
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
+Filename: ./debs/kr.xsf1re.vnodebypass_0.4.2_iphoneos-arm64.deb
+Size: 72762
+MD5sum: 2d8bb61c5f09cd23ac2b9880ad4e638c
+SHA1: 02a4518b006e40cf6122368ff95ac14d66d72d23
+SHA256: b9a7e563abe9fcf32a8165dcf7a7b3e167683a86d7d6dd220da600940ffa2c1e
+Section: System
+Description: An expermental tool to hide jailbreak files for bypass detection. (Only supported iOS 15-16 with Dopamine2)
+Tag: role::hacker, compatible::ios15, compatible::ios16
+Author: XsF1re, ichitaso, level3tjg
+Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
+Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
+Name: vnodebypass
 
 Package: libskittycolor
 Version: 1.0-1
