@@ -74,6 +74,22 @@ Description: A tweak to add app spoofing capabilities right from your 3D menu an
 Author: 0xkuj
 Name: 3DAppVersionSpoofer
 
+Package: com.0xkuj.lowernotifs
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 384
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.0xkuj.lowernotifs_1.0.0_iphoneos-arm64.deb
+Size: 31904
+MD5sum: c16088562fb5b6e1ab3b4960a819e49f
+SHA1: 6da33e2bfe0b004b24db0adb26389f909a1b5ce9
+SHA256: 94b418c495fc045f84f46571f44d096327a78f810271cc7f5787faa26e30e355
+Section: Tweaks
+Description: Lower your notifications limit to any point you wish in your lockscreen.
+Author: 0xkuj
+Name: LowerNotifs
+
 Package: com.anthopak.addtofolder-rootless
 Version: 1.4
 Architecture: iphoneos-arm64
