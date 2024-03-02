@@ -1628,10 +1628,10 @@ Maintainer: Ethan Whited
 Installed-Size: 1060
 Depends: preferenceloader
 Filename: ./debs/com.nahtedetihw.airpodscompanion_1.0_iphoneos-arm64.deb
-Size: 459728
-MD5sum: 2bf7a02b4f9cd7587c0d3fd0c57c5210
-SHA1: 2952109019151796bb45e0d13dd7eebba87d9c51
-SHA256: bb1f921d4106bae09cee4fb178d4a557c8774c317f44901bc0021aa9685c661f
+Size: 460014
+MD5sum: 557e0d69f549c724cba04f1e8f84f7c9
+SHA1: e5a7c5a9487e628a0adca3eb2bd3f2dc47d44eb2
+SHA256: f5bc9f2add30c00caa94b50aba567a1ab9f55b5bb33435189febc8f50fc59299
 Section: Tweaks
 Description: Floating Noise Cancellation control next to volume slider
 Author: Ethan Whited
