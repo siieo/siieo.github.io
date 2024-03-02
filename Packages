@@ -301,6 +301,108 @@ Sileodepiction: https://nahtedetihw.github.io/depiction/native/com.ethn.mirage.j
 Someotherentrytocontrol: True
 Tags: compatible_min::ios11.0, compatible_max::ios14.3
 
+Package: com.evynw.fontasterisk14
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontasterisk14_1.1_iphoneos-arm64.deb
+Size: 6365876
+MD5sum: a4d3dd80bbd012bc3dbb3d2fa54c89e0
+SHA1: b800033f12e5867b08c4375a52ba9d7899d9ab39
+SHA256: e8881a0d535558f12388f07bd74c2aa34b75bdafd9cd0227755450d5c93826f4
+Section: Fonts (iOS14-16)
+Description: Clean and thin sans serif. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontasterisk14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Asterisk Sans (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontasterisk14.json
+
+Package: com.evynw.fontbunday8514
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontbunday8514_1.1_iphoneos-arm64.deb
+Size: 6732432
+MD5sum: b681a76b01665fa727443b543bb597be
+SHA1: a06622ee5e1acac613653e8bbfcd90dda71f595f
+SHA256: bd1541980ca4ca022c915ac59d8abf5271fd9382098495dee13fc19553feea32
+Section: Fonts (iOS14-16)
+Description: Scriptive Sans (alt ver). 85% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbunday14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bunday Clean_85% (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontbunday14.json
+
+Package: com.evynw.fontcenter14
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcenter14_1.1_iphoneos-arm64.deb
+Size: 8120168
+MD5sum: d6e0ba01204cabea04295b0adccabf78
+SHA1: 2b2a9b6cfc00d20757f7894732db007768f48539
+SHA256: 513c0a39e69ba1ea225837f4773d3f3769c72ecb3366d7e5e5a6326ee7b1983a
+Section: Fonts (iOS14-16)
+Description: Grotesque style sans. 100% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcenter14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Center (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontcenter14.json
+
+Package: com.evynw.fontcenter8514
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcenter8514_1.1_iphoneos-arm64.deb
+Size: 8695512
+MD5sum: c190f1976b5fd1ac2c66ab8054236823
+SHA1: b2fdcad37f9928648f93210d14aa2da1430d8fc4
+SHA256: 4840bef52f059ada93f0ebfd8ff13863474af4aafde8fc65d7b9547437d73842
+Section: Fonts (iOS14-16)
+Description: Grotesque style sans. 85% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcenter8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Center_85% (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontcenter8514.json
+
+Package: com.evynw.fontdubai14
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontdubai14_1.1_iphoneos-arm64.deb
+Size: 5403084
+MD5sum: 1793101250a259a8e0fd79a1b604fcf3
+SHA1: 2ea4f5585081d6314de2966af416eb6116af1b1d
+SHA256: aa3e148f978321ad9b979755cd561745feefe66cf6fc4f666dd6de90c7a38cec
+Section: Fonts (iOS14-16)
+Description: Well-known Microsoft font. 100% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontdubai14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Dubai (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontdubai14.json
+
+Package: com.evynw.fontdubai8514
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontdubai8514_1.1_iphoneos-arm64.deb
+Size: 5490284
+MD5sum: 1561e74354ef71a95d519448f1b798ad
+SHA1: 687f492d77ac799b059c3c9e2907165f300deb12
+SHA256: 7dcf840845c9274bf68f570422bd306057285ad4df22b36afec6bdb2e671f965
+Section: Fonts (iOS14-16)
+Description: Well-known Microsoft font. 85% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontdubai8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Dubai_85% (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontdubai8514.json
+
 Package: com.evynw.fontffmilo14
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -317,6 +419,91 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffmilo14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: FF Milo (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontffmilo14.json
+
+Package: com.evynw.fontffmilo8514
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontffmilo8514_1.1_iphoneos-arm64.deb
+Size: 5739824
+MD5sum: 4b39217725e2f670f1561eb0582351a7
+SHA1: aebfa445331d6c4260dd2e87f1e2f355ebdc09de
+SHA256: 630b96096d2e30c6d7f7f162d1b381b05abb47c0752c2c57a4f4a77e30907f3b
+Section: Fonts (iOS14-16)
+Description: Plain sans serif. 85% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffmilo8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: FF Milo_85% (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontffmilo8514.json
+
+Package: com.evynw.fonthannasoft14
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fonthannasoft14_1.1_iphoneos-arm64.deb
+Size: 5792260
+MD5sum: 0d1570e591d2c4fa82abb6664d445985
+SHA1: 8f34bf45dea23608c7b8806b3282eae00415028d
+SHA256: 0be4737b9488ddc82499eaa5acd6cdbd270c422ee66701e1123cb840b470316b
+Section: Fonts (iOS14-16)
+Description: Sans serif with rounded corners. 100% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonthannasoft14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Hanna Soft (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fonthannasoft14.json
+
+Package: com.evynw.fonthouschkarounded14
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fonthouschkarounded14_1.0-2_iphoneos-arm64.deb
+Size: 7422892
+MD5sum: d4e40ac5afcd2469c799f0c827f3d16e
+SHA1: fd4df253c8ccbaa08f35c7a3d5221d68a6d5ed07
+SHA256: 88c6667109511088bbcb1c5b33270508ccccd2ddc489068cf6a513500208a2df
+Section: Fonts (iOS14-16)
+Description: Scriptive rounded font. 100% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonthouschkarounded14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Houschka Rounded (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fonthouschkarounded14.json
+
+Package: com.evynw.fonthouschkarounded8514
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fonthouschkarounded8514_1.0-2_iphoneos-arm64.deb
+Size: 8003648
+MD5sum: 8ee7acd0440536532e01ae6561fc35e1
+SHA1: 3b51d5ff8283b8ce50813caf4d5e4120d261e8ce
+SHA256: 242754f14ce0c86b5f92796b07cc7b26d9f226d39f9716bcad165cf42d2ed511
+Section: Fonts (iOS14-16)
+Description: Scriptive rounded font. 85% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonthouschkarounded8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Houschka Rounded_85% (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fonthouschkarounded8514.json
+
+Package: com.evynw.fontmetronova8514
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontmetronova8514_1.1_iphoneos-arm64.deb
+Size: 6210380
+MD5sum: e0e457e91988be1dbe8f3bb7da1b5f9d
+SHA1: a5573d8ce7d1d437f3b2fc0213f8524b5d298754
+SHA256: aff8be39e67adf94c0bac9233d8c623ec4266a99c562a976fae66ce56b968f25
+Section: Fonts (iOS14-16)
+Description: Clean & small sans serif. 85% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmetronova8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Metro Nova Pro_85% (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontmetronova8514.json
 
 Package: com.evynw.fontquicksand
 Version: 1.0
@@ -419,6 +606,57 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontshootastar14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Shoot a Star (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontshootastar14.json
+
+Package: com.evynw.fontunineue14
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontunineue14_1.1_iphoneos-arm64.deb
+Size: 5374916
+MD5sum: 974834b324ce82260fb22d84f1d90d89
+SHA1: 08fd712b30193544a231435eb504766b25d1b73f
+SHA256: 3d44cfb5bcef60141f7b512745ba78ff97171534afcd4427bd85904b6f872d55
+Section: Fonts (iOS14-16)
+Description: Rounded sans serif. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontunineue14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Uni Neue (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontunineue14.json
+
+Package: com.evynw.fontunineue8514
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontunineue8514_1.1_iphoneos-arm64.deb
+Size: 5954872
+MD5sum: 12e82ee34c56f16ff37066c6c2899332
+SHA1: dc78720764a3d9d9430cd77961c15626e8bec188
+SHA256: 6ea80d67188b036fd8c6fd4725d4cb373244638fba0fabefab938a43599ea920
+Section: Fonts (iOS14-16)
+Description: Rounded sans serif. 85% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontunineue8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Uni Neue_85% (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontunineue8514.json
+
+Package: com.evynw.fonturwgeo14
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fonturwgeo14_1.1_iphoneos-arm64.deb
+Size: 5801276
+MD5sum: a151d1303ebb76999c76e091a21e1c19
+SHA1: 179ca13d307c20e76275afe6de8056fcb18c7450
+SHA256: 254ef3adc98ba800641b56197388dc282eb0e1908a120cdd8d3ffc8a08bb3715
+Section: Fonts (iOS14-16)
+Description: Small & conventional sans. 100% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonturwgeo14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: URW Geometric (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fonturwgeo14.json
 
 Package: com.evynw.fontwhitney14
 Version: 1.0
