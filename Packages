@@ -1845,6 +1845,24 @@ Description: Corporative Sans Alt Font (85%)
 Author: Alexman1979
 Name: Corporative Sans Alt Font (85%)
 
+Package: com.noisyflake.shylabels
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 364
+Depends: mobilesubstrate
+Filename: ./debs/com.noisyflake.shylabels_4.0_iphoneos-arm64.deb
+Size: 26186
+MD5sum: 122b6c79d425b36a4647e53515784465
+SHA1: f75655a76ad18c88cbc8260eff3c147f874bb417
+SHA256: 117c5b3d99926d41c1f6c2a130c8a1c7e220165e3075fcfd6b95abcbe1cfdeeb
+Section: Tweaks
+Description: Hide app labels when not scrolling
+Author: NoisyFlake & Hitori
+Icon: https://siieo.github.io/sileodepictions/ShyLabels/icon.png
+Name: Shy Labels
+Sileodepiction: https://siieo.github.io/sileodepictions/ShyLabels/ShyLabels.json
+
 Package: com.p2kdev.fivedock13
 Version: 1.1
 Architecture: iphoneos-arm64
