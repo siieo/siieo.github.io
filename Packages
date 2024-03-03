@@ -1018,21 +1018,73 @@ Description: Hide the lock screen time
 Author: Nezuko
 Name: HideLSTime
 
-Package: com.hitori.melosoclock
-Version: 1.0
+Package: com.hitori.meloso100
+Version: 4.0
 Architecture: iphoneos-arm64
 Maintainer: Hitori
-Depends: firmware (>=16.0), com.spark.snowboard.fonts
-Filename: ./debs/com.hitori.melosoclock_1.0_iphoneos-arm64.deb
-Size: 93756
-MD5sum: 6e5618c0fbbc4d68cb8e019b5651dd30
-SHA1: 34b58391ff1153d35333213fae8277aaf23a29b1
-SHA256: 2a2003bb9616894c5d23b01e1d013baf50b61b8e00605778dd0a7534205623c7
+Depends: mobilesubstrate, firmware (>= 15.0), com.spark.snowboard.fonts
+Filename: ./debs/com.hitori.meloso100_4.0_iphoneos-arm64.deb
+Size: 11939476
+MD5sum: 0716f32515777ee21880b112b8b1c504
+SHA1: 8a2c3ae0745aea001ddbde2f033b372bbc316a04
+SHA256: 9d9f3ef792f2396d4d48553820e913e29fcbea61ab913f14e345987da62a4979
 Section: Fonts
-Description: Change your iOS 16 clock font to the 'Meloso' clock font!
+Description: Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.
 Author: Alexman
-Icon: https://alo.works/assets/works.alo.fonts.mikhak85/icon.png
-Name: Meloso Clock Font (iOS 16)
+Icon: https://siieo.github.io/sileodepictions/Fonts/icon.png
+Name: Meloso (100)
+Sileodepiction: https://siieo.github.io/sileodepictions/Fonts/Meloso/Meloso.json
+
+Package: com.hitori.meloso80
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: mobilesubstrate, firmware (>= 15.0), com.spark.snowboard.fonts
+Filename: ./debs/com.hitori.meloso80_4.0_iphoneos-arm64.deb
+Size: 13018184
+MD5sum: 3ada3a59c605fc1bdb1c079df49043f5
+SHA1: e5d17146a728f3b5b74d207cb199594da76ba5a5
+SHA256: 9ca6cbda782cbe62d950c2fe720c2767a3769b1b28a2bb247db811ee7a305b9e
+Section: Fonts
+Description: Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.
+Author: Alexman
+Icon: https://siieo.github.io/sileodepictions/Fonts/icon.png
+Name: Meloso (80)
+Sileodepiction: https://siieo.github.io/sileodepictions/Fonts/Meloso/Meloso.json
+
+Package: com.hitori.meloso85
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: mobilesubstrate, firmware (>= 15.0), com.spark.snowboard.fonts
+Filename: ./debs/com.hitori.meloso85_4.0_iphoneos-arm64.deb
+Size: 13008916
+MD5sum: ea7c5c5d7017015683c61e1f40e6b6a5
+SHA1: 82bbac103849423d648754008302b336ab5f9c91
+SHA256: c655aeb061e880f0ba5e91a0eb2bf7da3bfe267c7c53763dee41a3349c7e1896
+Section: Fonts
+Description: Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.
+Author: Alexman
+Icon: https://siieo.github.io/sileodepictions/Fonts/icon.png
+Name: Meloso (85)
+Sileodepiction: https://siieo.github.io/sileodepictions/Fonts/Meloso/Meloso.json
+
+Package: com.hitori.mikhak100
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: mobilesubstrate, firmware (>= 15.0), com.spark.snowboard.fonts
+Filename: ./debs/com.hitori.mikhak100_4.0_iphoneos-arm64.deb
+Size: 12096768
+MD5sum: e27fb95bd0706b5289f649c05bf057e8
+SHA1: e7e2bec51a6cd69bba27a7afd78c99f08da91f7a
+SHA256: 4d813b9382f559e6f34d3c61ea88fc7dba56a22b0d1b9248dbda5276153ddcbf
+Section: Fonts
+Description: Mikhak is a simple monoline semi handwriting font.
+Author: Alexman
+Icon: https://siieo.github.io/sileodepictions/Fonts/icon.png
+Name: Mikhak (100)
+Sileodepiction: https://siieo.github.io/sileodepictions/Fonts/Mikhak/Mikhak.json
 
 Package: com.hitori.mikhak85
 Version: 4.0
