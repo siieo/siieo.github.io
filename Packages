@@ -1852,10 +1852,10 @@ Maintainer: Hitori
 Installed-Size: 364
 Depends: mobilesubstrate
 Filename: ./debs/com.noisyflake.shylabels_4.0_iphoneos-arm64.deb
-Size: 26186
-MD5sum: 122b6c79d425b36a4647e53515784465
-SHA1: f75655a76ad18c88cbc8260eff3c147f874bb417
-SHA256: 117c5b3d99926d41c1f6c2a130c8a1c7e220165e3075fcfd6b95abcbe1cfdeeb
+Size: 28024
+MD5sum: e7636079329cbb39ce5cfd59a98e6014
+SHA1: c5cdb106e69226a8e7a450b8893624663c1597cf
+SHA256: 8c7053a789439ad5b5c5be4ab16fd7d6708df740ff1a60063f8af13b8af03782
 Section: Tweaks
 Description: Hide app labels when not scrolling
 Author: NoisyFlake & Hitori
