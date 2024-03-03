@@ -1034,6 +1034,23 @@ Author: Alexman
 Icon: https://alo.works/assets/works.alo.fonts.mikhak85/icon.png
 Name: Meloso Clock Font (iOS 16)
 
+Package: com.hitori.mikhak85
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: mobilesubstrate, firmware (>= 15.0), com.spark.snowboard.fonts
+Filename: ./debs/com.hitori.mikhak85_4.0_iphoneos-arm64.deb
+Size: 12882564
+MD5sum: 86b84d4f686fcc7e96f855dbd6d61c27
+SHA1: 248afb9e601277fcea0d96533b714f3a4bccdbec
+SHA256: f67cbc4d4e35457074d16ee3b88d21f4c6d42c8aedb5e11bda43fc227d80a125
+Section: Fonts
+Description: Mikhak is a simple monoline semi handwriting font.
+Author: Alexman
+Icon: https://siieo.github.io/sileodepictions/Fonts/icon.png
+Name: Mikhak (85)
+Sileodepiction: https://siieo.github.io/sileodepictions/Fonts/Mikhak/Mikhak.json
+
 Package: com.hitori.nobetaalert
 Version: 4.0
 Architecture: iphoneos-arm64

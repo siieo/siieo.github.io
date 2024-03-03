@@ -1,0 +1,177 @@
+{
+   "class":"DepictionTabView",
+   "minVersion":"0.4",
+   "headerImage":"https://siieo.github.io/sileodepictions/Fonts/Mikhak/header.png",
+   "tintColor": "#3E3E3E",
+   "tabs":[
+      {
+         "class":"DepictionStackView",
+         "tabname":"Details",
+         "views":[
+            {
+               "class":"DepictionSubheaderView",
+               "title":"Mikhak is a simple monoline semi handwriting font.",
+               "useBoldText":true
+            },
+            {
+               "class":"DepictionScreenshotsView",
+               "itemCornerRadius":6,
+               "itemSize":"{160, 346}",
+               "screenshots":[
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://siieo.github.io/sileodepictions/Fonts/Mikhak/1.png"
+                  },
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://siieo.github.io/sileodepictions/Fonts/Mikhak/2.png"
+                  },
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://siieo.github.io/sileodepictions/Fonts/Mikhak/3.png"
+                  },
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://siieo.github.io/sileodepictions/Fonts/Mikhak/4.png"
+                  }
+               ]
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"How to use it?"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown":" - Select the font from SnowBoard\n - Apply and Respring",
+               "useSpacing":true
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"Information"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Version",
+               "text":"4.0"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Size",
+               "text":"137.9 KB"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Updated",
+               "text":"March 03, 2024"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"iOS Versions",
+               "text":"15.0 - 16.6.1"
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"Developers"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionSpacerView",
+               "spacing":15
+            },
+            {
+               "class":"DepictionStackView",
+               "tabname":"",
+               "xPadding":15,
+               "views":[
+                  {
+                     "class":"DepictionLayerView",
+                     "views":[
+                        {
+                           "class":"DepictionLabelView",
+                           "text":"Alexman (@Alexman1979)",
+                           "fontSize":14,
+                           "fontWeight":"semibold",
+                           "margins":"{2, 32, 2, 15}"
+                        },
+                        {
+                           "class":"DepictionImageView",
+                           "URL":"https://pbs.twimg.com/profile_images/1108298539593940992/keOMn8ro_400x400.jpg",
+                           "width":24,
+                           "height":24,
+                           "cornerRadius":4
+                        }
+                     ]
+                  },
+                  {
+                     "class":"DepictionSpacerView",
+                     "spacing":6
+                  },
+                  {
+                     "class":"DepictionLayerView",
+                     "views":[
+                        {
+                           "class":"DepictionLabelView",
+                           "text":"Hitori",
+                           "fontSize":14,
+                           "fontWeight":"semibold",
+                           "margins":"{2, 32, 2, 15}"
+                        },
+                        {
+                           "class":"DepictionImageView",
+                           "URL":"https://siieo.github.io/sileodepictions/icon.png",
+                           "width":24,
+                           "height":24,
+                           "cornerRadius":4
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "class":"DepictionSpacerView",
+               "spacing":15
+            }
+         ]
+      },
+      {
+         "class":"DepictionStackView",
+         "tabname":"Changelog",
+         "views":[
+            {
+               "class":"DepictionLayerView",
+               "views":[
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"4.0",
+                     "fontWeight":"bold",
+                     "fontSize":16
+                  },
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"March 03, 2024",
+                     "fontWeight":"semibold",
+                     "fontSize":16,
+                     "textColor":"#696969",
+                     "alignment":2
+                  }
+               ]
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown":"Supports Rootless iOS 15-16"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            }
+         ]
+      }
+   ]
+}
