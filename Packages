@@ -2858,6 +2858,24 @@ Description: Priority Hub for iOS 15-16 (rootless/Ellekit)
 Author: Nepeta & Baw Appie
 Name: Axon
 
+Package: mterminal
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: D.F (MTAC) <mtac@mtac.app>
+Installed-Size: 272
+Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh
+Filename: ./debs/mterminal_1.6_iphoneos-arm64.deb
+Size: 86310
+MD5sum: 1673d3203408491ad97a3052e5dcbdca
+SHA1: bb40c2690b3bf6e8bc846f9369f84e2135fe4aa2
+SHA256: 5be580e8cffe4364091e0c56f35b55062a84baae6d2a4b82c556204553443ae8
+Section: Utilities
+Description: A MobileTerminal fork
+Author: lordscotland <admin@officialscheduler.com>
+Icon: https://mtac.app/repo/assets/com.officialscheduler.mterminal/icon-rounded.png
+Name: MTerminal
+Sileodepiction: https://mtac.app/repo/depiction/native/com.officialscheduler.mterminal.json
+
 Package: net.cadoth.otaenabler
 Version: 0.4.2
 Architecture: iphoneos-arm64
