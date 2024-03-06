@@ -2407,6 +2407,22 @@ Description: An awesome application!
 Author: Spark
 Name: SnowBoard
 
+Package: com.thatmarcel.tweaks.writingwatcher
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: thatmarcel
+Installed-Size: 336
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/writingwatcher-rootless-v1.0.1.deb
+Size: 9804
+MD5sum: 4d45a03963a3b4bc628729056622b15f
+SHA1: 5bf3bd156a0b07e1e13bc1c317dad5b510746549
+SHA256: 85ec73829570f07e519ec5b15799d16d161b34aef4dc35459e6026801a322b92
+Section: Tweaks
+Description: Sends a notification when someone starts/stops typing on iMessage
+Author: thatmarcel
+Name: WritingWatcher
+
 Package: com.tigisoftware.appdatamanager
 Version: 1.8.2-4
 Architecture: iphoneos-arm64
