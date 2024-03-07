@@ -1845,6 +1845,22 @@ Description: Corporative Sans Alt Font (85%)
 Author: Alexman1979
 Name: Corporative Sans Alt Font (85%)
 
+Package: com.noisyflake.networkmanager
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: NoisyFlake
+Installed-Size: 372
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.noisyflake.networkmanager_1.0.2_iphoneos-arm64.deb
+Size: 27646
+MD5sum: bed9ca9d28a934c830a3585ce16ab9fc
+SHA1: 1816dc6aa6adc1622a968549ada00d2bd96c4ab5
+SHA256: fdec1af59ddba68315be0d021a5f80381182dfb8f314a308c4f5bbd3e7cede14
+Section: Control Center (Modules)
+Description: Force 2G/3G/LTE connection from the Control Center
+Author: NoisyFlake
+Name: NetworkManager
+
 Package: com.noisyflake.shylabels
 Version: 4.0
 Architecture: iphoneos-arm64
@@ -1862,6 +1878,22 @@ Author: NoisyFlake & Hitori
 Icon: https://siieo.github.io/sileodepictions/ShyLabels/icon.png
 Name: Shy Labels
 Sileodepiction: https://siieo.github.io/sileodepictions/ShyLabels/ShyLabels.json
+
+Package: com.noisyflake.windowhud
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: NoisyFlake
+Installed-Size: 312
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.noisyflake.windowhud_1.0.2_iphoneos-arm64.deb
+Size: 10782
+MD5sum: 185748222c5c20f1796b20580ef04427
+SHA1: 9d95a1161a6fde0032cc8a9df1a63be40cadc376
+SHA256: a6780481b264392b3359603f21430c90e68549f39e02834c6a1a2251ca26ac98
+Section: Control Center (Modules)
+Description: Use your screen as a car HUD
+Author: NoisyFlake
+Name: WindowHUD
 
 Package: com.p2kdev.fivedock13
 Version: 1.1
