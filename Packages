@@ -2496,6 +2496,21 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.twickd.john-sklikas.3dba
 Name: 3DBadgeClear
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.twickd.john-sklikas.3dbadgeclear.json
 
+Package: com.yourepo.0xkuj.storeswitcher2rootless
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj <0xkujz@gmail.com>
+Depends: firmware (>= 11)
+Filename: ./debs/com.yourepo.0xkuj.storeswitcher2rootless_1.0.4_iphoneos-arm64.deb
+Size: 14202
+MD5sum: 0519e204e8af2e3a88ec86ec3f1650d3
+SHA1: 4dba6ce0aaa19bd6ea8e3a9759e33a76ab274245
+SHA256: 168a5632e5b12128a23c3a66d18edba887e26b29fed69d0a53d5b47a08cd2367
+Section: Tweaks
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Author: 0xkuj <0xkujz@gmail.com>
+Name: StoreSwitcher 2 (rootless)
+
 Package: de.maxiwee.nopill
 Version: 0.0.1
 Architecture: iphoneos-arm64
