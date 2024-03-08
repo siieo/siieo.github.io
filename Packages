@@ -970,6 +970,40 @@ Icon: https://siieo.github.io/sileodepictions/Fonts/Galaxy/icon.png
 Name: Galaxy Font
 Sileodepiction: https://siieo.github.io/sileodepictions/Fonts/Galaxy/Galaxy.json
 
+Package: com.hitori.geogrotesque100
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: mobilesubstrate, firmware (>= 15.0), com.spark.snowboard.fonts
+Filename: ./debs/com.hitori.geogrotesque100_4.0_iphoneos-arm64.deb
+Size: 11443372
+MD5sum: 847b88ae4ea2ae9726896c2959655693
+SHA1: 9167963fa39dcc775f8ba7ee23a6ddd4261a55c7
+SHA256: a246bbc0051fb482fe1fd359b201a4ce69784ee9a199659fabe5bfd5ea3f5f74
+Section: Fonts
+Description: Geogrotesque is a semi modular with a subtle rounded finish typeface.
+Author: Alexman
+Icon: https://siieo.github.io/sileodepictions/Fonts/icon.png
+Name: Geogrotesque (100)
+Sileodepiction: https://siieo.github.io/sileodepictions/Fonts/Geogrotesque/Geogrotesque.json
+
+Package: com.hitori.geogrotesque85
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: mobilesubstrate, firmware (>= 15.0), com.spark.snowboard.fonts
+Filename: ./debs/com.hitori.geogrotesque85_4.0_iphoneos-arm64.deb
+Size: 12104328
+MD5sum: 9e644479669915535ac21c907e4d590c
+SHA1: d7ce28cf6ed1933611545991860c41c3e43424f9
+SHA256: e33a06ee6ad64cfc7cbf7b4d2a9eee74726968dba203f02f729ef2691e1d2e3f
+Section: Fonts
+Description: Geogrotesque is a semi modular with a subtle rounded finish typeface.
+Author: Alexman
+Icon: https://siieo.github.io/sileodepictions/Fonts/icon.png
+Name: Geogrotesque (85)
+Sileodepiction: https://siieo.github.io/sileodepictions/Fonts/Geogrotesque/Geogrotesque.json
+
 Package: com.hitori.hideccbar
 Version: 4.0
 Architecture: iphoneos-arm64
@@ -1689,22 +1723,6 @@ Author: MTAC
 Icon: https://mtac.app/repo/assets/com.mtac.ccpowermenu/icon-rounded.png
 Name: CCPowerMenu
 Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.ccpowermenu.json
-
-Package: com.nahtedetihw.airpodscompanion
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Ethan Whited
-Installed-Size: 1060
-Depends: preferenceloader
-Filename: ./debs/com.nahtedetihw.airpodscompanion_1.0_iphoneos-arm64.deb
-Size: 460014
-MD5sum: 557e0d69f549c724cba04f1e8f84f7c9
-SHA1: e5a7c5a9487e628a0adca3eb2bd3f2dc47d44eb2
-SHA256: f5bc9f2add30c00caa94b50aba567a1ab9f55b5bb33435189febc8f50fc59299
-Section: Tweaks
-Description: Floating Noise Cancellation control next to volume slider
-Author: Ethan Whited
-Name: AirpodsCompanion
 
 Package: com.nahtedetihw.macpass
 Version: 1.4
