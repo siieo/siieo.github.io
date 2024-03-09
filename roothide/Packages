@@ -497,6 +497,40 @@ Description: Remove page dots from the Home screen
 Author: Hitori
 Name: Dots Be Gone
 
+Package: com.hitori.geogrotesque100
+Version: 4.0
+Architecture: iphoneos-arm64e
+Maintainer: Hitori
+Depends: mobilesubstrate, firmware (>= 15.0), com.spark.snowboard.fonts
+Filename: ./debs/com.hitori.geogrotesque100_4.0_iphoneos-arm64e.deb
+Size: 11440216
+MD5sum: 0835cf034cbe4e9a987881e41f91258c
+SHA1: 5128932e6c43d4a4130279adb1bfcc28b18ccd64
+SHA256: d6b5af380e7fe4e9ea1e3258308263a07afd7c3197b12666957e968ef890f087
+Section: Fonts
+Description: Geogrotesque is a semi modular with a subtle rounded finish typeface.
+Author: Alexman
+Icon: https://siieo.github.io/sileodepictions/Fonts/icon.png
+Name: Geogrotesque (100)
+Sileodepiction: https://siieo.github.io/sileodepictions/Fonts/Geogrotesque/Geogrotesque.json
+
+Package: com.hitori.geogrotesque85
+Version: 4.0
+Architecture: iphoneos-arm64e
+Maintainer: Hitori
+Depends: mobilesubstrate, firmware (>= 15.0), com.spark.snowboard.fonts
+Filename: ./debs/com.hitori.geogrotesque85_4.0_iphoneos-arm64e.deb
+Size: 12102652
+MD5sum: 820210b5b64d5d750a5fa0010a6ae9a9
+SHA1: dbc1728077189ef2fb75991de5203599a7649529
+SHA256: 1d34f5b0950f6a3ef0eddaa916b44ab960062ad4ac115de37ffe825ad03f5f7e
+Section: Fonts
+Description: Geogrotesque is a semi modular with a subtle rounded finish typeface.
+Author: Alexman
+Icon: https://siieo.github.io/sileodepictions/Fonts/icon.png
+Name: Geogrotesque (85)
+Sileodepiction: https://siieo.github.io/sileodepictions/Fonts/Geogrotesque/Geogrotesque.json
+
 Package: com.hitori.quickactionsbegone
 Version: 5.0~Hitori
 Architecture: iphoneos-arm64e
