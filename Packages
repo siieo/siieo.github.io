@@ -3273,3 +3273,20 @@ Author: ARX8x
 Depiction: https://arx8x.github.io/depictions/systeminfo.html
 Name: System Info
 
+Package: zp.stopautolaunchapps
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/zp.stopautolaunchapps_1.1_iphoneos-arm64.deb
+Size: 2992
+MD5sum: 7a53ee58deb44f21b62a4200a9b671d3
+SHA1: b987e22e1859825dbe9411492edbb302de0c4e58
+SHA256: 6a608886173c6ac0e3a184a0fc463aedf238eeed1c890b3ca0e42b7ded29f1a7
+Section: Tweaks
+Description: Stop Auto Launch Apps
+Author: zqbb
+Name: StopAutoLaunchApps
+Sileodepiction: https://siieo.github.io/sileodepictions/StopAutoLaunchApps/StopAutoLaunchApps.json
+
