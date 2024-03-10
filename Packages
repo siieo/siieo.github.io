@@ -749,17 +749,17 @@ Name: AppData
 Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
 
 Package: com.fouadraheb.watusi3
-Version: 1.2.25
+Version: 1.2.26
 Architecture: iphoneos-arm64
 Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6604
+Installed-Size: 6644
 Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.20)
 Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
-Filename: ./debs/com.fouadraheb.watusi3_1.2.25_iphoneos-arm64.deb
-Size: 1970746
-MD5sum: af24046f2dfdf01533b9806e5aa4930c
-SHA1: 78032ef038c23a4a6e244b0c1e312d10c1f954ef
-SHA256: 8ab0ec9bac619dc5e1de0ffa6e81b02b5faaa814e250c4b6e5532da658dd0554
+Filename: ./debs/com.fouadraheb.watusi3_1.2.26_iphoneos-arm64.deb
+Size: 1967824
+MD5sum: b08b1091fb8a503872da306903d60580
+SHA1: 444a50e0ecf97241613271e792422725f31d2900
+SHA256: 1fe7b3092d37de7f9c72ee0aa2f8141f201af4a32d988e483b9059627ccd6db2
 Section: Tweaks
 Description: The all-in-one tweak for WhatsApp Messenger
 Author: Fouad Raheb <support@fouadraheb.com>
