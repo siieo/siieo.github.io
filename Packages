@@ -1788,6 +1788,22 @@ Description: MacPass gives MacOS password screen for passcode!
 Author: Ethan Whited
 Name: MacPass
 
+Package: com.nahtedetihw.unlockorelse
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.nahtedetihw.unlockorelse_1.1_iphoneos-arm64.deb
+Size: 3504
+MD5sum: 97b19da7e7489d3a9f4d768da8fa952f
+SHA1: 3c2e387ea1259cc1b10a0904e93ea68253bdcd3a
+SHA256: 8f68f0b37b06ee5a4d3322df47c6ba1c095657fc6159dce36fdf7d3ed2ac9cf0
+Section: Tweaks
+Description: Make your Passcode pop up right away!
+Author: Ethan Whited
+Name: UnlockOrElse
+
 Package: com.netskao.pulloverpro
 Version: 2.1.5-3
 Architecture: iphoneos-arm64
