@@ -1789,17 +1789,17 @@ Author: Ethan Whited
 Name: MacPass
 
 Package: com.netskao.pulloverpro
-Version: 2.1.5-2
+Version: 2.1.5-3
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 2360
+Installed-Size: 2440
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.c1d3r.pulloverpro
-Filename: ./debs/com.netskao.pulloverpro_2.1.5-2_iphoneos-arm64.deb
-Size: 673474
-MD5sum: e3d25b371a046b71fcf3376686fa2c6a
-SHA1: 4d5446b269dd585b3b900f0e5c141c55cda1c11f
-SHA256: ca827afcbc9568d9d1ccd742c1a07272df4d63d674dc29d939d023fb718df9d9
+Filename: ./debs/com.netskao.pulloverpro_2.1.5-3_iphoneos-arm64.deb
+Size: 707746
+MD5sum: 20561b0033cf2392c6034067c7a7d8a0
+SHA1: f6da8539fe23dcb9cf8db245bda1e7cea8fd78bc
+SHA256: b9d8e6be555a4d81e4aa6ff13197cb9a941b89f47538e27388493956228bb647
 Section: Netskao-Tweaks
 Description: A better way to multitask! Fix support for iOS15+
 Author: c1d3r
@@ -2624,6 +2624,22 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: maxiwee
 Name: NoPill
+
+Package: dev.extbh.ccshutdown
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: ExTBH
+Installed-Size: 204
+Depends: com.opa334.ccsupport, mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.extbh.ccshutdown_0.0.1_iphoneos-arm64.deb
+Size: 16796
+MD5sum: 28bcc343fb893973e7bb2b33b92b9b0b
+SHA1: 5a75cff5d85d60a658370c6edc44797434ee2140
+SHA256: f05df0fc49fb9dbe6311bc8b61decf5f62bca37a35e7503e83d298fec7ade5e3
+Section: Control Center (Modules)
+Description: Scheudle a Shutdown (and more) from your CC!
+Author: ExTBH
+Name: CCShutdown
 
 Package: dev.traurige.batterybuddy
 Version: 1.3.5
