@@ -1977,6 +1977,25 @@ Description: Five icons on your dock!
 Author: P2KDev <p2kdev@gmail.com>
 Name: FiveDock13+
 
+Package: com.p2kdev.nofaceidwait
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.nofaceidwait_1.0_iphoneos-arm64.deb
+Size: 3276
+MD5sum: 579a884be91d38f68d314f3b956d4491
+SHA1: 071f15c7e429ef1ce719cd3991836c4a4fd8c45b
+SHA256: 51a16b6fa1b73922732e1a3afb2cacb91e72077225e96e91e8cf6d010186a2fd
+Section: Tweaks
+Description: Skip face id scanning and go straight to passcode!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.nofaceidwait
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.nofaceidwait/icon.png
+Name: NoFaceIDWait
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.nofaceidwait.json
+
 Package: com.p2kdev.quitall
 Version: 1.3
 Architecture: iphoneos-arm64
