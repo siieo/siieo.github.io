@@ -3146,6 +3146,22 @@ Description: No shutter sound when you take screenshot, because it's very awkwar
 Author: p0358
 Name: SilentScreenshots
 
+Package: netskao.actionbarreborn
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 796
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/netskao.actionbarreborn_1.1-2_iphoneos-arm64.deb
+Size: 161476
+MD5sum: 943d9eec9a2c5bd5eec80a6c10ea2bf3
+SHA1: dc0f2c2047b5e0daa2ea884bcbb8c9d59c73d9c9
+SHA256: 99addc3b81f18dd62e9b70297683b22104b9119e3fb4d83a71d1fd2221fca4f3
+Section: Netskao-Tweaks
+Description: Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. ActionBar Free Reborn Edition
+Author: Netskao
+Name: ActionBar Reborn
+
 Package: netskao.doubleclickwake
 Version: 1.1-2
 Architecture: iphoneos-arm64
