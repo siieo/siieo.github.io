@@ -2015,6 +2015,25 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
 Name: Waqt
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
 
+Package: com.pantsthief.flexing
+Version: 1.5.0
+Architecture: iphoneos-arm64
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 3020
+Pre-Depends: firmware (>= 8.0)
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: ./debs/com.pantsthief.flexing_1.5.0_iphoneos-arm64.deb
+Size: 635394
+MD5sum: 32e5e81fa7807ce58aff1f5b817fadb7
+SHA1: c09374dace0517ae9d5816d6ba01cd020835fddf
+SHA256: 9e524a62856102b083a069d50c9005fd3a65b5e24af7d9c80c335fc102c40fe9
+Section: Tweaks
+Description: Open FLEX anywhere!
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
+Name: FLEXing
+Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
+
 Package: com.peterdev.libpddokdo
 Version: 1.3.6
 Architecture: iphoneos-arm64
