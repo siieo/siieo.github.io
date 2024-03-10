@@ -2275,6 +2275,22 @@ Depiction: https://slyfabi.github.io/depictions/?p=com.slyfabi.blurryalerts
 Icon: file:///var/jb/Library/PreferenceBundles/BlurryAlerts.bundle/icon@3x.png
 Name: BlurryAlerts
 
+Package: com.spark.autounlockx
+Version: 1.1.0-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 416
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/1.1.0-rootless.deb
+Size: 63138
+MD5sum: c5f25e3b04928df98b4ff9b7db750fe0
+SHA1: ce1985399cc0436647311d49584aa726ba1ffce2
+SHA256: 9c422475cedc276aa2cc846d3ad40ecde2c71c87f0ad6af30b3bc4f5ec521524
+Section: Tweaks
+Description: Unless there are notifications, the device will automatically unlock when valid Face ID is detected
+Author: Spark
+Name: AutoUnlockX
+
 Package: com.spark.libsparkapplist
 Version: 1.1.0~rootless
 Architecture: iphoneos-arm64
