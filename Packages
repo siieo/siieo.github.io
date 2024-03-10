@@ -2281,6 +2281,22 @@ Author: Ryan Nair
 Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@3x.png
 Name: Cylinder Remade
 
+Package: com.shepgoba.batteryhomebar
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 348
+Depends: mobilesubstrate, ws.hbang.alderis, firmware (>= 15.0)
+Filename: ./debs/com.shepgoba.batteryhomebar_4.0_iphoneos-arm64.deb
+Size: 13066
+MD5sum: 284ab978d081848e2155632cc4f964c2
+SHA1: 3a0a0143890752522a5eae93bd60504d99b29220
+SHA256: 2723426f200e10c452dee75106b224994c1943f9d3574717e7a340022c9032f0
+Section: Tweaks
+Description: Show the battery level on the Home Bar
+Author: Shepgoba & Hitori
+Name: BatteryHomeBar
+
 Package: com.shepgoba.downloadbar
 Version: 1.2
 Architecture: iphoneos-arm64
