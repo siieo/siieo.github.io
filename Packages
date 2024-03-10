@@ -696,16 +696,16 @@ Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
 Package: com.f0u4d.watusitools
-Version: 2.4.20
+Version: 2.4.21
 Architecture: iphoneos-arm64
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 10.0), darwintools
 Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
-Filename: ./debs/com.f0u4d.watusitools_2.4.20_iphoneos-arm64.deb
-Size: 4355092
-MD5sum: 872908c6a7a537c2897be4f728a10515
-SHA1: 7c3c6ce6a40a734293562310e5fa271cb18c62ca
-SHA256: 84e22835bfce5cbdfba9fc81a2098bfd6d8bb1777ac0b8b98f57f652d05b0a16
+Filename: ./debs/com.f0u4d.watusitools_2.4.21_iphoneos-arm64.deb
+Size: 4510928
+MD5sum: d4740b4a120649307d050f2d44fa2672
+SHA1: 7b57fefea9c863ab4301b3ec33e9c1cdd34da73b
+SHA256: 49db01e084128774a8b47fb5be670259f9e848b6ab4c1ae05026fee165fca1a5
 Section: Development
 Description: Library for Watusi and WhatsApp tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
