@@ -922,6 +922,38 @@ Description: The Clock icon is lost
 Author: Nezuko
 Name: Clockwise
 
+Package: com.hitori.disableapplibrary
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.hitori.disableapplibrary_4.0_iphoneos-arm64.deb
+Size: 2546
+MD5sum: eba1aa90c15bb73f5db3c86ae51d3ad3
+SHA1: 84600a2756bc9994613454b954c474cd38672f02
+SHA256: 44253479b4ea0e0653dee765cd0df004fdc2a569cc17d7090fa7281fb507eeda
+Section: Tweaks
+Description: Disable App Library
+Author: Hitori
+Name: Disable App Library
+
+Package: com.hitori.disablecamls
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.hitori.disablecamls_4.0_iphoneos-arm64.deb
+Size: 2594
+MD5sum: fb4d83414bceee7c54405f73f91e695b
+SHA1: 98497992cc79d80cbd0963f140a4a6294cf2202d
+SHA256: 20e8715fa00b846e2be0a3a76a9b0c214fda049d9764f2e85ab6ebfcb683b000
+Section: Tweaks
+Description: Disable Camera from Lock Screen
+Author: Hitori
+Name: Disable Camera LS
+
 Package: com.hitori.dotsbegone
 Version: 5.0~Hitori
 Architecture: iphoneos-arm64
@@ -1292,6 +1324,22 @@ Section: Tweaks
 Description: Transparent Dock
 Author: Hitori
 Name: Transparent Dock
+
+Package: com.hitori.transparentfolder
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.hitori.transparentfolder_4.0_iphoneos-arm64.deb
+Size: 2562
+MD5sum: 9904ab945c3fe39cafc0d2479e11c2a7
+SHA1: b76575190c20c83aa63dab9bd1dba02a76a4e78a
+SHA256: ab4af6c134cc8096931fb520b41a9abda75d99b153e2222cb063379d87295ef9
+Section: Tweaks
+Description: Transparent Folder Closed/Opened
+Author: Hitori
+Name: TransparentFolder
 
 Package: com.ichitaso.autolockcc
 Version: 0.2
@@ -1834,15 +1882,15 @@ Author: Nezuko
 Name: One UI 6 Emojis
 
 Package: com.nezuko.emojis
-Version: 1.0.1
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: Nezuko
 Depends: com.ps.emojifontmanager, com.ps.emojiportpe
-Filename: ./debs/com.nezuko.emojis_1.0.1_iphoneos-arm64.deb
-Size: 58216812
-MD5sum: 0fb24e9053b87123cc9a41b1a888d05b
-SHA1: 2edc3194bad0b4fb3bc4e44f78d598bb8013e641
-SHA256: 76967669f212c33f8862f5cb83b72390fc75b1ab4b39b263fefab1bb9b0c1a36
+Filename: ./debs/com.nezuko.emojis_1.1_iphoneos-arm64.deb
+Size: 58219348
+MD5sum: 3f43d0786f50032532462183ec8ea28b
+SHA1: 2647544c600eb8b899e8200f05d19af90fc7c043
+SHA256: 2ec03238d180fb34ce9aba53e438ee314075db0f89ee30dd785e3e779576daa7
 Section: Fonts
 Description: Emojis from iOS 17.4
 Author: Nezuko
