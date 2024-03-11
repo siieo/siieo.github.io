@@ -222,6 +222,23 @@ Description: Awesome tweak for Twitter
 Author: Bandar Alruwaili
 Name: BHTwitter
 
+Package: com.blakeboxberger.dockremover
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Blake Boxberger
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.blakeboxberger.homelist, com.blakeboxberger.homelist-demo
+Filename: ./debs/com.blakeboxberger.dockremover_1.1_iphoneos-arm64.deb
+Size: 3346
+MD5sum: 726c090022b53b6cca30a9c58b68aec7
+SHA1: 8f809eb9d83786bd307f040d059c4cefe54dc892
+SHA256: 0bb61a9212755173759647512c14d298170d2f48c4c1552f58a09e73f6e1c565
+Section: Tweaks
+Description: Remove the dock from your Home screen!
+Author: Blake Boxberger
+Name: DockRemover
+
 Package: com.cpdigitaldarkroom.taptapflip
 Version: 1.6-1
 Architecture: iphoneos-arm64
