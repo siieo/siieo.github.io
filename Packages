@@ -1092,10 +1092,10 @@ Maintainer: Hitori
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.hitori.hidehomebar_4.0_iphoneos-arm64.deb
-Size: 2600
-MD5sum: 65b5e98d98e22ab62a9c087192c0ba47
-SHA1: 47e68932855ba71fdc13de786d4ad24721baff33
-SHA256: 03c887a6a5a6c197a605c9ffd1620419995a6ae6221fcfdd1802689a1f93b96c
+Size: 2602
+MD5sum: 19a52d1d0c2e09f8211ff01a3b680e70
+SHA1: 56e5dce0177ccf20c38e48b8af45624b7f8bcaf7
+SHA256: bd444f8fa4b75dd035f6670919e59a61f46a1d4e6f93b86bbfa1c599dd5c3aac
 Section: Tweaks
 Description: Hides the iPhone X home bar
 Author: Hitori
@@ -1651,10 +1651,10 @@ Maintainer: Jake James
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.jakeashacks.realcc_1.0_iphoneos-arm64.deb
-Size: 4460
-MD5sum: edf7065f07f89bfede44d3b2409670b1
-SHA1: c84f723923d69877b2dcce01ee193e8aa46e6d1c
-SHA256: 74d4f45e714c607a0f0563ff91e9b0b2888b30845b13b2cb0915254e7c73886f
+Size: 5090
+MD5sum: a19b2ae7d31f8c7a2e251ebb795fb4ff
+SHA1: 76d89443c256f0b258321d32a20ac3900d943b63
+SHA256: d12cc35706f00f36a1ee555b7eb866d8f6f5484ff7909b9a3aa9986a3e341f49
 Section: Tweaks
 Description: Actually disable WiFI and Bluetooth from CC in iOS 11-16.
 Author: Jake James
