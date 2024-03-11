@@ -943,13 +943,13 @@ Package: com.hitori.clockwise
 Version: 4.0
 Architecture: iphoneos-arm64
 Maintainer: Nezuko
-Installed-Size: 152
+Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.hitori.clockwise_4.0_iphoneos-arm64.deb
-Size: 3016
-MD5sum: c3cd59008c7d139274aebc6450dd0610
-SHA1: b3e164f33f6656a733c9bdd0d4ceb68abc135ebd
-SHA256: 138170fb8ce361962a12b8ddbef3e3dd27b6c4a45f55b902b90cd5aae202c2b5
+Size: 2472
+MD5sum: 3f8a12b885a43864041ed63602ff77e2
+SHA1: f8ece154622af6a594baf6fbe34b9346553d2b63
+SHA256: 34954a7e88bc52a80e32e9871d46ff791d6adc99921c81835573f0e804fff35b
 Section: Tweaks
 Description: The Clock icon is lost
 Author: Nezuko
@@ -988,16 +988,16 @@ Author: Hitori
 Name: Disable Camera LS
 
 Package: com.hitori.dotsbegone
-Version: 5.0~Hitori
+Version: 5.1
 Architecture: iphoneos-arm64
 Maintainer: Hitori
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/com.hitori.dotsbegone_5.0~Hitori_iphoneos-arm64.deb
-Size: 2512
-MD5sum: cb192083d19d9af23ef3ba8e8f491cf0
-SHA1: 5db1765a6e3e257e57a7a8db13ff94ad5a19691e
-SHA256: 2ae06c63be104979678db8f562442671a9b203fe88710551a50bcc95d89397e3
+Filename: ./debs/com.hitori.dotsbegone_5.1_iphoneos-arm64.deb
+Size: 2506
+MD5sum: 6119e95e5ccf2a5e0d87f46b156dc986
+SHA1: 76373309eb471a5a3ddc9f5410e4e76eb171da79
+SHA256: cd49129180cab45db2789c2fe6d555f936b8e1528f400945408be802428003f6
 Section: Tweaks
 Description: Remove page dots from the Home screen
 Author: Hitori
@@ -1225,10 +1225,10 @@ Maintainer: Hitori
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.hitori.pressspring_4.0_iphoneos-arm64.deb
-Size: 3014
-MD5sum: 14df309e67937ec082d5bb28aa531982
-SHA1: ac437d80cc17f0a508f31c1263ac0cdeeea4681f
-SHA256: 6244fd1f3bd0e79115fc80bb0409d50d95b35ecb3b01e205f38db390002183c4
+Size: 3146
+MD5sum: c394418da55d65177f9c1c2c83493a1b
+SHA1: c28cc86811db6d65b0c5c64ae1951433504a3794
+SHA256: 762d31eb5580e192de980097fc07c1cb27f0b6cb45e0f330fd36cf0f354af20e
 Section: Tweaks
 Description: Respring with hardware buttons.
 Author: Hitori
@@ -1327,16 +1327,16 @@ Author: Hitori
 Name: Trakya Rounded Font (85%)
 
 Package: com.hitori.translucentquickaction
-Version: 4.0
+Version: 4.1
 Architecture: iphoneos-arm64
 Maintainer: Hitori
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/com.hitori.translucentquickaction_4.0_iphoneos-arm64.deb
-Size: 2600
-MD5sum: def8c9ae56822563e4d2b4a9f3c9a6da
-SHA1: 718cabae02fa366769fe888615ba4cdff663f3ca
-SHA256: 9316815d043151a3b29560b6bad6d4484eaffae74c2d71a40b399ddd66a50179
+Filename: ./debs/com.hitori.translucentquickaction_4.1_iphoneos-arm64.deb
+Size: 2592
+MD5sum: cac56b544d616523e4d7be348c04c193
+SHA1: 93a354864e3986e7c86801d92c92b0169288621a
+SHA256: 6e8e04566fccd9f47c82f53525532c5c558234bb50d152851063cf4f6be1b8b0
 Section: Tweaks
 Description: Make the Quick Actions background on Lock Screen translucent
 Author: Hitori
@@ -1645,16 +1645,16 @@ Icon: https://ivintagelover.github.io/repo/assets/com.ivintagelover.bigdeal/icon
 Name: Big Deal
 
 Package: com.jakeashacks.realcc
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: Jake James
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/com.jakeashacks.realcc_1.0_iphoneos-arm64.deb
+Filename: ./debs/com.jakeashacks.realcc_1.1_iphoneos-arm64.deb
 Size: 5090
-MD5sum: a19b2ae7d31f8c7a2e251ebb795fb4ff
-SHA1: 76d89443c256f0b258321d32a20ac3900d943b63
-SHA256: d12cc35706f00f36a1ee555b7eb866d8f6f5484ff7909b9a3aa9986a3e341f49
+MD5sum: ed0ace4f87093509e63341ea54c2258c
+SHA1: 63d5ed0b04415bc519010b6f523f434610a8a406
+SHA256: e4ae99725c789c9b769cb3da73ec32f711a99e2bb29a1d66065a727d2dff6455
 Section: Tweaks
 Description: Actually disable WiFI and Bluetooth from CC in iOS 11-16.
 Author: Jake James
@@ -1722,10 +1722,10 @@ Maintainer: Mikasa
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.mikasa.wowza_1.0_iphoneos-arm64.deb
-Size: 2500
-MD5sum: 5a706abbf22084d4bcf06cde779c606c
-SHA1: c3993135e70a41b2d9b931caeda68343ea11215d
-SHA256: cb0d55b96a70905bcc905a0e0c9c48f1e6878c3d977b74f619b56163ec730da2
+Size: 2502
+MD5sum: 05a96788d5caf19be6ff2d375e525351
+SHA1: dad4931327494318c5b85bfc0b1ffdc73344c2d5
+SHA256: e69b7bc4239a8583828496dc90c106838f935a7c00576a558155ecd3188695dd
 Section: Tweaks
 Description: Enable Apple Battery Icon
 Author: Mikasa
