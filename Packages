@@ -1,3 +1,19 @@
+Package: alias20.nofreeapplimit16
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/alias20.nofreeapplimit16_1.0_iphoneos-arm64.deb
+Size: 3724
+MD5sum: 018c2f135fc18efb9b1bfd147b75d450
+SHA1: 130ebdd98b7bb2709f1ea22dfc4407bfd4a8cda6
+SHA256: 2f628fc6b29a96fd78796a46d84b7c26f242d43bbe63f0c7f473bb70f752b2d9
+Section: Tweaks
+Description: Removes the 3 app limit for free developer accounts
+Author: alias20
+Name: NoFreeAppLimit16
+
 Package: cc.igerman.taptapslumber
 Version: 0.0.3
 Architecture: iphoneos-arm64
@@ -2388,10 +2404,10 @@ Maintainer: SlyFabi
 Installed-Size: 396
 Depends: mobilesubstrate, ws.hbang.alderis
 Filename: ./debs/com.slyfabi.blurryalerts_1.2.4_iphoneos-arm64.deb
-Size: 30142
-MD5sum: 21cf84f6f1f953a71a82f1ab53f21c81
-SHA1: 4f90aac8d37f228812e19e0fa24e716a31288807
-SHA256: 036b4b496f02b682b69cec0e7502892d510685525ce50aef1b938bcc86fb0f66
+Size: 29864
+MD5sum: b76eb21c40f16b5be021e0b360828713
+SHA1: ddf8d5155a0738474ad73ffe0a290d55983f64da
+SHA256: aed1188899b02051fc489d1d471270bdc5ab6c0aeda48e800e1d29eeae7e3fa3
 Section: Tweaks
 Description: tvOS style alerts!
 Author: SlyFabi
