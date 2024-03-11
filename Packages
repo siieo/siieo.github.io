@@ -239,6 +239,22 @@ Description: Remove the dock from your Home screen!
 Author: Blake Boxberger
 Name: DockRemover
 
+Package: com.blakeboxberger.roman
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.blakeboxberger.roman_1.1_iphoneos-arm64.deb
+Size: 4984
+MD5sum: ed91b028f17b46bfb9a93f75a504931c
+SHA1: a903b34cdec42e57dd24523a78a19a3eaadeb0bb
+SHA256: cb4228454bf3351a16414e78025ee9b871d0400bf925f9b81a31f7d0272c82b1
+Section: Tweaks
+Description: Turn the modern iOS status bar time to Roman numerals!
+Author: Blake Boxberger
+Name: Roman
+
 Package: com.cpdigitaldarkroom.taptapflip
 Version: 1.6-1
 Architecture: iphoneos-arm64
