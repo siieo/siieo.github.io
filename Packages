@@ -2190,14 +2190,14 @@ Package: com.ps.emojiattributes
 Version: 1.8.0~b2
 Architecture: iphoneos-arm64
 Maintainer: PoomSmart
-Installed-Size: 504
+Installed-Size: 508
 Depends: firmware (>= 5.1), mobilesubstrate, com.opa334.libundirect (>= 1.0)
 Conflicts: com.ps.flexmoji
 Filename: ./debs/com.ps.emojiattributes_1.8.0~b2_iphoneos-arm64.deb
-Size: 41594
-MD5sum: 178081cc51e4d037a0be1144999b22dd
-SHA1: 5fe558ee7fff6a098959b58e0b08cee69d2a8b01
-SHA256: d6655f3dd59f77a6828615b0f6d219c14f689b7e02055b6fa7f7c61c50f119bb
+Size: 43498
+MD5sum: e863c4f3948968276c3525d7659f9528
+SHA1: e0e28ad252f8cba2ec945ff9337f91aa5dad967e
+SHA256: f87412618f940032790cfac274a80d7cc60005d27e1d362b2a07bea50a021f37
 Section: Tweaks
 Description: Various under-the-hood fixes for emoji display.
 Author: PoomSmart
@@ -2225,15 +2225,15 @@ Name: EmojiFontManager
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojifontmanager.json
 
 Package: com.ps.emojilibrary
-Version: 1.6.0
+Version: 1.6.0~b2
 Architecture: iphoneos-arm64
 Maintainer: PoomSmart
 Installed-Size: 408
-Filename: ./debs/com.ps.emojilibrary_1.6.0_iphoneos-arm64.deb
-Size: 33808
-MD5sum: 38257ee9eb8b2407de79a7a4b79d0395
-SHA1: 8e216d018b2d727ec3e6d9b98bf423becad7e82f
-SHA256: 9699c2deed7597b6ca090b81f6e2a69884c49cdf4fbc1ffc78f4e09299b87850
+Filename: ./debs/com.ps.emojilibrary_1.6.0~b2_iphoneos-arm64.deb
+Size: 34214
+MD5sum: 3c5415ff02bbaefafe97cb775482da3f
+SHA1: df13ff553a40e127a1f99e9156f8f111c05a1856
+SHA256: 1e7faa3f51fd072b30996ca79dba6cc5981eafa0b5764e1a04375a335eb8c2fc
 Section: Development
 Description: Master library for PoomSmart's emoji tweaks.
 Tag: role::developer
