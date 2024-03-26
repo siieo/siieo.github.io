@@ -744,23 +744,6 @@ Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
-Package: com.f0u4d.watusitools
-Version: 2.4.21
-Architecture: iphoneos-arm64
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depends: firmware (>= 10.0), darwintools
-Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
-Filename: ./debs/com.f0u4d.watusitools_2.4.21_iphoneos-arm64.deb
-Size: 4510928
-MD5sum: d4740b4a120649307d050f2d44fa2672
-SHA1: 7b57fefea9c863ab4301b3ec33e9c1cdd34da73b
-SHA256: 49db01e084128774a8b47fb5be670259f9e848b6ab4c1ae05026fee165fca1a5
-Section: Development
-Description: Library for Watusi and WhatsApp tweaks
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-Name: WatusiTools
-
 Package: com.fiore.ccborder
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -796,25 +779,6 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
 Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
 Name: AppData
 Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
-
-Package: com.fouadraheb.watusi3
-Version: 1.2.26
-Architecture: iphoneos-arm64
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6644
-Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.20)
-Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
-Filename: ./debs/com.fouadraheb.watusi3_1.2.26_iphoneos-arm64.deb
-Size: 1967824
-MD5sum: b08b1091fb8a503872da306903d60580
-SHA1: 444a50e0ecf97241613271e792422725f31d2900
-SHA256: 1fe7b3092d37de7f9c72ee0aa2f8141f201af4a32d988e483b9059627ccd6db2
-Section: Tweaks
-Description: The all-in-one tweak for WhatsApp Messenger
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-Name: Watusi 3 for WhatsApp
 
 Package: com.furawa.parousia
 Version: 1.4
