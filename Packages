@@ -2974,6 +2974,23 @@ Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
 Name: Rocket for Instagram
 Sileodepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
 
+Package: me.gmoran.notchbegone
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Guillermo Moran
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/me.gmoran.notchbegone_0.0.2_iphoneos-arm64.deb
+Size: 4572
+MD5sum: 284a613aa4d8c15231efcd56fa1e27bd
+SHA1: 4e1584c9336d01d2c271b0af138e64d1e7fdebd0
+SHA256: 0c3e1a9a409f7e4dcfbc40b349f5fb763c1a528cd34d21e5323b7b509fc1b518
+Section: Tweaks
+Description: Hide the notch on notched iPhones, iOS 11? - 13
+    Created by Guillermo Moran, updated for iOS 13 by Egg aka CRKatri
+Author: Guillermo Moran
+Name: NotchBeGone
+
 Package: me.luki.april
 Version: 3.1
 Architecture: iphoneos-arm64
