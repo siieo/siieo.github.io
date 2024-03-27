@@ -106,6 +106,111 @@ Description: Lower your notifications limit to any point you wish in your locksc
 Author: 0xkuj
 Name: LowerNotifs
 
+Package: com.alphastream.orbital
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Alpha_Stream <alphastream113@gmail.com>
+Depends: firmware (>=12.0), com.spark.snowboard.statusbar
+Filename: ./debs/com.alphastream.orbital_1.0_iphoneos-arm64.deb
+Size: 72824
+MD5sum: 8232a66b7358f4eab77687ee0833d436
+SHA1: 5542cda4e4ce391af2b38fa604bbaae2e96b581d
+SHA256: 8c209121ecc2988c9b52e13f7186b4ed9d25577851e7b809308e21d8ddedac66
+Section: status bar themes
+Homepage: https://thealphastream.github.io/repo
+Description: Orbital systems on your status bar
+Author: Alpha_Stream <alphastream113@gmail.com>
+Depiction: https://thealphastream.github.io/repo/depiction/web/com.alphastream.orbital.html
+Icon: https://thealphastream.github.io/repo/assets/com.alphastream.orbital/icon.png
+Moderndepiction: https://thealphastream.github.io/repo/depiction/native/com.alphastream.orbital.json
+Name: Orbital
+Sileodepiction: https://thealphastream.github.io/repo/depiction/native/com.alphastream.orbital.json
+Tags: compatible_min::ios12.0, compatible_max::ios16.6
+
+Package: com.alphastream.orbital-base
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Alpha_Stream <alphastream113@gmail.com>
+Depends: firmware (>=12.0), com.spark.snowboard.statusbar
+Filename: ./debs/com.alphastream.orbital-base_1.0_iphoneos-arm64.deb
+Size: 70532
+MD5sum: 197038c0459861b4603a845c2306e218
+SHA1: 53db3daf51b72d2b4842f3f462e579ab2290261f
+SHA256: a3eb4c5188306ade274c96aae9b9821b925c9b2a03b0e8ce72d4da0e7f215da2
+Section: status bar themes
+Homepage: https://thealphastream.github.io/repo
+Description: Orbital systems on your status bar
+Author: Alpha_Stream <alphastream113@gmail.com>
+Depiction: https://thealphastream.github.io/repo/depiction/web/com.alphastream.orbital-base.html
+Icon: https://thealphastream.github.io/repo/assets/com.alphastream.orbital-base/icon.png
+Moderndepiction: https://thealphastream.github.io/repo/depiction/native/com.alphastream.orbital-base.json
+Name: Orbital (Wifi and Network only)
+Sileodepiction: https://thealphastream.github.io/repo/depiction/native/com.alphastream.orbital-base.json
+Tags: compatible_min::ios12.0, compatible_max::ios16.6
+
+Package: com.alphastream.petal
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Alpha_Stream <alphastream113@gmail.com>
+Depends: firmware (>=12.0), com.spark.snowboard.statusbar
+Filename: ./debs/com.alphastream.petal_1.0_iphoneos-arm64.deb
+Size: 638812
+MD5sum: 5556292f894e63778993b48c9ec6134c
+SHA1: c22c2fe37cdae930b5935322b667ed0c5b64f8a2
+SHA256: e0421ed3bab24400928f577fbca871dded598f76f7b0bf1c2b7fa7df7531d298
+Section: status bar themes
+Homepage: https://thealphastream.github.io/repo
+Description: Status bar with flowers.
+Author: Alpha_Stream <alphastream113@gmail.com>
+Depiction: https://thealphastream.github.io/repo/depiction/web/com.alphastream.petal.html
+Icon: https://thealphastream.github.io/repo/assets/com.alphastream.petal/icon.png
+Moderndepiction: https://thealphastream.github.io/repo/depiction/native/com.alphastream.petal.json
+Name: Petal
+Sileodepiction: https://thealphastream.github.io/repo/depiction/native/com.alphastream.petal.json
+Tags: compatible_min::ios12.0, compatible_max::ios16.6
+
+Package: com.alphastream.petal-base
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Alpha_Stream <alphastream113@gmail.com>
+Depends: firmware (>=12.0), com.spark.snowboard.statusbar
+Filename: ./debs/com.alphastream.petal-base_1.0_iphoneos-arm64.deb
+Size: 491524
+MD5sum: 26f0c997e529b145c62139322f3adef5
+SHA1: 8428c55cf739c4ab3232208e1c2592c288bec415
+SHA256: e1f5619b82be7400724a6d84dfc2995faab6f41bfc97d831fcf93dd563108a1b
+Section: status bar themes
+Homepage: https://thealphastream.github.io/repo
+Description: Status bar with flowers.
+Author: Alpha_Stream <alphastream113@gmail.com>
+Depiction: https://thealphastream.github.io/repo/depiction/web/com.alphastream.petal-base.html
+Icon: https://thealphastream.github.io/repo/assets/com.alphastream.petal-base/icon.png
+Moderndepiction: https://thealphastream.github.io/repo/depiction/native/com.alphastream.petal-base.json
+Name: Petal (Wifi and Network only)
+Sileodepiction: https://thealphastream.github.io/repo/depiction/native/com.alphastream.petal-base.json
+Tags: compatible_min::ios12.0, compatible_max::ios16.6
+
+Package: com.alphastream.ppbattery
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Alpha_Stream <alphastream113@gmail.com>
+Depends: firmware (>=12.0), com.spark.juice
+Filename: ./debs/com.alphastream.ppbattery_1.0_iphoneos-arm64.deb
+Size: 42624
+MD5sum: 08a69c67da841dbc8ac3d2fe0f8117f0
+SHA1: 15a18f9d55943319f2007ba2ffbd25a62c852087
+SHA256: 01df358b1517aae2fef2a9ca784b811a5e9c2f8a43cbacf2698d26001eb86752
+Section: juice themes
+Homepage: https://thealphastream.github.io/repo
+Description: Battery but pp.
+Author: Alpha_Stream <alphastream113@gmail.com>
+Depiction: https://thealphastream.github.io/repo/depiction/web/com.alphastream.ppbattery.html
+Icon: https://thealphastream.github.io/repo/assets/com.alphastream.ppbattery/icon.png
+Moderndepiction: https://thealphastream.github.io/repo/depiction/native/com.alphastream.ppbattery.json
+Name: pp battery
+Sileodepiction: https://thealphastream.github.io/repo/depiction/native/com.alphastream.ppbattery.json
+Tags: compatible_min::ios12.0, compatible_max::ios16.6
+
 Package: com.anthopak.addtofolder-rootless
 Version: 1.4
 Architecture: iphoneos-arm64
