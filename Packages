@@ -1276,6 +1276,23 @@ Description: Shows the Ethernet options in the Settings
 Author: Hitori
 Name: Show Ethernet
 
+Package: com.hitori.trakya85
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: mobilesubstrate, com.spark.snowboard.fonts
+Filename: ./debs/com.hitori.trakya85_4.0_iphoneos-arm64.deb
+Size: 1755016
+MD5sum: b67858e5c54f3024a1624688037de9ac
+SHA1: 85e7377c60a1ffc41614f96043b6daee2faa1ce2
+SHA256: b815cbb3eee327695bf360dadcf52e8f05cabb7418e10bdca847e7287e88adaf
+Section: Fonts
+Description: Trakya Rounded is a perfect blend of elegant, minimal and premium design aesthetics at it’s level best.
+Author: Alexman
+Icon: https://siieo.github.io/sileodepictions/Fonts/icon.png
+Name: Trakya Rounded (85)
+Sileodepiction: https://siieo.github.io/sileodepictions/Fonts/Trakya/Trakya.json
+
 Package: com.hitori.trakyarounded100
 Version: 1.0
 Architecture: iphoneos-arm64
