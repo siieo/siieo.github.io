@@ -784,6 +784,26 @@ Author: julioverne
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.lockdroid
 Name: LockDroid
 
+Package: com.miguelaka95.bettercc
+Version: 0.0.51
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 1828
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
+Filename: ./debs/Bettercc-roothide.deb
+Size: 141736
+MD5sum: 762e7cabc175eed53adf1041a9ea4eb4
+SHA1: 986550aced4408079237c589fd0869dbb8941784
+SHA256: 938efe3cbc767f800bf832f7ddcf0fc712ea5c653b45fead225eac10ca9a90fa
+Section: roothide修复插件
+Description: Customize your Control Center!_________仅测试用,有问题卸载---roothide
+ Invisible Modules.
+ Rearrange Connectivity Toggles.
+ Change Modules Size.
+ Weather Widget.
+Author: Miguelaka95 <miguelaka95@gmail.com>
+Name: BetterCC-roothide
+
 Package: com.miguelaka95.customizecc
 Version: 1.4.3.1
 Architecture: iphoneos-arm64e
@@ -1804,6 +1824,22 @@ Homepage: https://twitter.com/xerusdesign
 Description: a more colorful & detailed look for iOS
 Author: XerusDesign <unixdesignios@gmail.com>
 Name: Felicity Pro
+
+Package: com.xelahot.xelahotagario
+Version: 1.3.4
+Architecture: iphoneos-arm64e
+Maintainer: xelahot
+Installed-Size: 404
+Conflicts: com.xelahot.libxelahot
+Filename: ./debs/com.xelahot.xelahotagario_1.3.4_iphoneos-arm64e.deb
+Size: 72560
+MD5sum: d25ed1bb5af647eee30de13f0b4e17bf
+SHA1: 03f0481f2852e64e6da900161518b3ae81e4a6d4
+SHA256: 2206779430e1e2d286218528f2c517f9bd3d0bbece22011a62cad831e2ac6499
+Section: Tweaks
+Description: Xelahot mod menu for Agar.io for free!
+Author: xelahot
+Name: Xelahot - Agar.io (rootless roothide)
 
 Package: dev.traurige.batterybuddy
 Version: 1.3.5
