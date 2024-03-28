@@ -455,6 +455,27 @@ Sileodepiction: https://nahtedetihw.github.io/depiction/native/com.ethn.mirage.j
 Someotherentrytocontrol: True
 Tags: compatible_min::ios11.0, compatible_max::ios14.3
 
+Package: com.ethxnn88.visibleisland
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: ethxnn88 <ethxnn88@gmail.com>
+Depends: firmware (>=16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./debs/com.ethxnn88.visibleisland.deb
+Size: 43112
+MD5sum: 40136a71f47b99b520dc870c93391fff
+SHA1: d85804b27aff4481699dbffae54a9ef92e3b3869
+SHA256: aaf4bca339b1c3ad379ca371a1a4413c06c5fecef8cb471184863795864377c3
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: Enable, fix, and customize the Dynamic Island on older devices.
+Author: ethxnn88 <ethxnn88@gmail.com>
+Depiction: https://ethxnn88.github.io/repo/depiction/web/com.ethxnn88.visibleisland.html
+Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland/icon.png
+Moderndepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
+Name: VisibleIsland
+Sileodepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
+Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
+
 Package: com.evynw.fontasterisk14
 Version: 1.1
 Architecture: iphoneos-arm64
