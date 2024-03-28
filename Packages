@@ -3605,22 +3605,6 @@ Description: Control Center Quick Power Tool, Supports iOS11-iOS15
 Author: Netskao
 Name: CCPower-Rootless
 
-Package: netskao.disablepastetips-rootless
-Version: 1.1-5
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 168
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/netskao.disablepastetips-rootless_1.1-5_iphoneos-arm64.deb
-Size: 3052
-MD5sum: 1bfb68bd089c54f27ecb0ede41e696ba
-SHA1: 37a90e9dfabe5845ee2c2a74e44955b247a367a6
-SHA256: f86d1f36722082511bae379976ba04626a3a8c86851612cbfb3c20a7e13f3347
-Section: Netskao-Tweaks
-Description: Disable paste tips, Support iOS14-iOS15
-Author: Netskao
-Name: DisablePasteTips-Rootless
-
 Package: netskao.doubleclickwake
 Version: 1.1-2
 Architecture: iphoneos-arm64
