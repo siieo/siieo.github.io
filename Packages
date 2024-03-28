@@ -106,6 +106,58 @@ Description: Lower your notifications limit to any point you wish in your locksc
 Author: 0xkuj
 Name: LowerNotifs
 
+Package: com.alazybrick.swisscheese
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: alazybrick <l.giesselmann@icloud.com>
+Filename: ./debs/com.alazybrick.swisscheese_1.5_iphoneos-arm64.deb
+Size: 4793448
+MD5sum: 67442812a3928445dc49526723a77083
+SHA1: 271434e387bdac04f26ca730045acf2067b25d55
+SHA256: 04dd3af48b18294ca5a10aeac5ceb0dc7e1dbec01b4d8f9fc4a4e3d1570a90f4
+Section: Themes
+Description: an iOS Theme
+Author: alazybrick <l.giesselmann@icloud.com>
+Depiction: https://repo.packix.com/package/com.alazybrick.swisscheese
+Icon: https://repo.packix.com/media/com.alazybrick.swisscheese/icon.png
+Name: Swiss Cheese
+Sileodepiction: https://repo.packix.com/depictions/com.alazybrick.swisscheese/depiction.json
+
+Package: com.alazybrick.swisschoco
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: alazybrick <l.giesselmann@icloud.com>
+Filename: ./debs/com.alazybrick.swisschoco_1.5_iphoneos-arm64.deb
+Size: 10609236
+MD5sum: 04b551a96b5f2ee8e0ac70274e00a920
+SHA1: 1a1c5b37d1e80b8c597e665db14b5fee48372f28
+SHA256: 9180d9cf0b7673e3d948470f5ddf931c7f978170373baf9940477545fe91c330
+Section: Themes
+Description: an iOS Theme
+Author: alazybrick <l.giesselmann@icloud.com>
+Depiction: https://repo.packix.com/package/com.alazybrick.swisschoco
+Icon: https://repo.packix.com/media/com.alazybrick.swisschoco/icon.png
+Name: Swiss Choco
+Sileodepiction: https://repo.packix.com/depictions/com.alazybrick.swisschoco/depiction.json
+
+Package: com.alimaulana.bundarstatusbar
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: alimaulana
+Depends: Winterboard
+Filename: ./debs/com.alimaulana.bundarstatusbar_1.0_iphoneos-arm64.deb
+Size: 35356
+MD5sum: 4c8a6fa33018f0e4b379439a69fc7959
+SHA1: 5e5d204392aaf041724be88f75ae5a60c80e2432
+SHA256: 0a2515bbc315a04e0518fd729890b5f36a551e70fa50668419046050af5fb229
+Section: Themes
+Description: signal cellular, wifi & battery
+Author: alimaulana
+Depiction: https://repo.packix.com/package/com.alimaulana.bundarstatusbar
+Icon: https://repo.packix.com/media/com.alimaulana.bundarstatusbar/icon.png
+Name: Bundar Status Bar
+Sileodepiction: https://repo.packix.com/depictions/com.alimaulana.bundarstatusbar/depiction.json
+
 Package: com.alphastream.orbital
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -3552,6 +3604,22 @@ Section: Netskao-Tweaks
 Description: Control Center Quick Power Tool, Supports iOS11-iOS15
 Author: Netskao
 Name: CCPower-Rootless
+
+Package: netskao.disablepastetips-rootless
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/netskao.disablepastetips-rootless_1.1-5_iphoneos-arm64.deb
+Size: 3052
+MD5sum: 1bfb68bd089c54f27ecb0ede41e696ba
+SHA1: 37a90e9dfabe5845ee2c2a74e44955b247a367a6
+SHA256: f86d1f36722082511bae379976ba04626a3a8c86851612cbfb3c20a7e13f3347
+Section: Netskao-Tweaks
+Description: Disable paste tips, Support iOS14-iOS15
+Author: Netskao
+Name: DisablePasteTips-Rootless
 
 Package: netskao.doubleclickwake
 Version: 1.1-2
