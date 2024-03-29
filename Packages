@@ -379,6 +379,22 @@ Icon: https://siieo.github.io/sileodepictions/Terminal/icon.png
 Name: Terminal
 Sileodepiction: https://siieo.github.io/sileodepictions/Terminal/Terminal.json
 
+Package: com.bandarhl.bhinsta
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Installed-Size: 408
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.bandarhl.bhinsta_0.0.1_iphoneos-arm64.deb
+Size: 69116
+MD5sum: 9f904f982fccb44db951a29ba3dfcddc
+SHA1: ff96000b3f1a68ef716ce171946efa319b81f804
+SHA256: b655c707267aa9eebbc1653aa1798d0550cbb376abda928a6ede1b15ed74a4d1
+Section: Tweaks
+Description: An awesome tweak for Instagram!
+Author: Bandar Alruwaili
+Name: BHInsta
+
 Package: com.bandarhl.bhtwitter
 Version: 4.4
 Architecture: iphoneos-arm64
