@@ -1896,10 +1896,10 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
 Filename: ./debs/com.miguelaka95.bettercc_0.0.55_iphoneos-arm64.deb
-Size: 148652
-MD5sum: b3c7f5098609084d0f4d90a1d3b3812c
-SHA1: 8a4660aedfece72dc7266103f57c9711196b8178
-SHA256: 4965c18efd569b08c8ca492db9c7af0e872007a521b14eb1a4e4680160a75e35
+Size: 148888
+MD5sum: 99a73e27511625fcc482621a564ed5db
+SHA1: aae557f6d94c62638e758ee2047ba7e4c2d1ff4a
+SHA256: 3a870768074561eb3dc29e19c7b4d8017ad2c00f690b302a2302be62c0e1a2f3
 Section: Tweaks
 Description: Customize your Control Center!
  Invisible Modules.
@@ -1907,7 +1907,10 @@ Description: Customize your Control Center!
  Change Modules Size.
  Weather Widget.
 Author: Miguelaka95 <miguelaka95@gmail.com>
+Depiction: https://havoc.app/depiction/bettercc
+Icon: https://media.havoc.app/6212cb4b1a0d080cf953fa61
 Name: BetterCC
+Sileodepiction: https://havoc.app/package/bettercc/depiction.json
 
 Package: com.mikasa.wowza
 Version: 1.0
