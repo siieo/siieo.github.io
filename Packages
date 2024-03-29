@@ -1145,6 +1145,20 @@ Description: Disable Camera from Lock Screen
 Author: Hitori
 Name: Disable Camera LS
 
+Package: com.hitori.disablescreentime
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Filename: ./debs/com.hitori.disablescreentime_1.0_iphoneos-arm64.deb
+Size: 1260
+MD5sum: 67ae3912c82d557b82d3c7269f5cad86
+SHA1: 5370b8fbc8e7c2f1f44890f8073ee25e14bf81bb
+SHA256: d8e2cb03932f77497b253acaf86b876fc55adeed62550fe99e2fbdaddfb30a4c
+Section: Tweaks
+Description: This package provides a script that disables Screen Time functionality on iOS devices.
+Author: Hitori
+Name: Disable Screen Time
+
 Package: com.hitori.dotsbegone
 Version: 5.1
 Architecture: iphoneos-arm64
