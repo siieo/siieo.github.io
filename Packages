@@ -3535,6 +3535,24 @@ Description: Preserve custom icon layouts between reboots
 Author: Nepeta <ominousness@protonmail.com>
 Name: IconState
 
+Package: me.playcover.genshinjailbreakbypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: iVoider <alex@playcover.me>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/me.playcover.genshinjailbreakbypass_1.0_iphoneos-arm64.deb
+Size: 2574
+MD5sum: 1b4ef1059d105ff27e5c76deadbe27a2
+SHA1: 9bc7f022c72bd1a7125fec25af03601e263dcff1
+SHA256: efe776e2594ba9f93d9e0f95369b35637d0150910b0adc0de8855dc572a16777
+Section: Tweaks
+Homepage: https://playcover.me/
+Description: Bypass "Data error, please login again" message
+Author: iVoider <alex@playcover.me>
+Depiction: https://playcover.me/me.playcover.genshinjailbreakbypass.deb
+Name: Genshin Jailbreak Bypass
+
 Package: mterminal
 Version: 1.6
 Architecture: iphoneos-arm64
