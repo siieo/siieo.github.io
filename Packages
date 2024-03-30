@@ -3354,6 +3354,22 @@ Description: Hide the notch on notched iPhones, iOS 11? - 13
 Author: Guillermo Moran
 Name: NotchBeGone
 
+Package: me.kritanta.gravitation
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 464
+Depends: mobilesubstrate
+Filename: ./debs/me.kritanta.gravitation_4.0_iphoneos-arm64.deb
+Size: 61224
+MD5sum: e86289cafdeb75050422be28ae37836d
+SHA1: 346511e132bb4b3cb02c6e4f23933bfc887f6b9c
+SHA256: d81465c7a7ac2cfc95674639a9bc5eb19aea48d5c2eb9a0853bd513c98a31765
+Section: Tweaks
+Description: Shake your phone to unhinge your icons!
+Author: Kritanta && Hitori
+Name: Gravitation
+
 Package: me.luki.april
 Version: 3.1
 Architecture: iphoneos-arm64
