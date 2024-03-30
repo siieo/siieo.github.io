@@ -3358,13 +3358,13 @@ Package: me.kritanta.gravitation
 Version: 4.0
 Architecture: iphoneos-arm64
 Maintainer: Hitori
-Installed-Size: 464
+Installed-Size: 448
 Depends: mobilesubstrate
 Filename: ./debs/me.kritanta.gravitation_4.0_iphoneos-arm64.deb
-Size: 61224
-MD5sum: e86289cafdeb75050422be28ae37836d
-SHA1: 346511e132bb4b3cb02c6e4f23933bfc887f6b9c
-SHA256: d81465c7a7ac2cfc95674639a9bc5eb19aea48d5c2eb9a0853bd513c98a31765
+Size: 48398
+MD5sum: 2a44d10568864e39d889bdd415a8e44d
+SHA1: a98d575436409992055c015fb1ef424ccc18f4b0
+SHA256: 2f6b19351d9f75b50fd3f3502c4c5457f8602a86ac6618bfe4b30a2ffe466d0d
 Section: Tweaks
 Description: Shake your phone to unhinge your icons!
 Author: Kritanta && Hitori
