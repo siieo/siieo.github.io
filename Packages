@@ -2462,6 +2462,25 @@ Icon: https://repo.packix.com/media/com.popsicletreehouse.photodock/icon.png
 Name: PhotoDock
 Sileodepiction: https://repo.packix.com/depictions/com.popsicletreehouse.photodock/depiction.json
 
+Package: com.popsicletreehouse.settingswallpaper
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 376
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.popsicletreehouse.settingswallpaper_0.0.5_iphoneos-arm64.deb
+Size: 29530
+MD5sum: 567b639ae0e6b36a1076332006760ae3
+SHA1: 2c0d2c354bb9095d0c4e5b0ff195dd0c6f5ae4f1
+SHA256: 6dffef5549fd63a264766c5f142fcb7066e0cd41860e58c2e3ee6bdf35ac3e52
+Section: Tweaks
+Description: Change your settings background to your wallpaper
+Author: PopsicleTreehouse, c0dine
+Depiction: https://repo.packix.com/package/com.popsicletreehouse.settingswallpaper
+Icon: https://repo.packix.com/media/com.popsicletreehouse.settingswallpaper/icon.png
+Name: SettingsWallpaper
+Sileodepiction: https://repo.packix.com/depictions/com.popsicletreehouse.settingswallpaper/depiction.json
+
 Package: com.ps.blurrybadges
 Version: 1.5.2
 Architecture: iphoneos-arm64
