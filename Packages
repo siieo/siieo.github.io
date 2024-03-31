@@ -2469,10 +2469,10 @@ Maintainer: Hitori
 Installed-Size: 376
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.popsicletreehouse.settingswallpaper_0.0.5_iphoneos-arm64.deb
-Size: 29530
-MD5sum: 567b639ae0e6b36a1076332006760ae3
-SHA1: 2c0d2c354bb9095d0c4e5b0ff195dd0c6f5ae4f1
-SHA256: 6dffef5549fd63a264766c5f142fcb7066e0cd41860e58c2e3ee6bdf35ac3e52
+Size: 30036
+MD5sum: cbb178f335d34a385e31e13c0821c6e2
+SHA1: e4b6da74914661af8fb7d5dd292b87ce4549e589
+SHA256: 018c8af0c31861a62b5c62dcb131a62a0d710ae6a4027e5c480fb872b5345a1f
 Section: Tweaks
 Description: Change your settings background to your wallpaper
 Author: PopsicleTreehouse, c0dine
