@@ -380,16 +380,16 @@ Name: Terminal
 Sileodepiction: https://siieo.github.io/sileodepictions/Terminal/Terminal.json
 
 Package: com.bandarhl.bhinsta
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm64
 Maintainer: Bandar Alruwaili
 Installed-Size: 408
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/com.bandarhl.bhinsta_0.0.1_iphoneos-arm64.deb
-Size: 69116
-MD5sum: 9f904f982fccb44db951a29ba3dfcddc
-SHA1: ff96000b3f1a68ef716ce171946efa319b81f804
-SHA256: b655c707267aa9eebbc1653aa1798d0550cbb376abda928a6ede1b15ed74a4d1
+Filename: ./debs/com.bandarhl.bhinsta_0.0.2_iphoneos-arm64.deb
+Size: 64470
+MD5sum: ce1b2b2dffef7acc74d3edf44e412e5e
+SHA1: 99ea7e866ba76e07f773983ce543d00755397c63
+SHA256: 9e9b67388f21c186a4240655b6589a05f515edfc740b1822287d52de4d94bdd4
 Section: Tweaks
 Description: An awesome tweak for Instagram!
 Author: Bandar Alruwaili
@@ -500,6 +500,25 @@ Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.colorba
 Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/icon.png
 Name: ColorBar15
 Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/depiction.json
+
+Package: com.dpkg.ipadswitcher
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: dpkg_
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dpkg.ipadswitcher_2.0_iphoneos-arm64.deb
+Size: 16808
+MD5sum: fa4c612feafd0ca7d8e8c7fb33d96e06
+SHA1: 72e116026fa3f00d74545614242971bf6791a8ed
+SHA256: 508285861d47232c2fafeff5c4af0e75ad2aa3f8e8217f0737ac7d0317d79ee4
+Section: Tweaks
+Description: Customizable iPad-like Grid Switcher.
+Author: dpkg_
+Depiction: https://repo.packix.com/package/com.dpkg.ipadswitcher
+Icon: https://repo.packix.com/media/com.dpkg.ipadswitcher/icon.png
+Name: iPadSwitcher
+Sileodepiction: https://repo.packix.com/depictions/com.dpkg.ipadswitcher/depiction.json
 
 Package: com.ethn.mirage
 Version: 1.9
@@ -1389,6 +1408,19 @@ Author: Alexman
 Icon: https://siieo.github.io/sileodepictions/Fonts/icon.png
 Name: Mikhak (85)
 Sileodepiction: https://siieo.github.io/sileodepictions/Fonts/Mikhak/Mikhak.json
+
+Package: com.hitori.neverbreadcrumb
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: plistbuddy
+Filename: ./debs/com.hitori.neverbreadcrumb_1.0_iphoneos-arm64.deb
+Size: 1344
+MD5sum: 7b33adabcf5e684fc18afdf6380cdeb1
+SHA1: d9a9fe3e037c81d1813ab8d6a49258382df51baa
+SHA256: c298260d1abb8fffb651b2c1e2bbcaf6ad5c4514b8655d3c063c2264a9ce6f34
+Description: Script to Disable Breadcrumb
+Name: Disable Breadcrumb
 
 Package: com.hitori.nobetaalert
 Version: 4.0
@@ -2411,6 +2443,25 @@ Description: LatchKey Themes
 Author: POLLAPO <loseecho@gmail.com>
 Name: LatchKey Themes
 
+Package: com.popsicletreehouse.photodock
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 388
+Depends: mobilesubstrate, com.muirey03.libimagepicker
+Filename: ./debs/com.popsicletreehouse.photodock_4.0_iphoneos-arm64.deb
+Size: 46854
+MD5sum: fc09476e1123057988a97c1a51f35f2e
+SHA1: 432fb06231ca569ddb179a289efd3a03190889d6
+SHA256: 53dad72dfd52d71b5373c7c1198fcacf2555248b1db67807aebe8a67c5dbee1c
+Section: Tweaks
+Description: Change your dock's background to a photo of your choice.
+Author: PopsicleTreehouse && Hitori
+Depiction: https://repo.packix.com/package/com.popsicletreehouse.photodock
+Icon: https://repo.packix.com/media/com.popsicletreehouse.photodock/icon.png
+Name: PhotoDock
+Sileodepiction: https://repo.packix.com/depictions/com.popsicletreehouse.photodock/depiction.json
+
 Package: com.ps.blurrybadges
 Version: 1.5.2
 Architecture: iphoneos-arm64
@@ -3044,6 +3095,25 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.twi
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.twickd.john-sklikas.3dbadgeclear/icon.png
 Name: 3DBadgeClear
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.twickd.john-sklikas.3dbadgeclear.json
+
+Package: com.vladofficial.blankpass
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: VladGeek
+Installed-Size: 552
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.vladofficial.blankpass_1.2_iphoneos-arm64.deb
+Size: 19508
+MD5sum: 2d829ade4c9cfccecdcfdab9da416efc
+SHA1: 75bf02884e485d398a252e9c8be9c0fa35add539
+SHA256: 21a07e893775f225f773480013c8216a498d76cc7412cbab63f42f3c5f1dde6f
+Section: Tweaks
+Description: Blank password buttons
+Author: VladGeek
+Depiction: https://repo.packix.com/package/com.vladofficial.blankpass
+Icon: https://repo.packix.com/media/com.vladofficial.blankpass/icon.png
+Name: BlankPass
+Sileodepiction: https://repo.packix.com/depictions/com.vladofficial.blankpass/depiction.json
 
 Package: com.xelahot.xelahotagario
 Version: 1.3.4
