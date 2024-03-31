@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siieo Repo</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+
+        .container {
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 50px 20px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 48px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 40px;
+        }
+
+        .button-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+        }
+
+        /* Rainbow gradient for the button */
+        .rainbow-button {
+            padding: 15px 40px;
+            font-size: 20px;
+            border: none;
+            color: #fff;
+            cursor: pointer;
+            border-radius: 8px;
+            background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3);
+            background-size: 600% 100%;
+            animation: rainbow 10s linear infinite;
+        }
+
+        @keyframes rainbow {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Siieo Repo</h1>
+        <p>Explore our collection of rootless jailbreak tweaks and enhancements for your iOS device, curated by our team of experts.</p>
+        
+        <!-- Buttons for Zebra, Sileo, and Saily -->
+        <div class="button-container">
+            <!-- Add button for Zebra -->
+            <a href="zbra://sources/add/https://siieo.github.io">
+                <button class="rainbow-button">Add to Zebra</button>
+            </a>
+            
+            <!-- Add button for Sileo -->
+            <a href="sileo://source/https://siieo.github.io" target="_blank">
+                <button class="rainbow-button">Add to Sileo</button>
+            </a>
+            
+            <!-- Add button for Saily -->
+            <a href="apt-repo://sources/add/https://siieo.github.io">
+                <button class="rainbow-button">Add to Saily</button>
+            </a>
+        </div>
+    </div>
+</body>
+</html>
