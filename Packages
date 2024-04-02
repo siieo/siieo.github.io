@@ -2680,6 +2680,23 @@ Description: Ensure WhatsApp recognizes the latest emojis.
 Author: PoomSmart
 Name: WhatsAllEmojis
 
+Package: com.ramenrepo.limelight
+Version: 1.9.6
+Architecture: iphoneos-arm64
+Maintainer: ty_ph <tylerpharand@gmail.com>
+Filename: ./debs/com.ramenrepo.limelight_1.9.6_iphoneos-arm64.deb
+Size: 29607240
+MD5sum: 7821bdc8b11bec228ae0e216c35cdcb7
+SHA1: 72224aa76798142158111c03cfbc3a7935dd4529
+SHA256: 9b733b67c6ab6bdb0afc9ea59f5a7faf4ae30aacd0d839ddac54757677948335
+Section: Themes
+Homepage: ramenrepo.github.io
+Description: Colorful glyphs for anemone
+Author: ty_ph <tylerpharand@gmail.com>
+Icon: https://siieo.github.io/sileodepictions/Limelight/icon.png
+Name: Limelight
+Sileodepiction: https://siieo.github.io/sileodepictions/Limelight/Limelight.json
+
 Package: com.rpetrich.powercuff
 Version: 1.0
 Architecture: iphoneos-arm64

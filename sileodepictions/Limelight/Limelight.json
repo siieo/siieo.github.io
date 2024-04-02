@@ -1,0 +1,84 @@
+{
+   "class":"DepictionTabView",
+   "minVersion":"0.4",
+   "headerImage":"https://siieo.github.io/sileodepictions/Limelight/header.png",
+   "tintColor": "#8B0000",
+   "tabs":[
+      {
+         "class":"DepictionStackView",
+         "tabname":"Details",
+         "views":[
+            {
+               "class":"DepictionSubheaderView",
+               "title":"Limelight",
+               "useBoldText":true
+            },
+            {
+               "class":"DepictionScreenshotsView",
+               "itemCornerRadius":6,
+               "itemSize":"{300, 249}",
+               "screenshots":[
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://siieo.github.io/sileodepictions/Limelight/limelight-sample.png"
+                  }
+               ]
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"Description"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown":"Colorful glyphs for Anemone\n\n· 600+ icons\n· Regular + white glyphs\n· Small + large badges\n· Settings Icons\n· Folder icon masks\n· I recommend using a darker wallpaper\n· Respring to fix the clock + badges\n· Leave a tip if you'd like: [paypal.me/tyios](paypal.me/tyios) :)"
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"Information"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Version",
+               "text":"1.9.3"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Compatibility",
+               "text":"iOS 7.0 - 13.0 (unconfirmed)"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Dependencies",
+               "text":"Snowboard"
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"Changelog"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionLayerView",
+               "views":[
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"Initial release",
+                     "fontWeight":"bold",
+                     "fontSize":16
+                  }
+               ]
+            },
+            {
+               "class":"DepictionSeparatorView"
+            }
+         ]
+      }
+   ]
+}
