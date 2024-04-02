@@ -2,7 +2,7 @@
    "class":"DepictionTabView",
    "minVersion":"0.4",
    "headerImage":"https://siieo.github.io/sileodepictions/Limelight/header.png",
-   "tintColor": "#8B0000",
+   "tintColor": "#2596BE",
    "tabs":[
       {
          "class":"DepictionStackView",
