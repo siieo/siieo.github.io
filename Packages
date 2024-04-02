@@ -3563,6 +3563,25 @@ Tag: role::developer
 Author: Skitty
 Name: libskittycolor
 
+Package: lilliana.peepreborn
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 560
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./debs/lilliana.peepreborn_0.0.3_iphoneos-arm64.deb
+Size: 73682
+MD5sum: 31465093cfb5d0f54996a7b144cf2055
+SHA1: 432deea78568bf4090962c9f57a94a4ee6dc9d28
+SHA256: a5755b40c47b70eacf90881a50b775fe377046b318de64772263f4557fa73dfe
+Section: Tweaks
+Description: Hide your status bar with a tap
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/PeepReborn.json&name=PeepReborn&dev=Paisseon
+Icon: https://paisseon.github.io/icons/PeepReborn.png
+Name: Peep Reborn
+Sileodepiction: https://paisseon.github.io/depictions/PeepReborn.json
+
 Package: lilliana.reverie
 Version: 0.0.3
 Architecture: iphoneos-arm64
