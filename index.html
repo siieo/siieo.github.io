@@ -82,6 +82,24 @@
                 <button class="rainbow-button">Add to Saily</button>
             </a>
         </div>
+
+        <!-- Note for Roothide users and link with copy functionality -->
+        <p>If you are a Roothide user, Use the below repo</p>
+        <button class="rainbow-button" id="copy-link">siieo.github.io/roothide</button>
+        <p>Tap to copy the link</p>
+        <script>
+            // Script for copying the link when clicked
+            document.getElementById("copy-link").addEventListener("click", function() {
+                var link = document.getElementById("copy-link");
+                var tempInput = document.createElement("input");
+                tempInput.value = link.textContent;
+                document.body.appendChild(tempInput);
+                tempInput.select();
+                document.execCommand("copy");
+                document.body.removeChild(tempInput);
+                alert("Link copied: " + link.textContent);
+            });
+        </script>
     </div>
 </body>
 </html>
