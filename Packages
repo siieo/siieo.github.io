@@ -106,6 +106,38 @@ Description: Lower your notifications limit to any point you wish in your locksc
 Author: 0xkuj
 Name: LowerNotifs
 
+Package: com.aceruos.stacks
+Version: 1.1
+Architecture: iphoneos-arm64
+Filename: ./debs/com.aceruos.stacks_1.1_iphoneos-arm64.deb
+Size: 4049728
+MD5sum: ebcf3fa4e834834dbcac368753f1a5bf
+SHA1: ff8d8f50aaeb5f980015c9054c5ad5737e13ac56
+SHA256: 511401c63f5e21e4084b02817ff9d877d18a2304af93a5dbc0b7754680ad2ddc
+Section: Themes
+Description: A new outlook on your icons. — Stacks is currently in Public Beta. This means that there will be updates to the icons, as well as additions to icons. If you would like to request an icon, please join us on our discord at https://aceruos.co/
+Author: Mainsail
+Depiction: https://repo.dynastic.co/depiction/103943112753152000/
+Icon: https://repo-archive-cdn.dynastic.co/f7feddcbb96e78d08b47be396405e322.png_120.png
+Name: Stacks
+Sileodepiction: https://repo.dynastic.co/sileo-depiction/103943112753152000/
+
+Package: com.adams.eyeOS
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Filename: ./debs/com.adams.eyeOS_1.3.1_iphoneos-arm64.deb
+Size: 4773276
+MD5sum: 20c215348107968244f663242241688c
+SHA1: e0ab7beb0117b2570b560aa3519b1b396a9e7287
+SHA256: cd4f3abb76aa2409ebeb400ff31947328cb6366b2ae8c834918a832e899caa68
+Section: Themes
+Description: eyeOS, a new alternative to iOS. — As its name suggests, eyeOS is inspired by Apple's 'gradient design' with iOS 7 and has the sole role of extending it over as many of your applications as possible to make them all in perfect harmony.
+Author: Adam’s
+Depiction: https://repo.dynastic.co/depiction/292149928686256128/
+Icon: https://repo-archive-cdn.dynastic.co/2c6af86e3081d653e6066eab77ca67e1.png_120.png
+Name: eyeOS
+Sileodepiction: https://repo.dynastic.co/sileo-depiction/292149928686256128/
+
 Package: com.alazybrick.swisscheese
 Version: 1.5
 Architecture: iphoneos-arm64
@@ -1870,16 +1902,19 @@ Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: iVintageLover
 Filename: ./debs/com.ivintagelover.bigdeal_1.1_iphoneos-arm64.deb
-Size: 7268788
-MD5sum: 3cea8e64f5767854e616a77d68221964
-SHA1: a9434cd543ba1afa33d76ed1c7fd6d2fd4538b1d
-SHA256: 25c8e17fe7323868e4cd30562a173dbc90b3a81543a5275274a2474d99602a5e
+Size: 7268780
+MD5sum: efffa58580658ea8ec576448a4f5c582
+SHA1: 2a56244468f710471879b90fa1710e6eb63dc8ca
+SHA256: d5a0305e09fef9fa09b4efaa1675a81733f741b75e47e89b0542fd7f451f17a4
 Section: Themes
 Description: macOS Big Sur icons ported to iOS! Compatible with iPhone, iPad and iPod Touch. Any version of iOS. Apply using Anemone/SnowBoard
 Author: iVintageLover
 Banner: https://ivintagelover.github.io/repo/assets/com.ivintagelover.bigdeal/banner.png
 Icon: https://ivintagelover.github.io/repo/assets/com.ivintagelover.bigdeal/icon.png
+Moderndepiction: https://ivintagelover.github.io/repo/depiction/native/com.ivintagelover.bigdeal.json
 Name: Big Deal
+Sileodepiction: https://ivintagelover.github.io/repo/depiction/native/com.ivintagelover.bigdeal.json
+Tags: compatible_min::ios3.0, compatible_max::ios17.0
 
 Package: com.jakeashacks.realcc
 Version: 1.1
@@ -2320,6 +2355,23 @@ Section: Control Center (Modules)
 Description: Use your screen as a car HUD
 Author: NoisyFlake
 Name: WindowHUD
+
+Package: com.nwlandas.chroma
+Version: 1.2.2.5
+Architecture: iphoneos-arm64
+Maintainer: nwlandas
+Filename: ./debs/com.nwlandas.chroma_1.2.2.5_iphoneos-arm64.deb
+Size: 29493388
+MD5sum: 369d3e3593d9c2705605d1f7a4f75f09
+SHA1: ef575217ea1631bae3ad3aa469945e42d84134c8
+SHA256: eeb1872b3a19126555d1236088bd608a95c005c91897f23dc6e6b7d278c13f46
+Section: Themes
+Description: A vivid, gradient theme with a familiar feel. — About:
+Author: Lane Landas
+Depiction: https://repo.dynastic.co/depiction/332746325466546176/
+Icon: https://repo-archive-cdn.dynastic.co/ae41f4f24a045ac2c069e0dd8008b01f.png_120.png
+Name: Chroma
+Sileodepiction: https://repo.dynastic.co/sileo-depiction/332746325466546176/
 
 Package: com.p2kdev.fivedock13
 Version: 1.1
@@ -3042,6 +3094,43 @@ Description: Sends a notification when someone starts/stops typing on iMessage
 Author: thatmarcel
 Name: WritingWatcher
 
+Package: com.thenatis.Fayde
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: thenatis <wbraffman@gmail.com>
+Filename: ./debs/com.thenatis.Fayde_1.4_iphoneos-arm64.deb
+Size: 2527648
+MD5sum: 1fbae07d3c5202ee14f309e868c83eea
+SHA1: 3d6dca3e928a13b96472236f2d4ad2c35e616bb5
+SHA256: 2ad697af8d695d4a06f75f92dd478edab2e661150383f83affcdce7a8cf65a72
+Section: Themes
+Homepage: https://wbraffman.github.io/repo
+Description: A Fading iOS Theme!!
+Author: thenatis <wbraffman@gmail.com>
+Depiction: https://wbraffman.github.io/repo/depiction/web/com.thenatis.Fayde.html
+Icon: https://wbraffman.github.io/repo/assets/com.thenatis.Fayde/icon.png
+Moderndepiction: https://wbraffman.github.io/repo/depiction/native/com.thenatis.Fayde.json
+Name: Fayde
+Sileodepiction: https://wbraffman.github.io/repo/depiction/native/com.thenatis.Fayde.json
+
+Package: com.thenatis.libentis
+Version: 1.5.1
+Architecture: iphoneos-arm64
+Maintainer: Thenatis <thenatisthemes@gmail.com>
+Filename: ./debs/com.thenatis.libentis_1.5.1_iphoneos-arm64.deb
+Size: 10914748
+MD5sum: f26ee264fcd6a847ccf6442ce6a87aa4
+SHA1: faf13aca2355fe02373ff612ba092920b31fbd9c
+SHA256: 03dd8aab558c81634a882aec453f574b6585b0d1b2b6493dfd135333402fb9ec
+Section: Themes
+Homepage: https://thenatis.github.io/repo
+Description: A Cheerful theme that brings Joy to your device! — Libentis by Thenatis
+Author: Thenatis
+Depiction: https://repo.dynastic.co/depiction/271407344179478528/
+Icon: https://repo-archive-cdn.dynastic.co/9ec7b0ca4a5479f26736f54a86595688.png_120.png
+Name: Libentis
+Sileodepiction: https://repo.dynastic.co/sileo-depiction/271407344179478528/
+
 Package: com.tigisoftware.appdatamanager
 Version: 1.8.2-4
 Architecture: iphoneos-arm64
@@ -3134,6 +3223,42 @@ Icon: https://repo.packix.com/media/com.vladofficial.blankpass/icon.png
 Name: BlankPass
 Sileodepiction: https://repo.packix.com/depictions/com.vladofficial.blankpass/depiction.json
 
+Package: com.xandesign.CeramicPro
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: XerusDesign <unixdesignios@gmail.com>
+Filename: ./debs/com.xandesign.CeramicPro_1.1_iphoneos-arm64.deb
+Size: 5291424
+MD5sum: 547511a5b10c73d7ec5dc99ce5a383e0
+SHA1: ada65f7fb5cf4a5aac9135016121ced2b8a80e83
+SHA256: e0e70411b1e28c32d7d451c95deb22bae4f094130368a92213abbe457ec6442d
+Section: Themes
+Homepage: https://twitter.com/xerusdesign
+Description: When Old Clashes With New Professionally. — Ceramic Pro is when old iOS icon design clashes with new. It brings beloved aspects of old iOS design and fuses it with the simple & sharp design of modern iOS. Featuring vivid colours & super sha
+Author: xerusdesign
+Depiction: https://repo.dynastic.co/depiction/411276379129118720/
+Icon: https://repo-archive-cdn.dynastic.co/a860970f4137980d9f977a9c96bc5d77.png_120.png
+Name: Ceramic Pro
+Sileodepiction: https://repo.dynastic.co/sileo-depiction/411276379129118720/
+
+Package: com.xandesign.Nightlight
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: XerusDesign <unixdesignios@gmail.com>
+Filename: ./debs/com.xandesign.Nightlight_1.0.1_iphoneos-arm64.deb
+Size: 3303020
+MD5sum: 0ce5df6392b5e9e767fe567e84996a5e
+SHA1: d4fc2aa9da47b326dff10f5e8c5130cbd8bf2e2d
+SHA256: 443cf4f8a81060a8d23fc24629a9017cd6ea7de6a796f589c59d111536ace4b2
+Section: Themes
+Homepage: https://twitter.com/xerusdesign
+Description: Native-like Dark Mode for your HomeScreen.  — Nightlight is a true iOS-style Dark Mode theme for your device. It stays true to the Dark Mode style implemented in iOS 13 by using the same colours and styles. Nightlight uses the stock glyphs
+Author: xerusdesign
+Depiction: https://repo.dynastic.co/depiction/327884524513918976/
+Icon: https://repo-archive-cdn.dynastic.co/08f3b53c6a2a097ee9501f7a19cca8b2.png_120.png
+Name: Nightlight
+Sileodepiction: https://repo.dynastic.co/sileo-depiction/327884524513918976/
+
 Package: com.xelahot.xelahotagario
 Version: 1.3.4
 Architecture: iphoneos-arm64
@@ -3149,6 +3274,40 @@ Section: Tweaks
 Description: Xelahot mod menu for Agar.io for free!
 Author: xelahot
 Name: Xelahot - Agar.io (rootless)
+
+Package: com.xerusdesign.fondant
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: xerusdesign
+Filename: ./debs/com.xerusdesign.fondant_1.0_iphoneos-arm64.deb
+Size: 8705788
+MD5sum: 8f5167e3aebf5b9408e8ffc77f4df53f
+SHA1: 3c66475d11d4158f28a2b0709ee8e02b2b0eb0b5
+SHA256: 1f38e16b1f884860ad056b980673a4545e297eaa54e3351ab6eab1c5c118ee86
+Section: Themes
+Description: Cakes on your Home Screen! — Fondant is what the title suggests - Its like cakes on your homescreen. The cut out glyph design paired with the bold and vibrant gradients make for this one of a kind theme... but I didn't stop there. Adding th
+Author: xerusdesign
+Depiction: https://repo.dynastic.co/depiction/270672947801227264/
+Icon: https://repo-archive-cdn.dynastic.co/109465e0ecdb744dc105be0a5a1f81c9.png_120.png
+Name: Fondant
+Sileodepiction: https://repo.dynastic.co/sileo-depiction/270672947801227264/
+
+Package: com.yebecekic.beyaz
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: ./debs/com.yebecekic.beyaz_1.0_iphoneos-arm64.deb
+Size: 10314204
+MD5sum: 71f39fcaa2083dd2b24b3648a1e4f2e9
+SHA1: a3253ab0d8d692c2be9b326b6c35a0d30193360b
+SHA256: 8df052dd1d0cdab423376e2fcea575093715ff5a721bc0d77fa93bddb521ae61
+Section: Themes
+Priority: optional
+Description: White and black, in a different way. — 204 icons
+Author: Yusuf Berk Çekiç
+Depiction: https://repo.dynastic.co/depiction/410889989686034432/
+Icon: https://repo-archive-cdn.dynastic.co/31d08480d8e09bfabde7458df601d8e3.png_120.png
+Name: Beyaz
+Sileodepiction: https://repo.dynastic.co/sileo-depiction/410889989686034432/
 
 Package: com.yourepo.0xkuj.storeswitcher2rootless
 Version: 1.0.4
@@ -3180,6 +3339,22 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: maxiwee
 Name: NoPill
+
+Package: design.luminant.darkstacks
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Filename: ./debs/design.luminant.darkstacks_1.1.1_iphoneos-arm64.deb
+Size: 3665632
+MD5sum: 81f76de647834e272a670316f978002c
+SHA1: 414bfd66b6af7d4bf5c42324e2a5705affc248e3
+SHA256: 922c5a67433807857049ffd287b3460b764cf24f3ea4912429ce47fcb980e5a6
+Section: Themes
+Description: A darker outlook on your icons. — A darker outlook, now on your favorite theme.
+Author: Mainsail
+Depiction: https://repo.dynastic.co/depiction/190997714270420992/
+Icon: https://repo-archive-cdn.dynastic.co/9fa3e3ad782ed60fb75fd7cd69a623bc.png_120.png
+Name: DarkStacks
+Sileodepiction: https://repo.dynastic.co/sileo-depiction/190997714270420992/
 
 Package: dev.extbh.ccshutdown
 Version: 0.0.1
