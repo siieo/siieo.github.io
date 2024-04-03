@@ -1470,6 +1470,22 @@ Description: Removes Beta Expired Alerts
 Author: Hitori
 Name: NoBetaAlert
 
+Package: com.hitori.nosupervisionsign
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.hitori.nosupervisionsign_4.0_iphoneos-arm64.deb
+Size: 2526
+MD5sum: 05efe75ed6738b3426968a28303a3746
+SHA1: 800cc104036743508d05d9f714e7c54b50f965c8
+SHA256: 7f51c12bfed77be5eb8a30ca389aa707ba2b0b00da6a448e2049d98ae0ee5c2c
+Section: Tweaks
+Description: Removes "This iPhone is supervised" from Settings
+Author: Hitori
+Name: NoSupervisionSign
+
 Package: com.hitori.pressspring
 Version: 4.0
 Architecture: iphoneos-arm64
@@ -2814,6 +2830,22 @@ Section: Tweaks
 Description: Show a progress bar for downloading apps instead!
 Author: shepgoba
 Name: DownloadBar
+
+Package: com.shepgoba.settingswidgets
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: shepgoba
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.shepgoba.settingswidgets_1.2.3_iphoneos-arm64.deb
+Size: 73112
+MD5sum: 027515e2b64bde33c6ed50fda9f18e48
+SHA1: 619943a5e2039deeff8099b4e8d6589c25224ca4
+SHA256: f73caac05a4ea62031233e6dfae9b55d60537f5fba6519db8161ca866db2d5ae
+Section: Tweaks
+Description: Bring good looking widgets to the front page of settings!
+Author: shepgoba
+Name: SettingsWidgets
 
 Package: com.shiftcmdk.autoalerts
 Version: 1.0.2
