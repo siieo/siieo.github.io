@@ -2322,6 +2322,24 @@ Description: Corporative Sans Alt Font (85%)
 Author: Alexman1979
 Name: Corporative Sans Alt Font (85%)
 
+Package: com.nj174.notes
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: NJ174
+Installed-Size: 2220
+Depends: mobilesubstrate, firmware (>= 14)
+Filename: ./debs/Notes.deb
+Size: 1606032
+MD5sum: 465e1a906876ade78a33adffb8f09e26
+SHA1: a008139c0dc2505a9a9808a67ada0f63c8ddbc44
+SHA256: f35c55d6b0560103c916af5bb4e5169fb4327da965acc157df656b04df662a2f
+Section: Tweaks
+Description: Notes on lockscreeen.
+Author: SGWC
+Icon: https://nj174.github.io/assets/repo/TweakIcons/notes.png
+Name: Notes
+Sileodepiction: https://nj174.github.io/depictions/native/com.nj174.notes/depiction.json
+
 Package: com.noisyflake.networkmanager
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -3594,6 +3612,24 @@ Description: A simple color picker implementation.
 Tag: role::developer
 Author: Skitty
 Name: libskittycolor
+
+Package: libvolumeflex
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Tanner Bennett <tannerbennett@me.com>
+Installed-Size: 2844
+Pre-Depends: firmware (>= 9.0)
+Filename: ./debs/libvolumeflex_0.0.2_iphoneos-arm64.deb
+Size: 632364
+MD5sum: 1e72ee085151c22fb7264429a0c60430
+SHA1: db1a9bff6086226464b71ef640e28f239091bec8
+SHA256: 0f98bb56e78b3fba493d6b7fa875fd36f13cf1a52dc5e2b0be656fc431a0921f
+Section: Tweaks
+Description: A library for Flipboard Explorer.
+Author: Tanner Bennett <tannerbennett@me.com>
+Depiction: https://nscake.github.io/package.html?package=libflex
+Name: libVolumeFLEX
+Sileodepiction: https://nscake.github.io/depictions/libflex.sileo.json
 
 Package: lilliana.peepreborn
 Version: 0.0.3
