@@ -1910,18 +1910,18 @@ Sileodepiction: https://ivintagelover.github.io/repo/depiction/native/com.ivinta
 Tags: compatible_min::ios3.0, compatible_max::ios17.0
 
 Package: com.jakeashacks.realcc
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: Jake James
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/com.jakeashacks.realcc_1.1_iphoneos-arm64.deb
-Size: 5090
-MD5sum: ed0ace4f87093509e63341ea54c2258c
-SHA1: 63d5ed0b04415bc519010b6f523f434610a8a406
-SHA256: e4ae99725c789c9b769cb3da73ec32f711a99e2bb29a1d66065a727d2dff6455
+Filename: ./debs/com.jakeashacks.realcc_1.2_iphoneos-arm64.deb
+Size: 4738
+MD5sum: f996987eecc8f029a5d591c91bcfd849
+SHA1: c3d39636dc26a2baae3eb91f52b8170021931ec7
+SHA256: 946e41b4a77d34fa61f6f8bbcb8f9da810e863d4c69949ab1b6ed1b8f8ccbc27
 Section: Tweaks
-Description: Actually disable WiFI and Bluetooth from CC in iOS 11-16.
+Description: Actually disable WiFi and Bluetooth from CC in iOS 15-16.
 Author: Jake James
 Name: RealCC
 
