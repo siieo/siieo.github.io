@@ -491,29 +491,6 @@ Description: Double tap to flip camera
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 Name: TapTapFlip
 
-Package: com.creaturecoding.tweaksettings
-Version: 1.0.8
-Architecture: iphoneos-arm64
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Installed-Size: 592
-Depends: firmware (>= 15.0), preferenceloader | com.creaturecoding.preferred
-Filename: ./debs/com.creaturecoding.tweaksettings_1.0.8_iphoneos-arm64.deb
-Size: 294578
-MD5sum: da51718cba835312ec2b85eb9ae8a797
-SHA1: f801130ecb5b9269e3c26779195fde5fdebaf598
-SHA256: 443f48f55c214a8d53b5e6b949c51f9005cfe4f9f6b5c9273541c2a85125cf37
-Section: Applications
-Priority: optional
-Homepage: https://creaturecoding.com/
-Description: Dedicated settings app for tweaks
-Tag: purpose::application, compatible_min::ios10
-Author: CreatureSurvive <support@creaturecoding.com>
-Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
-Dev: CreatureSurvive
-Icon: file:///Applications/TweakSettings.app/icon_large.png
-Name: TweakSettings
-Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
-
 Package: com.dcproducts.colorbar15
 Version: 1.1.0
 Architecture: iphoneos-arm64
@@ -2898,70 +2875,6 @@ Author: SlyFabi
 Depiction: https://slyfabi.github.io/depictions/?p=com.slyfabi.blurryalerts
 Icon: file:///var/jb/Library/PreferenceBundles/BlurryAlerts.bundle/icon@3x.png
 Name: BlurryAlerts
-
-Package: com.spark.autounlockx
-Version: 1.1.0-rootless
-Architecture: iphoneos-arm64
-Maintainer: Spark
-Installed-Size: 416
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/1.1.0-rootless.deb
-Size: 63138
-MD5sum: c5f25e3b04928df98b4ff9b7db750fe0
-SHA1: ce1985399cc0436647311d49584aa726ba1ffce2
-SHA256: 9c422475cedc276aa2cc846d3ad40ecde2c71c87f0ad6af30b3bc4f5ec521524
-Section: Tweaks
-Description: Unless there are notifications, the device will automatically unlock when valid Face ID is detected
-Author: Spark
-Name: AutoUnlockX
-
-Package: com.spark.libsparkapplist
-Version: 1.1.0~rootless
-Architecture: iphoneos-arm64
-Maintainer: Spark
-Installed-Size: 408
-Filename: ./debs/com.spark.libsparkapplist_1.1.0~rootless_iphoneos-arm64.deb
-Size: 24834
-MD5sum: 0b8283166fd138011c971c9e466002c4
-SHA1: 986f8a4c07c63d9685b7fc61644dda220566438c
-SHA256: 3c99db2ec79f728826536bd55d2902c03c46ac995909c02b80c2fd5e9e8e812e
-Section: System
-Description: AppList alternative
-Tag: role::developer
-Author: Spark
-Name: libSparkAppList
-
-Package: com.spark.libsparkcolourpicker
-Version: 1.0.3-rootless
-Architecture: iphoneos-arm64
-Maintainer: Spark
-Installed-Size: 424
-Filename: ./debs/1.0.3-rootless.deb
-Size: 71040
-MD5sum: 2d6f2707d84e95f56a6f52402aa72996
-SHA1: f6d2f6acfe010b7c443f78921b490185f4ddd518
-SHA256: 22844b4abdd5bd37fa302ec6ce50c28948a7b88d3d363ae072e8bea081d025ad
-Section: System
-Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
-Tag: role::developer
-Author: Spark
-Name: libsparkcolourpicker
-
-Package: com.spark.libsparkmessage
-Version: 1.1.0~rootless
-Architecture: iphoneos-arm64
-Maintainer: Spark
-Installed-Size: 200
-Filename: ./debs/com.spark.libsparkmessage_1.1.0~rootless_iphoneos-arm64.deb
-Size: 8216
-MD5sum: 96a3fbfc6801b3858bfa6bf65972089e
-SHA1: cf7a814caf6c72b345b36bec99659b77aaaa49d3
-SHA256: def11abd6eab785384665d6988d23dc3471b3f60adce51b4347f87dedb7e6ffe
-Section: System
-Description: Super lightweight IPC messaging library
-Tag: role::developer
-Author: Spark
-Name: libSparkMessage
 
 Package: com.thatmarcel.tweaks.writingwatcher
 Version: 1.0.1
