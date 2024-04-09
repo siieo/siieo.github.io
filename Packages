@@ -2320,18 +2320,22 @@ Sileodepiction: https://nj174.github.io/depictions/native/com.nj174.notes/depict
 Package: com.noisyflake.cozybadges
 Version: 2.2-1
 Architecture: iphoneos-arm64
-Maintainer: NoisyFlake
+Maintainer: NoisyFlake <support@noisyflake.com>
 Installed-Size: 476
 Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.alderis
 Filename: ./debs/com.noisyflake.cozybadges_2.2-1_iphoneos-arm64.deb
-Size: 45866
-MD5sum: ba9fd4c93c75a10338a9c0f3b05c43ca
-SHA1: bc2b0d135acb2c5eaf32bc42e6f9d4233f3ad930
-SHA256: 29605d112e6fd55bc03cf2dd231bf4bdb55f5d18bb471c22dc64e90db8acddc4
+Size: 45960
+MD5sum: f2bb299875af94edb0ec7ed4b41bd653
+SHA1: 17460a93d9990ae526c9bcf3d5cb4cce97812215
+SHA256: 7371bf896ce7018ce561baa5ca859c1f8afa5b62cb44e94a9d478b8c092110a2
 Section: Tweaks
 Description: A cozy place for your badges
-Author: NoisyFlake
+Author: NoisyFlake <support@noisyflake.com>
+Depiction: https://chariz.com/buy/cozybadges
+Header: https://img.chariz.cloud/sileo-banner/cozybadges.jpg
+Icon: https://img.chariz.cloud/icon/cozybadges/icon@3x.png
 Name: CozyBadges
+Sileodepiction: https://chariz.com/api/sileo/package/com.noisyflake.cozybadges/depiction.json
 
 Package: com.noisyflake.networkmanager
 Version: 1.0.2
