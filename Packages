@@ -3504,6 +3504,23 @@ Description: Shake your phone to unhinge your icons!
 Author: Kritanta && Hitori
 Name: Gravitation
 
+Package: me.kritanta.pivot
+Version: 0.2.2
+Architecture: iphoneos-arm64
+Maintainer: Kritanta
+Installed-Size: 324
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./debs/me.kritanta.pivot_0.2.2_iphoneos-arm64.deb
+Size: 17022
+MD5sum: c21efbc1b09ee4287cc8cdca7ec578bf
+SHA1: 15a37f9d22ffe5ced018b5582db2c772ad4aa9f0
+SHA256: ad4d04cbd49271a53cf214f4ba4f8d4a4fb5cde1c40729399acffd9f1ff3940e
+Section: Tweaks
+Description: AutoRotate on the Home Screen on all devices
+Author: Kritanta
+Depiction: http://repo.kritanta.me/depictions/?id=me.kritanta.pivot
+Name: Pivot
+
 Package: me.luki.april
 Version: 3.1
 Architecture: iphoneos-arm64
