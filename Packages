@@ -1509,6 +1509,21 @@ Section: Fonts
 Author: Hitori
 Name: Apple Round Font iOS 16
 
+Package: com.hitori.shakelight
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.hitori.shakelight_1.0_iphoneos-arm64.deb
+Size: 3588
+MD5sum: 67f87685ee853527a72c9a16c44ced2a
+SHA1: 5c855926171f64782735346ec05337255f26d92f
+SHA256: 4cacd8c451a187bae7c060aa092fc22b5cb2936b772086c9f7d8e72417bdb994
+Description: Shake phone to activate flashlight
+Author: Hitori
+Name: ShakeLight
+
 Package: com.hitori.shakesafe
 Version: 4.0
 Architecture: iphoneos-arm64
