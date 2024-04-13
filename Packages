@@ -1495,6 +1495,22 @@ Description: Hide the Flashlight and the Camera button on the Lock screen
 Author: Hitori
 Name: Quick Actions Be Gone
 
+Package: com.hitori.reachcc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.hitori.reachcc_1.0_iphoneos-arm64.deb
+Size: 2944
+MD5sum: ba87c028c53ba60392e8f289cb23af3f
+SHA1: 94a9899d42cfdb241cb71938f3bdcfd4ec7bdc04
+SHA256: d6f0203ce82e87322def5671a9ac0a04771d0132b57bfd086aabdf954387b338
+Section: Tweaks
+Description: Enable Control Center via Reachability Gesture
+Author: Hitori
+Name: ReachCC
+
 Package: com.hitori.roundfont
 Version: 1.0
 Architecture: iphoneos-arm64
