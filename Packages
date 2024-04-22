@@ -1035,6 +1035,24 @@ Depiction: https://chariz.com/get/goji
 Icon: https://cdn.chariz.cloud/icon/goji/icon@3x.png
 Name: Goji
 
+Package: com.galacticdev.isponsorblock
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Maintainer: Galactic Dev
+Installed-Size: 668
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Filename: ./debs/com.galacticdev.isponsorblock_1.2.5_iphoneos-arm64.deb
+Size: 128324
+MD5sum: 4799351643fe75c529e3cbb10baff995
+SHA1: 68a95f65f14e781a9267b2caf877dbb6bffefbc0
+SHA256: 470561d4da3b0085fcc90ba0726c0cf6259efe2f3dc53c17a853852d6509805a
+Section: Tweaks
+Description: SponsorBlock port for iOS
+Author: Galactic Dev
+Depiction: https://galacticdev.me/iSponsorBlock
+Icon: https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/public/icons/LogoSponsorBlocker64px.png
+Name: iSponsorBlock
+
 Package: com.ginsu.classicalerts
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -3343,6 +3361,25 @@ Section: Tweaks
 Description: Basic tweak to change carrier text. iOS 13+
 Author: Kota
 Name: Basic Carrier
+
+Package: h.ryan.youtubereborn
+Version: 4.2.6
+Architecture: iphoneos-arm64
+Maintainer: Lillie
+Installed-Size: 24788
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Filename: ./debs/h.ryan.youtubereborn_4.2.6_iphoneos-arm64.deb
+Size: 8958256
+MD5sum: ec9b877a2685c6875661beaa4c746f02
+SHA1: f00a5473b4cf48e4de9b99bd527abb2c8b8d38d6
+SHA256: 9ae14f2b5d95f72294136de3cdb9bc74f61f161ffdd4f814adeb5289f9ed9b52
+Section: Tweaks
+Description: YouTube Customizer
+Author: Lillie
+Name: YouTube Reborn
 
 Package: jp.uzra.cleansuggest
 Version: 1.0-10+debug
