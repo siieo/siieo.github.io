@@ -1071,25 +1071,6 @@ Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.classicalerts/icon.png
 Name: ClassicAlerts
 Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.classicalerts.json
 
-Package: com.ginsu.dodo
-Version: 4.2.2-1
-Architecture: iphoneos-arm64
-Maintainer: Ginsu
-Installed-Size: 2176
-Depends: dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.comet, com.ginsu.gscore, com.ginsu.gsweather
-Filename: ./debs/com.ginsu.dodo_4.2.2-1_iphoneos-arm64.deb
-Size: 411306
-MD5sum: 00810a81b105d89347e65431e9c0002a
-SHA1: b024ca325880fdc138a7db5503f855c92514cf01
-SHA256: b36208246a7e59ccb657670eb058d72009f1a8ccb79c80b058be432f61d25e22
-Section: Tweaks
-Description: The perfect Lock Screen redesign.
-Author: Ginsu
-Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.dodo
-Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.dodo/icon.png
-Name: Dodo (Rootless)
-Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.dodo.json
-
 Package: com.ginsu.gscore
 Version: 1.0.4-1
 Architecture: iphoneos-arm64
