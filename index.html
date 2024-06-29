@@ -38,6 +38,7 @@
             justify-content: center;
             align-items: center;
             gap: 20px;
+            flex-wrap: wrap;
         }
 
         /* Rainbow gradient for the button */
@@ -51,6 +52,7 @@
             background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3);
             background-size: 600% 100%;
             animation: rainbow 10s linear infinite;
+            margin: 10px;
         }
 
         @keyframes rainbow {
@@ -84,9 +86,17 @@
         </div>
 
         <!-- Note for Roothide users and link with copy functionality -->
-        <p>If you are a Roothide user, Use the below repo</p>
+        <p>If you are a Roothide user, use the below repo</p>
         <button class="rainbow-button" id="copy-link">siieo.github.io/roothide</button>
         <p>Tap to copy the link</p>
+        
+        <!-- Donate button -->
+        <div class="button-container">
+            <a href="https://www.paypal.com/donate/?cmd=_donations&business=mikasa-san@outlook.jp&item_name=iOS%20Tweak%20Development" target="_blank">
+                <button class="rainbow-button">Donate</button>
+            </a>
+        </div>
+
         <script>
             // Script for copying the link when clicked
             document.getElementById("copy-link").addEventListener("click", function() {
