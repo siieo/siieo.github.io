@@ -1,3 +1,24 @@
+Package: ai.akemi.appsyncunified
+Version: 112.0
+Architecture: iphoneos-arm64
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 676
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.5.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Provides: appsync, net.angelxwind.appsyncunified
+Filename: ./debs/nodelete-rootless-ai.akemi.appsyncunified.deb
+Size: 49504
+MD5sum: 8c021dd4b7a708a879b3a3b60dab063b
+SHA1: 0bb7e3fe91b8034d229d268e33133eb727c247b7
+SHA256: 400913a5de0f78345e14ed3e05fedaacbf12bb280a443a2ca880e04396460e73
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Name: AppSync Unified
+
 Package: alias20.nofreeapplimit16
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -3344,19 +3365,19 @@ Author: Kota
 Name: Basic Carrier
 
 Package: h.ryan.youtubereborn
-Version: 4.2.6
+Version: 4.2.8
 Architecture: iphoneos-arm64
 Maintainer: Lillie
-Installed-Size: 24788
+Installed-Size: 24888
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx
 Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
 Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-Filename: ./debs/h.ryan.youtubereborn_4.2.6_iphoneos-arm64.deb
-Size: 8958256
-MD5sum: ec9b877a2685c6875661beaa4c746f02
-SHA1: f00a5473b4cf48e4de9b99bd527abb2c8b8d38d6
-SHA256: 9ae14f2b5d95f72294136de3cdb9bc74f61f161ffdd4f814adeb5289f9ed9b52
+Filename: ./debs/h.ryan.youtubereborn_4.2.8_iphoneos-arm64.deb
+Size: 9086520
+MD5sum: 3d9f147c4dfb9c005ac1f6ecfea4949b
+SHA1: fa4129f1bd93c6f474a11e8e34c04a9fd6ec39cd
+SHA256: 90018f209532eb373776be849b72d298f63cec7b60869069becd562fa782b62c
 Section: Tweaks
 Description: YouTube Customizer
 Author: Lillie
@@ -3486,16 +3507,16 @@ Author: Litten
 Name: Diary 📖
 
 Package: me.alfhaily.rocket
-Version: 3.8.24
+Version: 3.8.27
 Architecture: iphoneos-arm64
 Maintainer: Rocket App <support@getrocketapp.io>
 Installed-Size: 6588
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/me.alfhaily.rocket_3.8.24_iphoneos-arm64.deb
-Size: 1439568
-MD5sum: 3495747a7c5d24d6becff3c563b50b3c
-SHA1: ae78124d70059c2681c20c77521ed639850af3dc
-SHA256: 6d492272efd013843bc7da8ff444d93af5aeffcfe24e3f8a28141cc91a3ea313
+Filename: ./debs/me.alfhaily.rocket_3.8.27_iphoneos-arm64.deb
+Size: 1439704
+MD5sum: e92b5da574a6237086b93da9fa10f4a6
+SHA1: 220523d7333dd090989ae8681eaa41ba10bc6b85
+SHA256: 346024237eb52eeaa877d988aee89011280abf002a1f0eb6e58867a2a93450bc
 Section: Tweaks
 Priority: optional
 Description: Save posts and view stories anonymously and do much more
