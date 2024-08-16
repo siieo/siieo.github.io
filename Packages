@@ -1404,6 +1404,23 @@ Icon: https://siieo.github.io/sileodepictions/Fonts/icon.png
 Name: Meloso (85)
 Sileodepiction: https://siieo.github.io/sileodepictions/Fonts/Meloso/Meloso.json
 
+Package: com.hitori.melosoclock
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: mobilesubstrate, firmware (>= 15.0), com.spark.snowboard.fonts
+Filename: ./debs/com.hitori.melosoclock_4.0_iphoneos-arm64.deb
+Size: 157852
+MD5sum: 2fa56bda91e019daab39b0a21d7eba74
+SHA1: dccfa4c31e68cb72b89344353dd0cf4c438d56a4
+SHA256: bf6e4bd8f229daacbc6944b90522ea4641ffd91126894107c4c449525e429224
+Section: Fonts
+Description: Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.
+Author: Alexman
+Icon: https://siieo.github.io/sileodepictions/Fonts/icon.png
+Name: Meloso Clock
+Sileodepiction: https://siieo.github.io/sileodepictions/Fonts/Meloso/Meloso.json
+
 Package: com.hitori.mikhak100
 Version: 4.0
 Architecture: iphoneos-arm64
