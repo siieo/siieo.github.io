@@ -550,6 +550,24 @@ Icon: https://repo.packix.com/media/com.dpkg.ipadswitcher/icon.png
 Name: iPadSwitcher
 Sileodepiction: https://repo.packix.com/depictions/com.dpkg.ipadswitcher/depiction.json
 
+Package: com.dvntm.ytlite
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 604
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_3.0.1_iphoneos-arm64.deb
+Size: 150516
+MD5sum: 6d96727d95e857e04f234598e25c212a
+SHA1: afc08185009722cbe8fb3f454ef5da0c1e6dc27f
+SHA256: e7ee7b6df16a5dbd169155a68f97d9545093ede5db1f7b78bf85f02741254256
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
 Package: com.ethn.mirage
 Version: 1.9
 Architecture: iphoneos-arm64
@@ -3524,16 +3542,16 @@ Author: Litten
 Name: Diary 📖
 
 Package: me.alfhaily.rocket
-Version: 3.8.27
+Version: 3.8.29
 Architecture: iphoneos-arm64
 Maintainer: Rocket App <support@getrocketapp.io>
 Installed-Size: 6588
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/me.alfhaily.rocket_3.8.27_iphoneos-arm64.deb
-Size: 1439704
-MD5sum: e92b5da574a6237086b93da9fa10f4a6
-SHA1: 220523d7333dd090989ae8681eaa41ba10bc6b85
-SHA256: 346024237eb52eeaa877d988aee89011280abf002a1f0eb6e58867a2a93450bc
+Filename: ./debs/me.alfhaily.rocket_3.8.29_iphoneos-arm64.deb
+Size: 1440194
+MD5sum: 87a578de734b7b747a0d2fbe94ee599d
+SHA1: 00206a025408168c1db672e39a43fec2cba9b877
+SHA256: cee17daae639a841e518d58692f502ea624655edf54142e7b4c7f46887e26099
 Section: Tweaks
 Priority: optional
 Description: Save posts and view stories anonymously and do much more
