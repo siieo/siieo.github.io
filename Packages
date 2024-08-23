@@ -557,10 +557,10 @@ Maintainer: dvntm
 Installed-Size: 604
 Depends: mobilesubstrate
 Filename: ./debs/com.dvntm.ytlite_3.0.1_iphoneos-arm64.deb
-Size: 150516
-MD5sum: 6d96727d95e857e04f234598e25c212a
-SHA1: afc08185009722cbe8fb3f454ef5da0c1e6dc27f
-SHA256: e7ee7b6df16a5dbd169155a68f97d9545093ede5db1f7b78bf85f02741254256
+Size: 149572
+MD5sum: 9cce7abe5ab62c5460b82aabd8a540dd
+SHA1: 4b67e227ca03198e2aaea28eded2b7fdd043b658
+SHA256: 6f91c83f17e231a3f5191dd9ee7589dfcace0eef67cee66ebef32f74a3109459
 Section: Tweaks
 Description: Lightweight YouTube Enhancer
 Author: dvntm
