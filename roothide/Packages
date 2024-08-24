@@ -1749,22 +1749,6 @@ Description: A Vibrant Theme to Light up Your Device!
 Author: Thenatis
 Name: Vivacity
 
-Package: com.tigisoftware.filza64bit
-Version: 4.0.1-5~roothide
-Architecture: iphoneos-arm64e
-Maintainer: TIGI Software
-Depends: zip, unzip, gzip, p7zip, unrar, xz-utils, roothide.patches.filza
-Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
-Filename: ./debs/com.tigisoftware.filza64bit_4.0.1-5~roothide_iphoneos-arm64e.deb
-Size: 7236728
-MD5sum: 1b093f0014dfee887a8145e7984c426d
-SHA1: 65024dccbf799c4bc77df4519de7db637d169423
-SHA256: b2b799a870ae81438abe3504f0872c56e04ffaa9dcb4eb094b7ddde297480239
-Section: Utilities
-Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
-Author: TIGI Software
-Name: Filza File Manager 64-bit
-
 Package: com.tomaszpoliszuk.applibrarydisabler
 Version: 1.1.1
 Architecture: iphoneos-arm64e
@@ -2317,22 +2301,6 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=org.the
 Icon: https://p2kdev.github.io/repo/api/packageinfo/org.thebigboss.libcolorpicker/icon.png
 Name: libcolorpicker (Unofficial)
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/org.thebigboss.libcolorpicker.json
-
-Package: roothide.patches.filza
-Version: 0.1-12
-Architecture: iphoneos-arm64e
-Maintainer: roothide
-Installed-Size: 360
-Depends: com.roothide.patchloader
-Filename: ./debs/roothide.patches.filza_0.1-12_iphoneos-arm64e.deb
-Size: 43940
-MD5sum: b35678e65fd04d05872d0aed1a9cf539
-SHA1: e805af8c9f75bfbc0e888b0b9b847ea6edab0452
-SHA256: f6bd6226c81b02b36ef553be0085f11e6eca9ef75b6c8fb78365a35ef2189f01
-Section: RootHide Patches
-Description: RootHide Dynamic Patches For Filza
-Author: roothide
-Name: Patches for Filza 64bit
 
 Package: weeb.lillie.accentcustom
 Version: 2.2.4~nezuko
