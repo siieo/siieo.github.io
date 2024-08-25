@@ -1094,26 +1094,6 @@ Depiction: https://chariz.com/buy/velvet-2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Name: Velvet 2
 
-Package: com.opa334.ccsupport
-Version: 1.3.12
-Architecture: iphoneos-arm64e
-Maintainer: opa334
-Installed-Size: 560
-Depends: mobilesubstrate, firmware (>=11.0)
-Conflicts: com.ioscreatix.silo
-Replaces: com.ioscreatix.silo
-Provides: com.ioscreatix.silo
-Filename: ./debs/com.opa334.ccsupport_1.3.12_iphoneos-arm64e.deb
-Size: 56458
-MD5sum: 05a73a57e838cfc746fb153b46c1aae4
-SHA1: cb417895a2077a161955ed53d2f1a45d106c24e6
-SHA256: a833a838e5db19e12da263fa8405b5a0a0b106d2322f0c3a304913db24ca01a3
-Section: Tweaks
-Description: Support tweak for CC modules!
-Author: opa334
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
-Name: CCSupport
-
 Package: com.p2kdev.waqt
 Version: 1.3
 Architecture: iphoneos-arm64e
@@ -1163,25 +1143,6 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/blurrybadges.html
 Name: BlurryBadges (iOS 14+)
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/blurrybadges.json
-
-Package: com.ps.cconandoff
-Version: 1.1.1
-Architecture: iphoneos-arm64e
-Maintainer: PoomSmart
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Conflicts: com.jakeashacks.realcc
-Filename: ./debs/com.ps.cconandoff_1.1.1_iphoneos-arm64e.deb
-Size: 3768
-MD5sum: 6a3d92f6199347cfaeb84d213548599d
-SHA1: 2e75994e01541df2883c09211da4ad2db9eca40e
-SHA256: c738305991b92382702881da05a6996f09f349d39ddbe662133c1758c67a3ea5
-Section: Tweaks
-Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+).
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
-Name: CC On & Off
-Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
 
 Package: com.ps.emojiattributes
 Version: 1.8.0~b1
@@ -2406,29 +2367,6 @@ Moderndepiction: https://alo.works/depiction/native/works.alo.fonts.mikhak85.jso
 Name: Mikhak Font (85%)
 Sileodepiction: https://alo.works/depiction/native/works.alo.fonts.mikhak85.json
 Tags: compatible_min::ios14.0, compatible_max::ios16.6
-
-Package: ws.hbang.alderis
-Version: 1.2.3.1
-Architecture: iphoneos-arm64e
-Maintainer: HASHBANG Productions <support@hbang.ws>
-Installed-Size: 6016
-Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), uikittools
-Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
-Provides: org.thebigboss.libcolorpicker (= 99.0), me.nepeta.libcolorpicker (= 99.0)
-Filename: ./debs/ws.hbang.alderis_1.2.3.1_iphoneos-arm64e.deb
-Size: 327824
-MD5sum: cf6102ceff9613f2cd525602f01c8db2
-SHA1: 8a43f1211a6485d21febb48f66b1bc9c23cdd1bd
-SHA256: 228517fb9c36384105a73fb9a94efc145562a440651c0dc6926926378e1713ea
-Section: Development
-Description: Color picker support library for tweaks
-Tag: role::developer, compatible_min::ios12.0
-Author: HASHBANG Productions <support@hbang.ws>
-Depiction: https://chariz.com/get/alderis
-Dev: hbang
-Icon: https://img.chariz.cloud/icon/alderis/icon@3x.png
-Name: Alderis Color Picker
-Support: https://hashbang.productions/support/
 
 Package: xyz.skitty.spectrum
 Version: 1.1.1
