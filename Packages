@@ -551,16 +551,16 @@ Name: iPadSwitcher
 Sileodepiction: https://repo.packix.com/depictions/com.dpkg.ipadswitcher/depiction.json
 
 Package: com.dvntm.ytlite
-Version: 4.0.1
+Version: 5.0
 Architecture: iphoneos-arm64
 Maintainer: dvntm
-Installed-Size: 15596
+Installed-Size: 16088
 Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.ytlite_4.0.1_iphoneos-arm64.deb
-Size: 5830388
-MD5sum: 16ecf76fec228ac2e49cb69fee4232ef
-SHA1: 41bbd7e6db964253d3991ae9d005126d482de28f
-SHA256: 14491bcaafde39f623dfc5080b05725788ad5a587bf365d4de532ddbd0f50462
+Filename: ./debs/com.dvntm.ytlite_5.0_iphoneos-arm64.deb
+Size: 6082342
+MD5sum: b64c5f0fa8f80a462c56bb57c402dfea
+SHA1: e4bb3789d2191c54e93b94ea5495addac0e40b55
+SHA256: 18136bd45cba62699fc1e14ac910fa17ebf33cf3a9f338e19f90f89e586605db
 Section: Tweaks
 Description: Lightweight YouTube Enhancer
 Author: dvntm
