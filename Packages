@@ -316,6 +316,25 @@ Name: pp battery
 Sileodepiction: https://thealphastream.github.io/repo/depiction/native/com.alphastream.ppbattery.json
 Tags: compatible_min::ios12.0, compatible_max::ios16.6
 
+Package: com.amywhile.aemulo
+Version: 2.0-dd2a2db
+Architecture: iphoneos-arm64
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 1968
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.amywhile.aemulo_2.0-dd2a2db_iphoneos-arm64.deb
+Size: 538088
+MD5sum: 4590fc7d02e36dc256d926ad05f67896
+SHA1: 124ad8ffd0ed399856fe6375ea3bb3718e80cc6f
+SHA256: 38d5b32cee94725b3e1ec6889ee8c2b4a95b049e31694c99f2aa9080737fce88
+Section: Tweaks
+Description: NFC Frickery
+Author: Amy While <support@anamy.gay>
+Header: https://elihwyma.github.io/Aemulo/assets/Depiction-Header.png
+Icon: https://elihwyma.github.io/Aemulo/assets/Icon.png
+Name: Aemulo
+Native-Depiction: https://elihwyma.github.io/Aemulo/NativeDepiction.json
+
 Package: com.anthopak.addtofolder-rootless
 Version: 1.4
 Architecture: iphoneos-arm64
@@ -551,16 +570,16 @@ Name: iPadSwitcher
 Sileodepiction: https://repo.packix.com/depictions/com.dpkg.ipadswitcher/depiction.json
 
 Package: com.dvntm.ytlite
-Version: 5.0
+Version: 5.0.2
 Architecture: iphoneos-arm64
 Maintainer: dvntm
-Installed-Size: 16088
+Installed-Size: 16140
 Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.ytlite_5.0_iphoneos-arm64.deb
-Size: 6082342
-MD5sum: b64c5f0fa8f80a462c56bb57c402dfea
-SHA1: e4bb3789d2191c54e93b94ea5495addac0e40b55
-SHA256: 18136bd45cba62699fc1e14ac910fa17ebf33cf3a9f338e19f90f89e586605db
+Filename: ./debs/com.dvntm.ytlite_5.0.2_iphoneos-arm64.deb
+Size: 6099626
+MD5sum: 0e980aabb1450344e5c83059d4015d6c
+SHA1: 51a039c64fc396cb18bfa31be88087f140ee8616
+SHA256: 7fa04949c8c7bb0ab2181c47da8392c877d7a702cd871e8cccd7cab297e132e7
 Section: Tweaks
 Description: Lightweight YouTube Enhancer
 Author: dvntm
