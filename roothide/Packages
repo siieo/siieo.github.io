@@ -943,7 +943,7 @@ Architecture: iphoneos-arm64e
 Maintainer: Muirey03
 Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.muirey03.libimagepicker_1.0.4_iphoneos-arm64e-1.deb
+Filename: ./debs/com.muirey03.libimagepicker_1.0.4_iphoneos-arm64e.deb
 Size: 12108
 MD5sum: 1d84ad907d9dc80655fb2aa0c892c546
 SHA1: 2265b3044a4222995a1d65c8a43fde21c01ab66d
