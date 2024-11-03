@@ -100,6 +100,22 @@ Description: A tweak to add app spoofing capabilities right from your 3D menu an
 Author: 0xkuj
 Name: 3DAppVersionSpoofer
 
+Package: com.34306.watched
+Version: 1.1-10+debug
+Architecture: iphoneos-arm64e
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.34306.watched_1.1_roothide_iphoneos-arm64e.deb
+Size: 5792
+MD5sum: b133709066391ab7b0cd97ec759d74d2
+SHA1: 3d52afa5f0d3243ebd360e893636dbbb96ebaf4a
+SHA256: 5fcdf7ead8d2c005a4855538828c94a448442af0c51a402594d4c598f0f47d5d
+Section: Tweaks
+Description: Paired your Apple Watch on new watchOS with older iOS
+Author: 34306
+Name: watched
+
 Package: com.4nni3.coolcc
 Version: 1:4.0
 Architecture: iphoneos-arm64e
@@ -374,6 +390,24 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Quicksand (iOS14)
 Sileodepiction: https://evynw.github.io/sileo/fontquicksand14.json
 
+Package: com.f0u4d.watusitools
+Version: 2.4.40
+Architecture: iphoneos-arm64e
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Conflicts: org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.wtspatch, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921, xyz.cypwn.freegram951473, xyz.cypwn.freegram572029, xyz.cypwn.getfouaded
+Filename: ./debs/com.f0u4d.watusitools_2.4.40_iphoneos-arm64e.deb
+Size: 6100004
+MD5sum: 627d3c74dcd46dd913d9afb7b03a8bbb
+SHA1: 0a6242cbb7ff59fc474b91f91c09b78c9df025cb
+SHA256: 1081a3dd1ac71f41d41b7aade93939fa3fe4c98c32daed387e0e34e6c6cd819e
+Section: Development
+Description: Library for Watusi, Regram and other tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+
 Package: com.fiore.ccborder
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -390,6 +424,26 @@ Description: Simple tweak that removes module background and adds a border, just
 Author: fiore
 Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fiore.ccborder/icon.png
 Name: CCBorder
+
+Package: com.fouadraheb.watusi3
+Version: 1.2.44
+Architecture: iphoneos-arm64e
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6688
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.wtspatch, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debs/com.fouadraheb.watusi3_1.2.44_iphoneos-arm64e.deb
+Size: 2389306
+MD5sum: 07a7354173e2ca316aee60a551386a5a
+SHA1: 0504129182623a853099cb3e24e15c9e02005b13
+SHA256: a531407b88eae354710865ba7b5886e6bd088fdc1b38eababee6a248893c8848
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+Name: Watusi 3 for WhatsApp
 
 Package: com.furawa.parousia
 Version: 1.4
@@ -882,6 +936,23 @@ Section: Tweaks
 Description: Control Center module to view time since boot
 Author: MTAC
 Name: Uptime
+
+Package: com.muirey03.libimagepicker
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: Muirey03
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.muirey03.libimagepicker_1.0.4_iphoneos-arm64e-1.deb
+Size: 12108
+MD5sum: 1d84ad907d9dc80655fb2aa0c892c546
+SHA1: 2265b3044a4222995a1d65c8a43fde21c01ab66d
+SHA256: f5ff184c44c8b0f753940e1e79cb0ea3cd06539acffb91149336c3475871f275
+Section: Development
+Description: A simple library for choosing images in preference bundles.
+Tag: role::developer
+Author: Muirey03
+Name: libimagepicker
 
 Package: com.nahtedetihw.artfull
 Version: 1.2
@@ -1438,6 +1509,23 @@ Description: Simple to implement, simple to use colour picker library. Built by 
 Tag: role::developer
 Author: Spark
 Name: libsparkcolourpicker
+
+Package: com.spark.libsparkmessage
+Version: 1.1.0~rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.spark.libsparkmessage_1.1.0~rootless_iphoneos-arm64e.deb
+Size: 9374
+MD5sum: 51b8277beaaba7bdd1cf7e0706a00a0c
+SHA1: e0ee5f8962bad0900cb966df71fe683b14ebb8ee
+SHA256: a6bc5aab0ba0286d53f43df8fa7b3106e941654fb012f566c11cb9e870add20e
+Section: System
+Description: Super lightweight IPC messaging library
+Tag: role::developer
+Author: Spark
+Name: libSparkMessage
 
 Package: com.spark.lowbatterybanner
 Version: 1.0.2
@@ -2243,6 +2331,25 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=org.the
 Icon: https://p2kdev.github.io/repo/api/packageinfo/org.thebigboss.libcolorpicker/icon.png
 Name: libcolorpicker (Unofficial)
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/org.thebigboss.libcolorpicker.json
+
+Package: ru.domo.cocoatop64
+Version: 2.2.4
+Architecture: iphoneos-arm64e
+Maintainer: Hitori
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0)
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/ru.domo.cocoatop64_2.2.4_iphoneos-arm64e.deb
+Size: 174232
+MD5sum: f6662cbf1b211ddc7e61b11c5a4d85da
+SHA1: 39dcc3f0da013973eec8dbfa072c1b3083ec9a6f
+SHA256: 1b3a70053dc6c6a90cd0ebfd13d56e7ad16969713d61e8d370ffd0773a965fd7
+Section: Utilities
+Description: Process Viewer for iOS
+Author: Domo <domo@rambler.ru>
+Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
+Name: CocoaTop64
+Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
 Package: weeb.lillie.accentcustom
 Version: 2.2.4~nezuko
