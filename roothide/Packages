@@ -391,17 +391,17 @@ Name: Quicksand (iOS14)
 Sileodepiction: https://evynw.github.io/sileo/fontquicksand14.json
 
 Package: com.f0u4d.watusitools
-Version: 2.4.40
+Version: 2.4.41
 Architecture: iphoneos-arm64e
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
 Conflicts: org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.wtspatch, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921, xyz.cypwn.freegram951473, xyz.cypwn.freegram572029, xyz.cypwn.getfouaded
-Filename: ./debs/com.f0u4d.watusitools_2.4.40_iphoneos-arm64e.deb
-Size: 6100004
-MD5sum: 627d3c74dcd46dd913d9afb7b03a8bbb
-SHA1: 0a6242cbb7ff59fc474b91f91c09b78c9df025cb
-SHA256: 1081a3dd1ac71f41d41b7aade93939fa3fe4c98c32daed387e0e34e6c6cd819e
+Filename: ./debs/com.f0u4d.watusitools_2.4.41_iphoneos-arm64e.deb
+Size: 6103370
+MD5sum: b5cbe64d34f187a3dc16b1d72d5d4198
+SHA1: c3361328701214e0395e4e7b65317260515d12e4
+SHA256: fb878770311cece35fa3685584bacace8329048ba50cf389443b5e8d77731aa5
 Section: Development
 Description: Library for Watusi, Regram and other tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -426,18 +426,18 @@ Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fior
 Name: CCBorder
 
 Package: com.fouadraheb.watusi3
-Version: 1.2.44
+Version: 1.2.46
 Architecture: iphoneos-arm64e
 Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6688
+Installed-Size: 6704
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.41)
 Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.wtspatch, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
-Filename: ./debs/com.fouadraheb.watusi3_1.2.44_iphoneos-arm64e.deb
-Size: 2389306
-MD5sum: 07a7354173e2ca316aee60a551386a5a
-SHA1: 0504129182623a853099cb3e24e15c9e02005b13
-SHA256: a531407b88eae354710865ba7b5886e6bd088fdc1b38eababee6a248893c8848
+Filename: ./debs/com.fouadraheb.watusi3_1.2.46_iphoneos-arm64e.deb
+Size: 2392322
+MD5sum: 240444fbaafb62728d1af1113797ba3d
+SHA1: ced8b26b30007b0f3842a43a1ac716c5f2b48131
+SHA256: 3b87f8d52df677cae02b314a55d2c3817e20d655e34bebd6d93deb36f1babda0
 Section: Tweaks
 Description: The all-in-one tweak for WhatsApp Messenger
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -1342,6 +1342,43 @@ Section: Tweaks
 Description: Ensure WhatsApp recognizes the latest emojis.
 Author: PoomSmart
 Name: WhatsAllEmojis
+
+Package: com.ps.ytabgoodies
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.ps.youremembercaption, com.ps.ytsystemappearance, com.ps.youarethere
+Filename: ./debs/com.ps.ytabgoodies_1.0.5_iphoneos-arm64e.deb
+Size: 2624
+MD5sum: e2aad0941940670fe66dfaa87676e61f
+SHA1: ddc423dd27559bf99ebebfff55f3cfff9315655f
+SHA256: 0dd53284161b689e29590ae6c50326643efc84717e6d692ea8d990170997f07d
+Section: Tweaks
+Description: Enforce useful YouTube features that are otherwise 50/50 available to you.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytabgoodies.html
+Name: YTABGoodies
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/ytabgoodies.json
+
+Package: com.ps.ytx
+Version: 1.7.5
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/com.ps.ytx_1.7.5_iphoneos-arm64e.deb
+Size: 5074
+MD5sum: 4e167fc64815739964c9aad93b83160b
+SHA1: d3e9398f2ac7942f75a39c8d23981e340e3323c7
+SHA256: 80dc885b32c18d4bb704d3401870fa9688a136a7c3e009acc9a3032118a27eb3
+Section: Tweaks
+Description: A lightweight YouTube improvement tweak.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
+Name: YouTube X
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
 
 Package: com.rowandesign.morandi
 Version: 1.1.0
