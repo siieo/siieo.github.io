@@ -1369,10 +1369,10 @@ Maintainer: PoomSmart
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
 Filename: ./debs/com.ps.ytx_1.7.5_iphoneos-arm64e.deb
-Size: 5074
-MD5sum: 4e167fc64815739964c9aad93b83160b
-SHA1: d3e9398f2ac7942f75a39c8d23981e340e3323c7
-SHA256: 80dc885b32c18d4bb704d3401870fa9688a136a7c3e009acc9a3032118a27eb3
+Size: 5148
+MD5sum: 90a84bea657632915e32bd0a678f3e6c
+SHA1: 7219ac9d146199ce243faec4f89e33224ee70ee3
+SHA256: 6f9df9af8338933f6e171ea5c59b7a80e6e7d191dcb3257a6cba77a448d31bde
 Section: Tweaks
 Description: A lightweight YouTube improvement tweak.
 Author: PoomSmart
