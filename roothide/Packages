@@ -2256,6 +2256,26 @@ Depiction: https://chariz.com/get/atria
 Icon: https://img.chariz.cloud/icon/atria/icon@3x.png
 Name: Atria
 
+Package: me.luki.april
+Version: 3.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Luki
+Installed-Size: 824
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings
+Filename: ./debs/me.luki.april_3.1-1_iphoneos-arm64e.deb
+Size: 391176
+MD5sum: 9033da49fee88285ad78709d224f2f96
+SHA1: 07211103338569ffd0d156f8c35542d60a51175b
+SHA256: d7a576d7f36136ecbb8882f0c5d14813ab65c34dfff1244f92461e8d74ea9e14
+Section: Tweaks
+Description: Augment your settings app aesthetics to the next level on the fly
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.april
+Icon: https://raw.githubusercontent.com/Luki120/April/main/AprilPrefs/Resources/Assets/AprilIcon.png
+Name: April
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.april/depiction.json
+
 Package: me.luki.zaire
 Version: 0.9.0
 Architecture: iphoneos-arm64e
