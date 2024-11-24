@@ -900,18 +900,18 @@ Author: Mikasa
 Name: Wowza
 
 Package: com.mrgcgamer.libgcuniversal
-Version: 1.6.4
+Version: 1.7.0
 Architecture: iphoneos-arm64e
 Maintainer: MrGcGamer
-Installed-Size: 296
-Pre-Depends: rootless-compat(>= 0.1)
+Installed-Size: 380
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
 Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
-Filename: ./debs/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm64e.deb
-Size: 42452
-MD5sum: 9432a13b9f5677cde66c03c4f1304321
-SHA1: 2df4c1407471e4a85b3682bd3b65bd5bc59e164e
-SHA256: 77e8ed4c3e3a1f149861697553f2e80ce41fdf47a646c2396d5bc9fb1726a45f
+Filename: ./debs/com.mrgcgamer.libgcuniversal_1.7.0_iphoneos-arm64e.deb
+Size: 53132
+MD5sum: 4602f39dcc3b6395fef42ebfd2c3b381
+SHA1: 5eaca9bad03c395d8b31d87cb027ed721d5de5a2
+SHA256: fd0a42627aac8d65ed597c94a54930ba6c9cd253a75753425981beadf2f1e838
 Section: Development
 Description: An awesome library of some sort!!
 Tag: role::developer
