@@ -132,6 +132,23 @@ Description: Makes ControlCenter cool.
 Author: 4nni3 <4nni3.14@gmail.com>
 Name: CoolCC
 
+Package: com.apple.Terminal
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: Hitori
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.apple.Terminal_1.5_iphoneos-arm64e.deb
+Size: 925764
+MD5sum: ba597c64e02fc6786abe5f231860b5d7
+SHA1: f642b54cb774b53863d7e138ae191ad782ef2fb4
+SHA256: 6d0c52576fe5a3a6b5f03d04f6f1f63edebb5dcaa039d81ba3ba85808fcc900d
+Section: Utilities
+Description: Apple Terminal
+Author: Hitori
+Icon: https://siieo.github.io/sileodepictions/Terminal/icon.png
+Name: Terminal
+Sileodepiction: https://siieo.github.io/sileodepictions/Terminal/Terminal.json
+
 Package: com.bousrih.violaWhite
 Version: 1.8
 Architecture: iphoneos-arm64e
@@ -391,17 +408,17 @@ Name: Quicksand (iOS14)
 Sileodepiction: https://evynw.github.io/sileo/fontquicksand14.json
 
 Package: com.f0u4d.watusitools
-Version: 2.4.44
+Version: 2.4.46
 Architecture: iphoneos-arm64e
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
-Conflicts: org.mr.watusitools, com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47), org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.wtspatch, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921, xyz.cypwn.freegram951473, xyz.cypwn.freegram572029, xyz.cypwn.getfouaded
-Filename: ./debs/com.f0u4d.watusitools_2.4.44_iphoneos-arm64e.deb
-Size: 6517800
-MD5sum: f007923b2a98c943591a98f44caf9887
-SHA1: 7521fce119886665843c03b12ff2dd782c37b0f1
-SHA256: 3a36595686b88e6b6e6574dcb3a5a7de5da8e9715f8ca8b6ab5ca3decb0eed8d
+Conflicts: org.mr.watusitools, com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47), org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921, xyz.cypwn.freegram951473, xyz.cypwn.freegram572029, xyz.cypwn.getfouaded, xyz.cypwn.wtspatch
+Filename: ./debs/com.f0u4d.watusitools_2.4.46_iphoneos-arm64e.deb
+Size: 4873644
+MD5sum: 062ebd62550db862f3e841d9316c63a5
+SHA1: bbfe4b0ece509c82c46acbd031affc9242839a6e
+SHA256: 7b75514f8db4406885778bc5e68f479301f169e8d1665a34899ea293ea82c82d
 Section: Development
 Description: Library for Watusi, Regram and other tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
