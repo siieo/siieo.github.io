@@ -149,6 +149,22 @@ Icon: https://siieo.github.io/sileodepictions/Terminal/icon.png
 Name: Terminal
 Sileodepiction: https://siieo.github.io/sileodepictions/Terminal/Terminal.json
 
+Package: com.bandarhl.bhtwitter
+Version: 4.4-1
+Architecture: iphoneos-arm64e
+Maintainer: Bandar Alruwaili
+Installed-Size: 19120
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.bandarhl.bhtwitter_4.4-1_iphoneos-arm64e.deb
+Size: 7033236
+MD5sum: 3db87336785201e75e9574ff73553f47
+SHA1: 2e540a5ca7d160d4b993725ef6dc03e1f5dc56fb
+SHA256: 78fcd8f440fd8150516cccc2932cadf3cad0ea4dce6d811b0ee76903caa54c0a
+Section: Tweaks
+Description: Awesome tweak for Twitter
+Author: Bandar Alruwaili
+Name: BHTwitter
+
 Package: com.bousrih.violaWhite
 Version: 1.8
 Architecture: iphoneos-arm64e
@@ -346,6 +362,24 @@ Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/icon
 Name: ColorBar15
 Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/depiction.json
 
+Package: com.dvntm.ytlite
+Version: 5.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 16344
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.1_iphoneos-arm64e.deb
+Size: 6186590
+MD5sum: 82651ed53e457ad36a4f7cb9dc280118
+SHA1: 3e1e9c473276b5161846e5689f070b8c35b2f7e4
+SHA256: d1627149204fb332400df5725c8ba24bb6143e3f98babcfc8299a8b562e068d0
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
 Package: com.ethn.mirage
 Version: 1.9
 Architecture: iphoneos-arm64e
@@ -443,18 +477,18 @@ Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fior
 Name: CCBorder
 
 Package: com.fouadraheb.watusi3
-Version: 1.2.48
+Version: 1.2.49
 Architecture: iphoneos-arm64e
 Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6672
+Installed-Size: 6492
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.44)
-Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.wtspatch, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
-Filename: ./debs/com.fouadraheb.watusi3_1.2.48_iphoneos-arm64e.deb
-Size: 2391254
-MD5sum: bcad105fc23e04a97b3a639ccf6eb7a9
-SHA1: a49b90297e1ad0fc7907578d454c75eb279ef8e6
-SHA256: 2d1cfa14600374d0270414d6894a20918aab543bc465526be5de27dd8135471a
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.46)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch ,xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debs/com.fouadraheb.watusi3_1.2.49_iphoneos-arm64e.deb
+Size: 1926124
+MD5sum: 500dd651f1081241814df8516c6540a2
+SHA1: 30f983f6ce4fb59baa6b97b6354e1e5a57c6889d
+SHA256: 9e280cbbca8d97ae1f9b0fcc2575a163876a9230829f1835b3d5526eafbfd040
 Section: Tweaks
 Description: The all-in-one tweak for WhatsApp Messenger
 Author: Fouad Raheb <support@fouadraheb.com>

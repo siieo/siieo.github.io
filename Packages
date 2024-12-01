@@ -468,16 +468,16 @@ Author: Bandar Alruwaili
 Name: BHInsta
 
 Package: com.bandarhl.bhtwitter
-Version: 4.4
+Version: 4.4-1
 Architecture: iphoneos-arm64
 Maintainer: Bandar Alruwaili
-Installed-Size: 19052
+Installed-Size: 19120
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/com.bandarhl.bhtwitter_4.4_iphoneos-arm64.deb
-Size: 6942744
-MD5sum: 5f59c09d57feaac2277e7cc4b8ab30e4
-SHA1: d222c3657e1b5b0eb73400046b3d3223e0e713f8
-SHA256: 5473998a83c8b3e2f0dec6dac203b18cca5b797071464324fb460298dec61dda
+Filename: ./debs/com.bandarhl.bhtwitter_4.4-1_iphoneos-arm64.deb
+Size: 7041828
+MD5sum: e78c45f5a37b4e85178afd8dfcc70f79
+SHA1: f4975c3f37dbe84afbd07d24b44514355e968d45
+SHA256: 5bc8d1d81b8cfb48bb7227e569de9ca800eeee78d8033203551d3e27b1b5c865
 Section: Tweaks
 Description: Awesome tweak for Twitter
 Author: Bandar Alruwaili
@@ -570,22 +570,22 @@ Name: iPadSwitcher
 Sileodepiction: https://repo.packix.com/depictions/com.dpkg.ipadswitcher/depiction.json
 
 Package: com.dvntm.ytlite
-Version: 5.0.2
+Version: 5.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
-Installed-Size: 16140
+Installed-Size: 16344
 Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.ytlite_5.0.2_iphoneos-arm64.deb
-Size: 6099626
-MD5sum: 0e980aabb1450344e5c83059d4015d6c
-SHA1: 51a039c64fc396cb18bfa31be88087f140ee8616
-SHA256: 7fa04949c8c7bb0ab2181c47da8392c877d7a702cd871e8cccd7cab297e132e7
+Filename: ./debs/com.dvntm.ytlite_5.1_iphoneos-arm64.deb
+Size: 6184324
+MD5sum: c52f04bf97551c2f814532e2a0dfc1de
+SHA1: 97cabb0fdc9b84e91ced79f6cb9268ab7602d654
+SHA256: b03db1e019e49ad9c7bcf6594fc2b10ad64e65e36bd281c4f61499f254173313
 Section: Tweaks
 Description: Lightweight YouTube Enhancer
 Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
 Name: YTLite
-Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
 
 Package: com.ethn.mirage
 Version: 1.9
