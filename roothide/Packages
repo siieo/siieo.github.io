@@ -442,17 +442,17 @@ Name: Quicksand (iOS14)
 Sileodepiction: https://evynw.github.io/sileo/fontquicksand14.json
 
 Package: com.f0u4d.watusitools
-Version: 2.4.46
+Version: 2.4.47
 Architecture: iphoneos-arm64e
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
 Conflicts: org.mr.watusitools, com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47), org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921, xyz.cypwn.freegram951473, xyz.cypwn.freegram572029, xyz.cypwn.getfouaded, xyz.cypwn.wtspatch
-Filename: ./debs/com.f0u4d.watusitools_2.4.46_iphoneos-arm64e.deb
-Size: 4873644
-MD5sum: 062ebd62550db862f3e841d9316c63a5
-SHA1: bbfe4b0ece509c82c46acbd031affc9242839a6e
-SHA256: 7b75514f8db4406885778bc5e68f479301f169e8d1665a34899ea293ea82c82d
+Filename: ./debs/com.f0u4d.watusitools_2.4.47_iphoneos-arm64e.deb
+Size: 4874716
+MD5sum: ebac1cecf144e2abf9a287675e09f7d1
+SHA1: 1bfd736729a235ba758df1b7c7f9fd05ed897d6a
+SHA256: 93d4db1c61c4c5186bce833dc57af5be902bb13734a26e8b2b166726987d754d
 Section: Development
 Description: Library for Watusi, Regram and other tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -477,18 +477,18 @@ Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fior
 Name: CCBorder
 
 Package: com.fouadraheb.watusi3
-Version: 1.2.49
+Version: 1.2.50
 Architecture: iphoneos-arm64e
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6492
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.46)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.47)
 Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch ,xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
-Filename: ./debs/com.fouadraheb.watusi3_1.2.49_iphoneos-arm64e.deb
-Size: 1926124
-MD5sum: 500dd651f1081241814df8516c6540a2
-SHA1: 30f983f6ce4fb59baa6b97b6354e1e5a57c6889d
-SHA256: 9e280cbbca8d97ae1f9b0fcc2575a163876a9230829f1835b3d5526eafbfd040
+Filename: ./debs/com.fouadraheb.watusi3_1.2.50_iphoneos-arm64e.deb
+Size: 1928012
+MD5sum: 2e6119ef4e5c870d3221ada52e258586
+SHA1: 595a6d1c8c110259f274257e575bfb1d3aa5dbe5
+SHA256: 6db8f7be2bff68011ff8b3b7c22ecf671a6941f0455fbd099dedf044b325b9d4
 Section: Tweaks
 Description: The all-in-one tweak for WhatsApp Messenger
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -885,6 +885,21 @@ Description: Android Lockscreen
 Author: julioverne
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.lockdroid
 Name: LockDroid
+
+Package: com.lclrc.recordanywhere
+Version: 1.1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Muirey03 & lclrc
+Depends: mobilesubstrate
+Filename: ./debs/com.lclrc.recordanywhere_1.1.0-1_iphoneos-arm64e.deb
+Size: 4180
+MD5sum: 9bede24b0e7ea224fc81cdb90357bc8d
+SHA1: 72a51deac04c8fca8e5316378c8d8ed6b5b737b7
+SHA256: 5001d22310d2595da6bda5d94333483408697dd5b659755c27c1fd47bb1f335d
+Section: Tweaks
+Description: enable screen recorder always work even on lock screen
+Author: Muirey03 & lclrc
+Name: RecordAnywhere
 
 Package: com.miguelaka95.bettercc
 Version: 0.0.51
