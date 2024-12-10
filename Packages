@@ -3402,6 +3402,21 @@ Description: IMPORTANT: Make sure to use Dopamine 1.1 or Xinam1ne if you are usi
 Author: NoW4U2Kid
 Name: Xinamine Patcher
 
+Package: fix-preferences-path
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nezuko
+Filename: ./debs/fix-preferences-path.deb
+Size: 1080
+MD5sum: 217a5ae08d6b94172fe180d1cd942d8a
+SHA1: 15e21364e37abf0e9143385f6cecbca53f46d17b
+SHA256: 908619dcbab3ecc662fe7c41b9ca2d1b82fdc2e6471137df193471ec91f4164f
+Section: utils
+Priority: optional
+Description: Fixes the issue with the /var/jb/User path by creating a symlink to /var/jb/var/mobile.
+ This package is specifically designed for devices using the NathanLR jailbreak and resolves an issue affecting tweak preferences.
+Name: Fix Preferences Path Issue
+
 Package: gay.kota.basiccarrier
 Version: 1.0.0nya~
 Architecture: iphoneos-arm64
