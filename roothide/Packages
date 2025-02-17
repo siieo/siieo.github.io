@@ -442,17 +442,17 @@ Name: Quicksand (iOS14)
 Sileodepiction: https://evynw.github.io/sileo/fontquicksand14.json
 
 Package: com.f0u4d.watusitools
-Version: 2.4.47
+Version: 2.5.6
 Architecture: iphoneos-arm64e
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
-Conflicts: org.mr.watusitools, com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47), org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921, xyz.cypwn.freegram951473, xyz.cypwn.freegram572029, xyz.cypwn.getfouaded, xyz.cypwn.wtspatch
-Filename: ./debs/com.f0u4d.watusitools_2.4.47_iphoneos-arm64e.deb
-Size: 4874716
-MD5sum: ebac1cecf144e2abf9a287675e09f7d1
-SHA1: 1bfd736729a235ba758df1b7c7f9fd05ed897d6a
-SHA256: 93d4db1c61c4c5186bce833dc57af5be902bb13734a26e8b2b166726987d754d
+Conflicts: org.mr.watusitools, com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47), org.mr.watusi3, org.mr.watusi, org.mr.contactsync, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram572029, xyz.cypwn.getfouaded, xyz.cypwn.wtspatch
+Filename: ./debs/com.f0u4d.watusitools_2.5.6_iphoneos-arm64e.deb
+Size: 4633184
+MD5sum: 53c5db03aacd9654198e4e4be942b678
+SHA1: e2815749f411eab8edcb6ff2c9a7b9f8198d7f22
+SHA256: a16b1eb6d88568ecb0c9bda4585a3473b1cced5cf60278be2966f81d9a50513a
 Section: Development
 Description: Library for Watusi, Regram and other tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -477,18 +477,18 @@ Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fior
 Name: CCBorder
 
 Package: com.fouadraheb.watusi3
-Version: 1.2.50
+Version: 1.2.57
 Architecture: iphoneos-arm64e
 Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6492
+Installed-Size: 6388
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.47)
-Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch ,xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
-Filename: ./debs/com.fouadraheb.watusi3_1.2.50_iphoneos-arm64e.deb
-Size: 1928012
-MD5sum: 2e6119ef4e5c870d3221ada52e258586
-SHA1: 595a6d1c8c110259f274257e575bfb1d3aa5dbe5
-SHA256: 6db8f7be2bff68011ff8b3b7c22ecf671a6941f0455fbd099dedf044b325b9d4
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.6)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debs/com.fouadraheb.watusi3_1.2.57_iphoneos-arm64e.deb
+Size: 1906756
+MD5sum: 5ddd2ffcf70897715eed78e40fae64ef
+SHA1: 7c4b86adecb54e463554c82c0c50f6afa06eeae5
+SHA256: 5dd8d8a9b3019cf69c1f3f6e138e34eb22992ff3ead8be7e931013042244a69a
 Section: Tweaks
 Description: The all-in-one tweak for WhatsApp Messenger
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -2146,17 +2146,17 @@ Author: Nebula
 Name: modernOS
 
 Package: me.alfhaily.rocket
-Version: 3.8.21
+Version: 3.8.31
 Architecture: iphoneos-arm64e
 Maintainer: Rocket App <support@getrocketapp.io>
-Installed-Size: 6620
-Pre-Depends: rootless-compat(>= 0.1)
+Installed-Size: 6588
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/me.alfhaily.rocket_3.8.21_iphoneos-arm64e.deb
-Size: 615216
-MD5sum: a8e5fa0501b0c13f648c57700477a838
-SHA1: 5e0098678595f68023d4c24c6b5206a907973619
-SHA256: 3ad460294f62754ae36e45d80ef9e2f80df90be0947fe810eda8842d60be3853
+Filename: ./debs/me.alfhaily.rocket_3.8.31_iphoneos-arm64e.deb
+Size: 1412040
+MD5sum: 20d317b3687a996c6cc3d003c9eaf9de
+SHA1: 5754507455cb9a82b1a92febd8a3b95cc26b6324
+SHA256: fb26195efe950212cf9fd6965f510a6c46424f91540891de3636b10445f17f86
 Section: Tweaks
 Priority: optional
 Description: Save posts and view stories anonymously and do much more
