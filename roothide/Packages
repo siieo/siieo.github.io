@@ -1132,17 +1132,17 @@ Author: Nezuko
 Name: 3D Fluent Emojis
 
 Package: com.nezuko.emojinoto
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm64e
 Maintainer: Nezuko
 Depends: com.ps.emojifontmanager, com.ps.emojiportpe
-Filename: ./debs/com.nezuko.emojinoto_1.0_iphoneos-arm64e.deb
-Size: 35140232
-MD5sum: 6945c0b081d4903fe655207aa6d63245
-SHA1: ba5eb6d5f9e69bc4cc7312e1efbb9e6d54a2a172
-SHA256: dab6a884ab88fa6dd9c03f801b4f2b320d476ece55852f45f32c4ec5bbec8f06
+Filename: ./debs/com.nezuko.emojinoto_2.0_iphoneos-arm64e.deb
+Size: 39538880
+MD5sum: d9e88894d7f85caaa51230721437f43e
+SHA1: 3b496616772898ec2b98e2ab7f88a44342ccf0ed
+SHA256: c6cc9383ead12d4b690855f79151129e28fcb5e3a57c5095c0392d2d3d1743b7
 Section: Fonts
-Description: Noto Emojis
+Description: Noto Emojis Unicode 16.0
 Author: Nezuko
 Name: Noto Emojis
 
