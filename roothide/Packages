@@ -363,16 +363,16 @@ Name: ColorBar15
 Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/depiction.json
 
 Package: com.dvntm.ytlite
-Version: 5.1
+Version: 5.2b1
 Architecture: iphoneos-arm64e
 Maintainer: dvntm
-Installed-Size: 16344
+Installed-Size: 16252
 Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.ytlite_5.1_iphoneos-arm64e.deb
-Size: 6186590
-MD5sum: 82651ed53e457ad36a4f7cb9dc280118
-SHA1: 3e1e9c473276b5161846e5689f070b8c35b2f7e4
-SHA256: d1627149204fb332400df5725c8ba24bb6143e3f98babcfc8299a8b562e068d0
+Filename: ./debs/com.dvntm.ytlite_5.2b1_iphoneos-arm64e.deb
+Size: 6046010
+MD5sum: 1743ec109e89bea5ef27951876a6a74a
+SHA1: d9dc19ecf85128ad3434173c38fd72cb2f379114
+SHA256: 5ba5c41ad1cc29aad56b258abb78a177ffba5178ce494306e1be01c997f759e9
 Section: Tweaks
 Description: Lightweight YouTube Enhancer
 Author: dvntm
