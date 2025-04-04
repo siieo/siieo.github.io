@@ -2909,6 +2909,22 @@ Depiction: https://slyfabi.github.io/depictions/?p=com.slyfabi.blurryalerts
 Icon: file:///var/jb/Library/PreferenceBundles/BlurryAlerts.bundle/icon@3x.png
 Name: BlurryAlerts
 
+Package: com.thatmarcel.tweaks.lyrication
+Version: 2.5.1
+Architecture: iphoneos-arm64
+Maintainer: Marcel Braun
+Installed-Size: 1376
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.thatmarcel.tweaks.lyrication_2.5.1_iphoneos-arm64.deb
+Size: 98098
+MD5sum: 385353d24379a21c601b2eaf89919980
+SHA1: c16642aedd324b4efa4199744f1ac8e940210447
+SHA256: 52b799d9659167c65168fd193a5799cab667bc269964f122fb8f393c79baf2e7
+Section: Tweaks
+Description: Live Lyrics for music
+Author: Marcel Braun
+Name: Lyrication
+
 Package: com.thatmarcel.tweaks.writingwatcher
 Version: 1.0.1
 Architecture: iphoneos-arm64

@@ -1869,6 +1869,22 @@ Description: salmon sal the taffy pal
 Author: Steve Sarmiento <steve22sarmiento@gmail.com>
 Name: Taffy
 
+Package: com.thatmarcel.tweaks.lyrication
+Version: 2.5.1
+Architecture: iphoneos-arm64e
+Maintainer: Marcel Braun
+Installed-Size: 1376
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.thatmarcel.tweaks.lyrication_2.5.1_iphoneos-arm64e.deb
+Size: 98344
+MD5sum: 81ca83a6fea47fdaeb8dc2c5ddd7edef
+SHA1: 67db5701a6d4ee69a2b884314bf089aaded89db8
+SHA256: 99761d0690f9f38d7e24ca2f65106e298146b9bf86ce5029641562a58fb04e6f
+Section: Tweaks
+Description: Live Lyrics for music
+Author: Marcel Braun
+Name: Lyrication
+
 Package: com.thenatis.lollipop
 Version: 1.3
 Architecture: iphoneos-arm64e
