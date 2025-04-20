@@ -441,18 +441,38 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Quicksand (iOS14)
 Sileodepiction: https://evynw.github.io/sileo/fontquicksand14.json
 
+Package: com.f0u4d.onlinenotify
+Version: 3.4.15
+Architecture: iphoneos-arm64e
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 684
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.14)
+Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
+Filename: ./debs/com.f0u4d.onlinenotify_3.4.15_iphoneos-arm64e.deb
+Size: 184008
+MD5sum: 347e42c747a05c20c21f0a0b4a0b41a7
+SHA1: be5792ded6b06243decf3a08a2801372a1be2086
+SHA256: 2bbdb54425d16c69f3cf443eafeea402beed62729991d297fd74f102c6918930
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+Name: OnlineNotify
+
 Package: com.f0u4d.watusitools
-Version: 2.5.15
+Version: 2.5.16
 Architecture: iphoneos-arm64e
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
-Conflicts: org.mr.watusitools, com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47), org.mr.watusi3, org.mr.watusi, org.mr.contactsync, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram572029, xyz.cypwn.getfouaded, xyz.cypwn.wtspatch
-Filename: ./debs/com.f0u4d.watusitools_2.5.15_iphoneos-arm64e.deb
-Size: 4636288
-MD5sum: ca9de10e8a6d41d586442020872ff3c1
-SHA1: 016af2347cde422f9383f662d09d2ac4329b631b
-SHA256: 923f30c20deb08476d95c6460bdf51c830414fb2488880cd8cdb240f2c392280
+Conflicts: org.mr.watusitools, com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47), org.mr.watusi3, org.mr.watusi, org.mr.contactsync, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram572029, xyz.cypwn.getfouaded, xyz.cypwn.wtspatch
+Filename: ./debs/com.f0u4d.watusitools_2.5.16_iphoneos-arm64e.deb
+Size: 4718824
+MD5sum: 80cfd14b9e41d872b3383819931d953c
+SHA1: ecf7bc0492aa63bcf784aeaa6289e9e0d8c22fd4
+SHA256: 9ebb859c9cfe56292750f550f9c1e49b812e0daf1b5120dfe488b24cdce90a6a
 Section: Development
 Description: Library for Watusi, Regram and other tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -477,18 +497,18 @@ Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fior
 Name: CCBorder
 
 Package: com.fouadraheb.watusi3
-Version: 1.2.67
+Version: 1.2.68
 Architecture: iphoneos-arm64e
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6424
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.15)
 Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
-Filename: ./debs/com.fouadraheb.watusi3_1.2.67_iphoneos-arm64e.deb
-Size: 1915884
-MD5sum: 1a0f1312b5d54d67e282f545d49948bf
-SHA1: e1dda08ecd49bb90d27f35fde227986389eee1f2
-SHA256: 1b25eab0ceb0a6cd90e43a4501b548b42350c825fbe8e0d8b5158e36cbda3979
+Filename: ./debs/com.fouadraheb.watusi3_1.2.68_iphoneos-arm64e.deb
+Size: 1917080
+MD5sum: 395dc82ef50473933533e4cd957a4e23
+SHA1: 071547d1945941f28fa5072489b227aeacc607af
+SHA256: 0575a73157571f4558008d6698b1edbc00f795fe706005cb6570ec912578872f
 Section: Tweaks
 Description: The all-in-one tweak for WhatsApp Messenger
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -1475,6 +1495,27 @@ Section: Themes
 Description: Morandi - Pay tribute to my favorite painter
 Author: Rowandesign
 Name: Morandi
+
+Package: com.rpetrich.powercuff
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debs/com.rpetrich.powercuff_1.2_iphoneos-arm64e.deb
+Size: 13046
+MD5sum: b1df9ee6d502032009c62b5a7cf7d763
+SHA1: 3055292bfa9cf5a2706b3a9b1702931a08a3f0c6
+SHA256: 823f9d61c73c4571e7bde78797e8e60c61cc639b607abb3b299fec6bfb2d7b2e
+Section: Tweaks
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Depiction: http://rpetri.ch/cydia/powercuff/
+Dev: rpetrich
+Name: Powercuff
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.rpgfarm.a-font
 Version: 1.11~nezuko
