@@ -2201,6 +2201,24 @@ Description: Colorful, happy, modern.
 Author: Nebula
 Name: modernOS
 
+Package: love.litten.diary
+Version: 1.2.2
+Architecture: iphoneos-arm64e
+Maintainer: Litten
+Installed-Size: 5344
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo, love.litten.libkitten, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, se.nosskirneh.properlockgestures
+Filename: ./debs/love.litten.diary_1.2.2_iphoneos-arm64e.deb
+Size: 2716524
+MD5sum: d754990d40d98ddb2181abb2d2dc6e31
+SHA1: b414792c5a754cb0a8a834340cd32ee6bda24338
+SHA256: 12973872a435a50d6c4f976cae344a9c45569d632b001d7267b52834ef6fd3e9
+Section: Tweaks
+Description: Dear diary..
+Author: Litten
+Name: Diary 📖
+
 Package: me.alfhaily.rocket
 Version: 3.8.32
 Architecture: iphoneos-arm64e
