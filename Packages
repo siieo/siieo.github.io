@@ -2742,16 +2742,16 @@ Name: Limelight
 Sileodepiction: https://siieo.github.io/sileodepictions/Limelight/Limelight.json
 
 Package: com.rpetrich.powercuff
-Version: 1.0
+Version: 1.4
 Architecture: iphoneos-arm64
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 188
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./debs/com.rpetrich.powercuff_1.0_iphoneos-arm64.deb
-Size: 12810
-MD5sum: 65ca1ccc3c4519bbcce75f7678994393
-SHA1: 2ff62cb692ec7790b3557df03f02305c74ce0333
-SHA256: c52136cc7693f355ce6bb9a5cf8a7e86078897926b3aaa17540219a7316a6df6
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.rpetrich.powercuff_1.4_iphoneos-arm64.deb
+Size: 12666
+MD5sum: 91205bdf5a7693e5a49301e726917247
+SHA1: 96f591adca31f68f65698c8f6bfd66a7bcd9f8a4
+SHA256: b9050709ef01ceecc5c10e8da3bd54888f71addcf41dba400338f6c351883307
 Section: Tweaks
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states

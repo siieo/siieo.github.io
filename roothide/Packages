@@ -1497,16 +1497,16 @@ Author: Rowandesign
 Name: Morandi
 
 Package: com.rpetrich.powercuff
-Version: 1.2
+Version: 1.4
 Architecture: iphoneos-arm64e
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 188
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./debs/com.rpetrich.powercuff_1.2_iphoneos-arm64e.deb
-Size: 13046
-MD5sum: b1df9ee6d502032009c62b5a7cf7d763
-SHA1: 3055292bfa9cf5a2706b3a9b1702931a08a3f0c6
-SHA256: 823f9d61c73c4571e7bde78797e8e60c61cc639b607abb3b299fec6bfb2d7b2e
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.rpetrich.powercuff_1.4_iphoneos-arm64e.deb
+Size: 12582
+MD5sum: 259d41167b750edbc037d000ef5b0d7f
+SHA1: 0bdeac5d6625dba7f74624c6abdb7c9fea63294c
+SHA256: 80f92d867dac219ebdf0066e0e78832d6b36405b6e407fd28f193e5da44c406a
 Section: Tweaks
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
