@@ -2220,17 +2220,17 @@ Author: Litten
 Name: Diary 📖
 
 Package: me.alfhaily.rocket
-Version: 3.8.33
+Version: 3.8.34
 Architecture: iphoneos-arm64e
 Maintainer: Rocket App <support@getrocketapp.io>
-Installed-Size: 6620
+Installed-Size: 6684
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/me.alfhaily.rocket_3.8.33_iphoneos-arm64e.deb
-Size: 1415608
-MD5sum: 1626b99d09ec04ef12c88ab7c2c8bdac
-SHA1: d4f6b3470822891a6b984b68ea849802fd928ab8
-SHA256: b6fc1fdc8d04977b3ada587c7e5114b1b6a902ea9d6dee41267ef74c52b910a5
+Filename: ./debs/me.alfhaily.rocket_3.8.34_iphoneos-arm64e.deb
+Size: 1417652
+MD5sum: 113b0acc5cf2736f0ab4309b03de1130
+SHA1: fc8194d535eab3efeaed3b247be18ada2287041c
+SHA256: 83e2a2f428b5484f323d4b0e0c4242b9a51038a3db728598ac2edaddbbac3ca9
 Section: Tweaks
 Priority: optional
 Description: Save posts and view stories anonymously and do much more
