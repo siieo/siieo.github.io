@@ -462,17 +462,17 @@ Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNo
 Name: OnlineNotify
 
 Package: com.f0u4d.watusitools
-Version: 2.5.16
+Version: 2.5.18
 Architecture: iphoneos-arm64e
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
 Conflicts: org.mr.watusitools, com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47), org.mr.watusi3, org.mr.watusi, org.mr.contactsync, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram572029, xyz.cypwn.getfouaded, xyz.cypwn.wtspatch
-Filename: ./debs/com.f0u4d.watusitools_2.5.16_iphoneos-arm64e.deb
-Size: 4718824
-MD5sum: 80cfd14b9e41d872b3383819931d953c
-SHA1: ecf7bc0492aa63bcf784aeaa6289e9e0d8c22fd4
-SHA256: 9ebb859c9cfe56292750f550f9c1e49b812e0daf1b5120dfe488b24cdce90a6a
+Filename: ./debs/com.f0u4d.watusitools_2.5.18_iphoneos-arm64e.deb
+Size: 4818920
+MD5sum: cbd37213a79d447e2446ee8a5384344d
+SHA1: 83b2967a3411c71fcddee664e017cf82c81921cd
+SHA256: 5cca7e38cbe1fdd65065569654af86c3010d80c1fe5bcc279561be8472024377
 Section: Development
 Description: Library for Watusi, Regram and other tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -497,18 +497,18 @@ Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fior
 Name: CCBorder
 
 Package: com.fouadraheb.watusi3
-Version: 1.2.68
+Version: 1.2.69
 Architecture: iphoneos-arm64e
 Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6424
+Installed-Size: 6440
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.15)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.17)
 Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
-Filename: ./debs/com.fouadraheb.watusi3_1.2.68_iphoneos-arm64e.deb
-Size: 1917080
-MD5sum: 395dc82ef50473933533e4cd957a4e23
-SHA1: 071547d1945941f28fa5072489b227aeacc607af
-SHA256: 0575a73157571f4558008d6698b1edbc00f795fe706005cb6570ec912578872f
+Filename: ./debs/com.fouadraheb.watusi3_1.2.69_iphoneos-arm64e.deb
+Size: 1924676
+MD5sum: 2ee76e49e06de91135261390dce0f397
+SHA1: 335d16e21123cc7fe1716e942fa63043be82729b
+SHA256: 25b264d001ebb4f69805ca437aed72aea169b4114c40969e11edd8f3d88f13fd
 Section: Tweaks
 Description: The all-in-one tweak for WhatsApp Messenger
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -1704,20 +1704,20 @@ Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=Lo
 Name: LowBatteryBanner [Public]
 
 Package: com.spark.snowboard
-Version: 1.5.26-Beta4-rootless
+Version: 1.5.37-Beta4-rootless
 Architecture: iphoneos-arm64e
 Maintainer: Spark
-Installed-Size: 3236
-Pre-Depends: rootless-compat(>= 0.1)
+Installed-Size: 3268
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/com.spark.snowboard_1.5.26-Beta4-rootless_iphoneos-arm64e.deb
-Size: 1106888
-MD5sum: 751b25dc42429f1a7e2c81a4a186fc54
-SHA1: a66e23dc8c281700dc2458f554568c06350a6a60
-SHA256: d241dc6b9604cb35ceff4e8984e0409fe0af66e8b5c7d270b0fc44f6630786bf
+Filename: ./debs/com.spark.snowboard_1.5.37-Beta4-rootless_iphoneos-arm64e.deb
+Size: 1114600
+MD5sum: 7230264b2150a1555d11ec1bc3300497
+SHA1: 44f96d5768991e7d3bacb081343270993cb3e41d
+SHA256: 616c0e7a87e0c8af46f93e5eae344e1fe1be1efe14f4e81877e4bda16e62f852
 Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
