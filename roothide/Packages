@@ -10,6 +10,8 @@ SHA1: e1b571f9720bf8e92c22cd8b4d5d34a23221ccbd
 SHA256: 1eb8461483f51f7acb8d9e4aa14b0956f0d989c7799f078f779954fa9a74d9a7
 Section: Fonts
 Description: FluentUI Color version
+Depiction: https://poomsmart.github.io/repo/depictions/fluentuiefm.html
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/fluentuiefm.json
 Author: Nezuko
 Name: FluentUI Color
 
@@ -25,6 +27,8 @@ SHA1: 7a9c05ffbaa23a76ae95ac89aef0388d93198c77
 SHA256: ca9c313af5761b144832cd9340828d317a43de730b1f654f25e9707befad0230
 Section: Fonts
 Description: FluentUI Flat version
+Depiction: https://poomsmart.github.io/repo/depictions/fluentuiefm.html
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/fluentuiefm.json
 Author: Nezuko
 Name: FluentUI Flat
 
