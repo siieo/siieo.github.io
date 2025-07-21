@@ -9,7 +9,7 @@
 			"views": [
 				{
 					"class": "DepictionSubheaderView",
-					"title": "A translucent, glassy iOS icon theme inspired by Apple’s visionOS.",
+					"title": "A translucent, glassy iOS icon theme inspired by Apple's visionOS.",
 					"useBoldText": true
 				},
 				{
@@ -18,8 +18,7 @@
 					"itemSize": "{160, 346}",
 					"screenshots": [
 						{ "accessibilityText": "Screenshot", "url": "https://media.havoc.app/61fc704f57c005d8f998d4f1" },
-						{ "accessibilityText": "Screenshot", "url": "https://media.havoc.app/61fc705157c005d8f998d4f3" },
-						{ "accessibilityText": "Screenshot", "url": "https://media.havoc.app/61fc705557c005d8f998d4fb" }
+						{ "accessibilityText": "Screenshot", "url": "https://media.havoc.app/61fc705157c005d8f998d4f3" }
 					]
 				},
 				{ "class": "DepictionHeaderView", "title": "Description" },
@@ -27,16 +26,21 @@
 				{
 					"class": "DepictionMarkdownView",
 					"useSpacing": true,
-					"markdown": "**VisionOS** is a translucent, glassy iOS icon theme inspired by Apple’s visionOS aesthetic.\n\nDesigned for users who love minimalism and elegance. Every icon is crafted to maintain a futuristic and clean feel.\n\n- Smooth gradients and depth effects\n- Modern glass-like icon styling\n- Continuously updated and maintained by Hitori\n\n**Compatible with:**\n- SnowBoard\n- iOS 7 to 17\n\nTo preview the theme and updates, check out the [Sileo depiction](https://siieo.github.io/sileodepictions/Themes/VisionOS/VisionOS.json)."
+					"markdown": "**VisionOS** is a translucent, glassy iOS icon theme inspired by Apple’s visionOS design.\n\nCarefully crafted with minimalism and depth, it offers a modern look that blends perfectly with iOS.\n\nCompatible with SnowBoard and works on iOS 14–17."
 				},
 				{ "class": "DepictionHeaderView", "title": "Information" },
 				{ "class": "DepictionSeparatorView" },
-				{ "class": "DepictionTableTextView", "title": "Name", "text": "VisionOS" },
 				{ "class": "DepictionTableTextView", "title": "Version", "text": "3.5.1" },
-				{ "class": "DepictionTableTextView", "title": "Author", "text": "Lokki" },
+				{ "class": "DepictionTableTextView", "title": "Size", "text": "9.9 MB" },
+				{ "class": "DepictionTableTextView", "title": "Icons", "text": "2000" },
+				{ "class": "DepictionTableTextView", "title": "iOS Versions", "text": "All Versions" },
+				{ "class": "DepictionTableTextView", "title": "Updated", "text": "July 21, 2025" },
+				{ "class": "DepictionHeaderView", "title": "Seller" },
+				{ "class": "DepictionSeparatorView" },
 				{ "class": "DepictionSpacerView", "spacing": 15 },
 				{
 					"class": "DepictionStackView",
+					"tabname": "",
 					"xPadding": 15,
 					"views": [
 						{
@@ -61,6 +65,35 @@
 					]
 				},
 				{ "class": "DepictionSpacerView", "spacing": 15 }
+			]
+		},
+		{
+			"class": "DepictionStackView",
+			"tabname": "Changelog",
+			"views": [
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "3.5.1",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "February 4, 2022",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "More than 50 new icons\n\nSupport for Odyssey & the new Substitute icon\n\nFixes for the clock icon\n\nNEW Noir and Blanc modes with 1600 icons each"
+				}
 			]
 		}
 	]
