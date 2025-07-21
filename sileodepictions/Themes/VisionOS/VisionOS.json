@@ -1,0 +1,67 @@
+{
+	"class": "DepictionTabView",
+	"minVersion": "0.4",
+	"headerImage": "https://siieo.github.io/sileodepictions/Themes/VisionOS/banner.jpg",
+	"tabs": [
+		{
+			"class": "DepictionStackView",
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"title": "A translucent, glassy iOS icon theme inspired by Apple’s visionOS.",
+					"useBoldText": true
+				},
+				{
+					"class": "DepictionScreenshotsView",
+					"itemCornerRadius": 6,
+					"itemSize": "{160, 346}",
+					"screenshots": [
+						{ "accessibilityText": "Screenshot", "url": "https://media.havoc.app/61fc704f57c005d8f998d4f1" },
+						{ "accessibilityText": "Screenshot", "url": "https://media.havoc.app/61fc705157c005d8f998d4f3" },
+						{ "accessibilityText": "Screenshot", "url": "https://media.havoc.app/61fc705557c005d8f998d4fb" }
+					]
+				},
+				{ "class": "DepictionHeaderView", "title": "Description" },
+				{ "class": "DepictionSeparatorView" },
+				{
+					"class": "DepictionMarkdownView",
+					"useSpacing": true,
+					"markdown": "**VisionOS** is a translucent, glassy iOS icon theme inspired by Apple’s visionOS aesthetic.\n\nDesigned for users who love minimalism and elegance. Every icon is crafted to maintain a futuristic and clean feel.\n\n- Smooth gradients and depth effects\n- Modern glass-like icon styling\n- Continuously updated and maintained by Hitori\n\n**Compatible with:**\n- SnowBoard\n- iOS 7 to 17\n\nTo preview the theme and updates, check out the [Sileo depiction](https://siieo.github.io/sileodepictions/Themes/VisionOS/VisionOS.json)."
+				},
+				{ "class": "DepictionHeaderView", "title": "Information" },
+				{ "class": "DepictionSeparatorView" },
+				{ "class": "DepictionTableTextView", "title": "Name", "text": "VisionOS" },
+				{ "class": "DepictionTableTextView", "title": "Version", "text": "3.5.1" },
+				{ "class": "DepictionTableTextView", "title": "Author", "text": "Lokki" },
+				{ "class": "DepictionSpacerView", "spacing": 15 },
+				{
+					"class": "DepictionStackView",
+					"xPadding": 15,
+					"views": [
+						{
+							"class": "DepictionLayerView",
+							"views": [
+								{
+									"class": "DepictionLabelView",
+									"text": "Lokki",
+									"fontSize": 14,
+									"fontWeight": "semibold",
+									"margins": "{2, 32, 2, 15}"
+								},
+								{
+									"class": "DepictionImageView",
+									"URL": "https://siieo.github.io/sileodepictions/Themes/VisionOS/icon.png",
+									"width": 24,
+									"height": 24,
+									"cornerRadius": 4
+								}
+							]
+						}
+					]
+				},
+				{ "class": "DepictionSpacerView", "spacing": 15 }
+			]
+		}
+	]
+}

@@ -1757,6 +1757,22 @@ Description: Transparent Folder Closed/Opened
 Author: Hitori
 Name: TransparentFolder
 
+Package: com.hitori.visionos
+Version: 3.5.1
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Filename: ./debs/com.hitori.visionos_3.5.1_iphoneos-arm64.deb
+Size: 9918492
+MD5sum: 4313254ad29426d3875614c518c0ef0a
+SHA1: be3ebf549e9e1358a6801457e2a8a7cea8e7ed9f
+SHA256: 5e31a4985ca7844fb1fadabd188239b3dd870897b9710696ae26d61576c210a5
+Section: Themes
+Description: A translucent, glassy iOS icon theme inspired by Apple's visionOS.
+Author: Lokki
+Icon: https://siieo.github.io/sileodepictions/Themes/VisionOS/icon.png
+Name: VisionOS
+Sileodepiction: https://siieo.github.io/sileodepictions/Themes/VisionOS/VisionOS.json
+
 Package: com.ichitaso.autolockcc
 Version: 0.2
 Architecture: iphoneos-arm64
@@ -3532,16 +3548,16 @@ Author: Litten
 Name: Diary 📖
 
 Package: me.alfhaily.rocket
-Version: 3.8.34
+Version: 3.8.36
 Architecture: iphoneos-arm64
 Maintainer: Rocket App <support@getrocketapp.io>
 Installed-Size: 6684
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/me.alfhaily.rocket_3.8.34_iphoneos-arm64.deb
-Size: 1445132
-MD5sum: 299c61042efd25c09c4d1a1e0d18e85f
-SHA1: dbc59078f382b66da9dd757f0fec74b805a3b16d
-SHA256: 877a725f856c72810eaeccb5556e248cf6077cec24ec1cc56b98c34e0373c6e4
+Filename: ./debs/me.alfhaily.rocket_3.8.36_iphoneos-arm64.deb
+Size: 1447188
+MD5sum: 26166028bcaefb2b476fdd84cae822de
+SHA1: 67425013b3c6619116aaa385d8c2a3e832c80982
+SHA256: 9b8146a51e1f092cd3fd80b012dbfcc436421d134ffb720a1dab662bb3ca620b
 Section: Tweaks
 Priority: optional
 Description: Save posts and view stories anonymously and do much more

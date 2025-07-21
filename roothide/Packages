@@ -1,37 +1,3 @@
-Package: com.nezuko.emojifluentuicolor
-Version: 15.1
-Architecture: iphoneos-arm64e
-Maintainer: Nezuko
-Depends: com.ps.emojifontmanager
-Filename: ./debs/com.nezuko.emojifluentuicolor_15.1_iphoneos-arm64e.deb
-Size: 23209140
-MD5sum: 14e6366d0a766bff81b74d49a4a6905b
-SHA1: e1b571f9720bf8e92c22cd8b4d5d34a23221ccbd
-SHA256: 1eb8461483f51f7acb8d9e4aa14b0956f0d989c7799f078f779954fa9a74d9a7
-Section: Fonts
-Description: FluentUI Color version
-Depiction: https://poomsmart.github.io/repo/depictions/fluentuiefm.html
-Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/fluentuiefm.json
-Author: Nezuko
-Name: FluentUI Color
-
-Package: com.nezuko.emojifluentuiflat
-Version: 15.1
-Architecture: iphoneos-arm64e
-Maintainer: Nezuko
-Depends: com.ps.emojifontmanager
-Filename: ./debs/com.nezuko.emojifluentuiflat_15.1_iphoneos-arm64e.deb
-Size: 16269652
-MD5sum: 23b96cef2ecd6bceb568d7be21044148
-SHA1: 7a9c05ffbaa23a76ae95ac89aef0388d93198c77
-SHA256: ca9c313af5761b144832cd9340828d317a43de730b1f654f25e9707befad0230
-Section: Fonts
-Description: FluentUI Flat version
-Depiction: https://poomsmart.github.io/repo/depictions/fluentuiefm.html
-Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/fluentuiefm.json
-Author: Nezuko
-Name: FluentUI Flat
-
 Package: Flex3beta
 Version: 3~Beta98.2~nezuko
 Architecture: iphoneos-arm64e
@@ -476,18 +442,18 @@ Name: Quicksand (iOS14)
 Sileodepiction: https://evynw.github.io/sileo/fontquicksand14.json
 
 Package: com.f0u4d.onlinenotify
-Version: 3.4.15
+Version: 3.4.17
 Architecture: iphoneos-arm64e
 Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 684
+Installed-Size: 668
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.14)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.24)
 Conflicts: xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack
-Filename: ./debs/com.f0u4d.onlinenotify_3.4.15_iphoneos-arm64e.deb
-Size: 184008
-MD5sum: 347e42c747a05c20c21f0a0b4a0b41a7
-SHA1: be5792ded6b06243decf3a08a2801372a1be2086
-SHA256: 2bbdb54425d16c69f3cf443eafeea402beed62729991d297fd74f102c6918930
+Filename: ./debs/com.f0u4d.onlinenotify_3.4.17_iphoneos-arm64e.deb
+Size: 184468
+MD5sum: bfefa817311a7af339d60a7ee826e3e5
+SHA1: 455592d5cd7ea1dc64b0d293f54797918260006c
+SHA256: ed0394848474b99db73922b0e75738de4e99a88686e41d716576d961f513a499
 Section: Tweaks
 Description: Track your friends on WhatsApp Messenger!
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -496,19 +462,19 @@ Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNo
 Name: OnlineNotify
 
 Package: com.f0u4d.watusitools
-Version: 2.5.18
+Version: 2.5.27
 Architecture: iphoneos-arm64e
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
-Conflicts: org.mr.watusitools, com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47), org.mr.watusi3, org.mr.watusi, org.mr.contactsync, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram572029, xyz.cypwn.getfouaded, xyz.cypwn.wtspatch
-Filename: ./debs/com.f0u4d.watusitools_2.5.18_iphoneos-arm64e.deb
-Size: 4818920
-MD5sum: cbd37213a79d447e2446ee8a5384344d
-SHA1: 83b2967a3411c71fcddee664e017cf82c81921cd
-SHA256: 5cca7e38cbe1fdd65065569654af86c3010d80c1fe5bcc279561be8472024377
+Conflicts: com.f0u4d.stalky (<< 4.1.33), com.f0u4d.onlinenotify (<< 3.4.11), com.fouadraheb.contactsync (<< 1.1.13), com.fouadraheb.watusi3 (<< 1.2.47), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram572029, xyz.cypwn.getfouaded, xyz.cypwn.wtspatch
+Filename: ./debs/com.f0u4d.watusitools_2.5.27_iphoneos-arm64e.deb
+Size: 4873104
+MD5sum: 3113c75797adf562a15216b355cf1dce
+SHA1: a41588498bbb888e6c67b592caa1930a2de22614
+SHA256: 362460275a33e8ab14d4fa6aaa68fb2a784181f58c221d446c1c4ea30e2b8402
 Section: Development
-Description: Library for Watusi, Regram and other tweaks
+Description: Library for Watusi and other WhatsApp tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Name: WatusiTools
@@ -531,18 +497,18 @@ Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fior
 Name: CCBorder
 
 Package: com.fouadraheb.watusi3
-Version: 1.2.69
+Version: 1.2.78
 Architecture: iphoneos-arm64e
 Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6440
+Installed-Size: 6456
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.17)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.27)
 Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi, xyz.cypwn.wtspatch, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.onlinenotify, xyz.cypwn.stalky, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.fouackyou, xyz.cypwn.freegram, xyz.cypwn.freegram389628, xyz.cypwn.fouackoff104033, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
-Filename: ./debs/com.fouadraheb.watusi3_1.2.69_iphoneos-arm64e.deb
-Size: 1924676
-MD5sum: 2ee76e49e06de91135261390dce0f397
-SHA1: 335d16e21123cc7fe1716e942fa63043be82729b
-SHA256: 25b264d001ebb4f69805ca437aed72aea169b4114c40969e11edd8f3d88f13fd
+Filename: ./debs/com.fouadraheb.watusi3_1.2.78_iphoneos-arm64e.deb
+Size: 1927772
+MD5sum: 985401d8fc79f5609e2c5470e18c1fe2
+SHA1: 039f1208ffe844ecb873a46cf7af5900a522243a
+SHA256: 8f700e177f726503de6d39b8afba9296ed0f8e515b8a80724df8badadb900d41
 Section: Tweaks
 Description: The all-in-one tweak for WhatsApp Messenger
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -739,6 +705,22 @@ Section: Tweaks
 Description: Make the Quick Actions background on Lock Screen translucent
 Author: Hitori
 Name: TranslucentQuickAction
+
+Package: com.hitori.visionos
+Version: 3.5.1
+Architecture: iphoneos-arm64e
+Maintainer: Hitori
+Filename: ./debs/com.hitori.visionos_3.5.1_iphoneos-arm64e.deb
+Size: 9918224
+MD5sum: e5012c4b540caec110920244510f0d5b
+SHA1: f8410b0a25c54658a616c8c8f894a0194d97ba5f
+SHA256: 8df65a8e5d825ca24d4dada62db298a2c626e8f27cbef61bcdc77ed6e2efe4e9
+Section: Themes
+Description: A translucent, glassy iOS icon theme inspired by Apple's visionOS.
+Author: Lokki
+Icon: https://siieo.github.io/sileodepictions/Themes/VisionOS/icon.png
+Name: VisionOS
+Sileodepiction: https://siieo.github.io/sileodepictions/Themes/VisionOS/VisionOS.json
 
 Package: com.ichitaso.iconorder
 Version: 1.0.2
@@ -1185,6 +1167,36 @@ Description: 3D Fluent Emojis
 Author: Nezuko
 Name: 3D Fluent Emojis
 
+Package: com.nezuko.emojifluentuicolor
+Version: 15.1
+Architecture: iphoneos-arm64e
+Maintainer: Nezuko
+Depends: com.ps.emojifontmanager
+Filename: ./debs/com.nezuko.emojifluentuicolor_15.1_iphoneos-arm64e.deb
+Size: 23209140
+MD5sum: 14e6366d0a766bff81b74d49a4a6905b
+SHA1: e1b571f9720bf8e92c22cd8b4d5d34a23221ccbd
+SHA256: 1eb8461483f51f7acb8d9e4aa14b0956f0d989c7799f078f779954fa9a74d9a7
+Section: Fonts
+Description: FluentUI Color version
+Author: Nezuko
+Name: FluentUI Color
+
+Package: com.nezuko.emojifluentuiflat
+Version: 15.1
+Architecture: iphoneos-arm64e
+Maintainer: Nezuko
+Depends: com.ps.emojifontmanager
+Filename: ./debs/com.nezuko.emojifluentuiflat_15.1_iphoneos-arm64e.deb
+Size: 16269652
+MD5sum: 23b96cef2ecd6bceb568d7be21044148
+SHA1: 7a9c05ffbaa23a76ae95ac89aef0388d93198c77
+SHA256: ca9c313af5761b144832cd9340828d317a43de730b1f654f25e9707befad0230
+Section: Fonts
+Description: FluentUI Flat version
+Author: Nezuko
+Name: FluentUI Flat
+
 Package: com.nezuko.emojinoto
 Version: 2.0
 Architecture: iphoneos-arm64e
@@ -1300,6 +1312,24 @@ Author: NoisyFlake <support@noisyflake.com>
 Depiction: https://chariz.com/buy/velvet-2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Name: Velvet 2
+
+Package: com.opa334.choicy
+Version: 1.5.3-2
+Architecture: iphoneos-arm64e
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1136
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/com.opa334.choicy_1.5.3-2_iphoneos-arm64e.deb
+Size: 160920
+MD5sum: 330b465aacf92050b1c4d4e30a9f148f
+SHA1: eb7d1262b9a758ca6e26e03c2f624ebb3cd2d5db
+SHA256: c1b9b4d3828ceac30dd29a0a4c7e8842d12c5e22a683de655ffbcdf106d8efb6
+Section: Tweaks
+Description: Advanced Tweak Configuration!
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Name: Choicy
 
 Package: com.p2kdev.waqt
 Version: 1.3
@@ -2270,17 +2300,17 @@ Author: Litten
 Name: Diary 📖
 
 Package: me.alfhaily.rocket
-Version: 3.8.35
+Version: 3.8.36
 Architecture: iphoneos-arm64e
 Maintainer: Rocket App <support@getrocketapp.io>
 Installed-Size: 6684
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/me.alfhaily.rocket_3.8.35_iphoneos-arm64e.deb
-Size: 1416888
-MD5sum: 91e5313211cd5733974fd876b3eee61f
-SHA1: 52acff4b0b5661cea14b3ce1fc621cf0be6979c7
-SHA256: 9fcb2101a0619dd343f32026e89bda6bd96e7171c1dedf185fba7118b67684ea
+Filename: ./debs/me.alfhaily.rocket_3.8.36_iphoneos-arm64e.deb
+Size: 1421492
+MD5sum: ebb85ca5ae8114b86eb8e0d8f5efeb70
+SHA1: e6476ac4b4eb9998a3bbb23d885395cd60b1e597
+SHA256: 2fd0d637614906139f05d4ea16a2471f5270745bddd4152cf1770ae6ed870424
 Section: Tweaks
 Priority: optional
 Description: Save posts and view stories anonymously and do much more
