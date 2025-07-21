@@ -17,8 +17,7 @@
 					"itemCornerRadius": 6,
 					"itemSize": "{160, 346}",
 					"screenshots": [
-						{ "accessibilityText": "Screenshot", "url": "https://media.havoc.app/61fc704f57c005d8f998d4f1" },
-						{ "accessibilityText": "Screenshot", "url": "https://media.havoc.app/61fc705157c005d8f998d4f3" }
+						{ "accessibilityText": "Screenshot", "url": "https://siieo.github.io/sileodepictions/Themes/VisionOS/1.avif" }
 					]
 				},
 				{ "class": "DepictionHeaderView", "title": "Description" },
@@ -26,14 +25,14 @@
 				{
 					"class": "DepictionMarkdownView",
 					"useSpacing": true,
-					"markdown": "**VisionOS** is a translucent, glassy iOS icon theme inspired by Apple’s visionOS design.\n\nCarefully crafted with minimalism and depth, it offers a modern look that blends perfectly with iOS.\n\nCompatible with SnowBoard and works on iOS 14–17."
+					"markdown": "**VisionOS** is a translucent, glassy iOS icon theme inspired by Apple’s visionOS aesthetic.\n\nDesigned for users who love minimalism and elegance. Every icon is crafted to maintain a futuristic and clean feel.\n\n- Smooth gradients and depth effects\n- Modern glass-like icon styling\n- Continuously updated by Lokki\n\n**Compatible with:**\n- SnowBoard\n- iOS 14 to 18\n\nTo preview the theme and updates, check out the [VisionOS Icons](https://lokki.framer.website/l/vision)."
 				},
 				{ "class": "DepictionHeaderView", "title": "Information" },
 				{ "class": "DepictionSeparatorView" },
 				{ "class": "DepictionTableTextView", "title": "Version", "text": "3.5.1" },
 				{ "class": "DepictionTableTextView", "title": "Size", "text": "9.9 MB" },
 				{ "class": "DepictionTableTextView", "title": "Icons", "text": "2000" },
-				{ "class": "DepictionTableTextView", "title": "iOS Versions", "text": "All Versions" },
+				{ "class": "DepictionTableTextView", "title": "iOS Versions", "text": "14-18" },
 				{ "class": "DepictionTableTextView", "title": "Updated", "text": "July 21, 2025" },
 				{ "class": "DepictionHeaderView", "title": "Seller" },
 				{ "class": "DepictionSeparatorView" },
@@ -82,7 +81,7 @@
 						},
 						{
 							"class": "DepictionLabelView",
-							"text": "February 4, 2022",
+							"text": "July 21, 2025",
 							"fontWeight": "semibold",
 							"fontSize": 16,
 							"textColor": "#696969",
