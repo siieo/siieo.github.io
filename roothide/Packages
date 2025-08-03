@@ -1545,6 +1545,25 @@ Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
 Name: YouTube X
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
 
+Package: com.roothide.patcher
+Version: 2.1.2
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 2460
+Depends: firmware (>= 15.0), libxar1, ldid, file, dpkg, gawk, plutil(>= 0.2.2-1), uikittools(>= 2.1.6-4)
+Filename: ./debs/com.roothide.patcher_2.1.2_iphoneos-arm64e.deb
+Size: 892558
+MD5sum: 7c056a26907335510c1076e5bf48bc2a
+SHA1: e50b0230a54afce72d8d36fb31436f1159d4a892
+SHA256: eb85e557181545ec78a7a95deabe8f29b88c8c058ce22bcc3c7513988d128044
+Section: Utilities
+Description: patch rootless package to roothide, not work for all packages.
+Author: roothide
+Depiction: https://github.com/roothide/RootHidePatcher
+Icon: https://github.com/roothide/RootHidePatcher/blob/master/derootifier-2-modified.png?raw=true
+Name: RootHide Patcher
+Support: https://github.com/roothide/RootHidePatcher
+
 Package: com.rowandesign.morandi
 Version: 1.1.0
 Architecture: iphoneos-arm64e
